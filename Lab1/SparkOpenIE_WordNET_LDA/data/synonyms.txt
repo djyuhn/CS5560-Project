@@ -91,6 +91,7 @@ or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,ope
 herbal:cambric tea,cuppa,cupper,herb tea,herbal tea,ice tea,iced tea,sun tea,tisane
 exercise:Kegel exercises,Maundy,abuse,acting,activating,activation,actus reus,aid,anaerobic exercise,animation
 somatic:bodily,corporal,corporeal,physical
+
 article:Americana,above,afterpiece,anachronism,antiquity,arbitration clause,article of commerce,bed,block,book
 intended:attached,calculated,committed,conscious,deliberate,intentional,knowing,measured,motivated,planned
 identify:abstract,announce,apply,appreciate,assess,call,capitalise,capitalize,charge,come back
@@ -145,6 +146,7 @@ treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,ac
 prevent:avert,avoid,baffle,bilk,blank,block,blockade,cross,debar,defend
 recurrence:atavism,cycle,flashback,rematch,replay,return,reversion,sequence,throwback
 depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
+
 depressive:anorectic,anorexic,bleeder,bulimic,consumptive,convalescent,diabetic,dyspeptic,epileptic,haemophile
 disorder:Sturm und Drang,abnormalcy,abnormality,abocclusion,abruptio placentae,absolution,acapnia,acathexia,achlorhydria,acholia
 highly:extremely
@@ -279,6 +281,7 @@ help:abstain,accommodate,advance,aid,alleviate,assist,assuage,attend,attend to,a
 make:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abound,abstract,accelerate
 prevention:antagonism,averting,bar,complication,crushing,debarment,deterrence,disqualification,foiling,forestalling
 more:many,more than,much
+
 depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
 a:A,AB,ADP,AMP,ATP,B,C,D,E,F
 chronic:continuing,degenerative,inveterate,long,usual
@@ -329,6 +332,7 @@ are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
 have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
 fewer:few,less
 side:Eden,Edgeworth-Kuiper belt,English,ICU,Klein bottle,Kuiper belt,Mobius strip,Papua,Shangri-la,Sind
+
 a:A,AB,ADP,AMP,ATP,B,C,D,E,F
 common:average,coarse,communal,democratic,demotic,familiar,frequent,general,grassroots,inferior
 complication:Indian tick fever,Kawasaki disease,Kenya fever,Marseilles fever,Meniere's disease,absurd,acceptance,animal disease,antagonism,anthrax
@@ -391,6 +395,7 @@ risk:campaign,cause,chance,conditional probability,contingent probability,crapsh
 untreated:raw,unprocessed,unstained
 depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
 in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+
 effective:actual,competent,effectual,efficacious,efficient,existent,good,hard-hitting,impelling,impressive
 supported:based,braced,buttressed,dependent,gimbaled,pendant,pendent,subsidised,subsidized,supernatant
 cognitive:
@@ -402,6 +407,7 @@ adjunct:accompaniment,affiliate,ally,bedfellow,clause,co-worker,collaborator,col
 usual:accustomed,chronic,common,customary,familiar,habitual,inveterate,regular,wonted
 primary:basal,basic,capital,chief,direct,elemental,elementary,essential,first,first-string
 care:TLC,accompaniment,action,aid,air cover,angst,anxiousness,attention,baby sitting,babysitting
+
 a:A,AB,ADP,AMP,ATP,B,C,D,E,F
 relatively:comparatively
 common:average,coarse,communal,democratic,demotic,familiar,frequent,general,grassroots,inferior
@@ -461,6 +467,7 @@ medication:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,EMDA,Feosol,Fergon
 augmentation:accrual,accruement,accumulation,addition,advance,aggrandisement,aggrandizement,amplification,appreciation,concentration
 depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
 in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+
 affordable:cheap,inexpensive,low-cost,low-priced
 depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
 treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
@@ -510,6 +517,7 @@ depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated de
 treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
 in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
 routine:Bertillon system,CAD,DBMS,OS,act,alpha software,authoring language,benefit,beta software,bit
+
 recent:late,new,past
 increased:accrued,accumulated,augmented,elevated,enhanced,enlarged,exaggerated,hyperbolic,inflated,magnified
 use:Americanism,Anglicism,Britishism,Germanism,abuse,acting,activating,activation,actus reus,aid
@@ -526,8 +534,10 @@ not:non
 match:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,accelerate,acclimate,acclimatise
 level:A level,GCSE,General Certificate of Secondary Education,Klein bottle,Mobius strip,O level,SPF,acme,actinism,action
 illness:aeroembolism,affliction,ague,air embolism,amyloidosis,anuresis,anuria,bends,biliousness,caisson disease
+
 recommendation:admonition,aspect,character,character reference,compatibility,compliment,curability,curableness,dangerousness,directness
 on:along
 screening:Aertex,Canton flannel,Velcro,Viyella,aba,acrylic,acting out,alpaca,array,bagging
 depression:ALT,Depression,Dunkirk,EL,Great Depression,aboulia,abulia,agitated depression,agitation,altitude
 in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+

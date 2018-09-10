@@ -1,0 +1,40 @@
+[Lscala.Tuple2;@b16e202
+Total Word Count = 199
+WordNet Word Count =93
+
+[Lscala.Tuple2;@339a3670
+Total Word Count = 124
+WordNet Word Count =54
+
+[Lscala.Tuple2;@6cd5122d
+Total Word Count = 269
+WordNet Word Count =134
+
+[Lscala.Tuple2;@2c7a8af2
+Total Word Count = 92
+WordNet Word Count =50
+
+[Lscala.Tuple2;@10c07b8d
+Total Word Count = 134
+WordNet Word Count =62
+
+[Lscala.Tuple2;@720bf653
+Total Word Count = 20
+WordNet Word Count =11
+
+[Lscala.Tuple2;@360bc645
+Total Word Count = 129
+WordNet Word Count =59
+
+[Lscala.Tuple2;@4edef76c
+Total Word Count = 82
+WordNet Word Count =49
+
+[Lscala.Tuple2;@5d51e129
+Total Word Count = 34
+WordNet Word Count =16
+
+[Lscala.Tuple2;@70c53dbe
+Total Word Count = 17
+WordNet Word Count =5
+

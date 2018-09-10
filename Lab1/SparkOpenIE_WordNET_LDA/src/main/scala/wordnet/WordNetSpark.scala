@@ -35,16 +35,28 @@ object WordNetSpark {
       synarr
     })
 
-    val writer = new PrintWriter(new File("data/synonyms.txt"))
+    val syn_writer = new PrintWriter(new File("data/synonyms.txt"))
+    val word_ct_writer = new PrintWriter(new File("data/word_counts.txt"))
+
+    var abstract_count: Int = 0
     dd.collect().foreach(linesyn => {
+      var word_count: Int = 0
+      var wordnet_word_count: Int = 0
       linesyn.foreach(wordssyn => {
         if (wordssyn._2 != null) {
           println(wordssyn._1 + ":" + wordssyn._2.mkString(","))
-          writer.write(wordssyn._1 + ":" + wordssyn._2.mkString(","))
-          writer.write("\n")
+          syn_writer.write(wordssyn._1 + ":" + wordssyn._2.mkString(","))
+          syn_writer.write("\n")
+          wordnet_word_count += 1
         }
+        word_count += 1
       })
+      abstract_count += 1
+      syn_writer.write("\n")
+      word_ct_writer.write("Abstract " + abstract_count + "\nTotal Word Count = " + word_count + "\nWordNet Word Count = " + wordnet_word_count + "\n\n")
+      println("Abstract " + abstract_count + "\nTotal Word Count = " + word_count + "\nWordNet Word Count =" + wordnet_word_count + "\n\n")
     })
-    writer.close()
+    syn_writer.close()
+    word_ct_writer.close()
   }
 }
