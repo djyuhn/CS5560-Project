@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa75dd77-646e-4fcd-b1a3-7085742ba24a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_apple_AppleJavaExtensions_1_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_carrotsearch_hppc_0_7_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_chuusai_shapeless_2_11_2_3_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_7_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_github_fommil_netlib_core_1_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_github_luben_zstd_jni_1_3_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_github_rwl_jtransforms_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_github_scopt_scopt_2_10_3_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_code_gson_gson_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_guava_guava_11_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_protobuf_protobuf_java_3_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_googlecode_efficient_java_matrix_library_ejml_0_23_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_googlecode_json_simple_json_simple_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_io7m_xom_xom_1_2_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_jamesmurty_utils_java_xmlbuilder_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_twitter_chill_java_0_8_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_univocity_univocity_parsers_2_5_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_vlkan_flatbuffers_1_2_0_3f79e055_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_codec_commons_codec_1_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_collections_commons_collections_3_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_lang_commons_lang_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__de_jollyday_jollyday_0_4_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_9_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_9_1_models_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__edu_stanford_nlp_stanford_parser_3_9_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_airlift_aircompressor_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_netty_netty_3_9_9_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_netty_netty_all_4_1_17_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_activation_activation_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__joda_time_joda_time_2_9_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_iharder_base64_2_3_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_9_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_sf_opencsv_opencsv_2_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_sourceforge_f2j_arpack_combined_all_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_arrow_arrow_format_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_arrow_arrow_memory_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_arrow_arrow_vector_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_curator_curator_client_2_6_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_curator_curator_framework_2_6_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_6_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_directory_api_api_asn1_api_1_0_0_M20_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_directory_api_api_util_1_0_0_M20_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_directory_server_apacheds_i18n_2_0_0_M15_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_analyzers_common_4_10_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_core_4_10_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_queries_4_10_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_queryparser_4_10_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_sandbox_4_10_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_orc_orc_core_1_4_4_nohive_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_orc_orc_mapreduce_1_4_4_nohive_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_graphx_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_kvstore_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_mllib_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_mllib_local_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_bouncycastle_bcprov_jdk15on_1_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jackson_jackson_jaxrs_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jackson_jackson_xc_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jettison_jettison_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_javax_json_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_htrace_htrace_core_3_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_lz4_lz4_java_1_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_scalap_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scalanlp_breeze_2_11_0_13_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scalanlp_breeze_macros_2_11_0_13_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_spire_math_spire_2_11_0_13_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_spire_math_spire_macros_2_11_0_13_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_typelevel_machinist_2_11_0_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_typelevel_macro_compat_2_11_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__xalan_xalan_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__xerces_xercesImpl_2_9_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__xml_apis_xml_apis_1_3_04_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/modules/sparkopenie_wordnet_lda-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/modules/sparkopenie_wordnet_lda-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/modules/sparkopenie_wordnet_lda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/modules/SparkOpenIE_WordNET_LDA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$21cf8667025f4e3a5e8e$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$21cf8667025f4e3a5e8e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$21cf8667025f4e3a5e8e$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$21cf8667025f4e3a5e8e$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$21cf8667025f4e3a5e8e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$21cf8667025f4e3a5e8e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$3b0d3042d3150a8e3ec5$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$3b0d3042d3150a8e3ec5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$3b0d3042d3150a8e3ec5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$6dea30148b52020e7231$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$6dea30148b52020e7231$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$6dea30148b52020e7231.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$a6fbaa623cb3eb01d15f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$a6fbaa623cb3eb01d15f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$a6fbaa623cb3eb01d15f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$b37ccfeaaa4f9ca7bc44$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$b37ccfeaaa4f9ca7bc44$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/config-classes/$b37ccfeaaa4f9ca7bc44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/default/sparkopenie_wordnet_lda-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/default/sparkopenie_wordnet_lda-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/default/sparkopenie_wordnet_lda-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/default/sparkopenie_wordnet_lda-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/src/main/scala/wordnet/WordNetSpark.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/src/main/scala/wordnet/WordNetSpark.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sbt_2.10-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sbt_2.10-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.10-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.10-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/concept5/conceptNet5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/wordnet/WordNetSpark$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/wordnet/WordNetSpark$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/wordnet/WordNetSpark$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/wordnet/WordNetSpark$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/wordnet/WordNetSpark$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/wordnet/WordNetSpark$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/wordnet/WordNetSpark.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/wordnet/WordNetSpark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2097243665">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="382" />
+          <entry key="txt" value="17" />
+          <entry key="xml" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="382" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="XML" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="txt" value="9" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pubmedabstract/XMLReaderForAbstracts4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="63" column="43" lean-forward="true" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_depression_treatment_abstracts/abstracts.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pubmedabstract/RetrieveAbstracts3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-54">
+              <caret line="43" column="150" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="150" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>httpurlconn</find>
+      <find>httpurlc</find>
+      <find>output</find>
+      <find>employee</find>
+      <find>abstracttext</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\dev\CS5560-ICP\KDM-ICP3\Retrieve_abstract\src\pubmedabstract</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pubmedpaper/MainRetriveFromIDs1.java" />
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/src/pubmedabstract/IDRetrivalFromXML2.java" />
+        <option value="$PROJECT_DIR$/src/pubmedabstract/MainRetriveFromIDs1.java" />
+        <option value="$PROJECT_DIR$/depression_treatment_abstracts/ids.xml" />
+        <option value="$PROJECT_DIR$/src/pubmedabstract/RetrieveAbstracts3.java" />
+        <option value="$PROJECT_DIR$/depression_treatment_abstracts/ids.txt" />
+        <option value="$PROJECT_DIR$/src/pubmedabstract/XMLReaderForAbstracts4.java" />
+        <option value="$PROJECT_DIR$/new_depression_treatment_abstracts/abstracts.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Retrieve_abstract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Retrieve_abstract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Retrieve_abstract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Retrieve_abstract" type="462c0819:PsiDirectoryNode" />
+              <item name="depression_treatment_abstracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Retrieve_abstract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Retrieve_abstract" type="462c0819:PsiDirectoryNode" />
+              <item name="new_depression_treatment_abstracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Retrieve_abstract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Retrieve_abstract" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Retrieve_abstract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Retrieve_abstract" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pubmedabstract" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536165585328" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pubmedpaper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\CS5560-ICP\KDM-ICP3\Retrieve_abstract" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.XMLReaderForAbstracts4">
+    <configuration name="IDRetrivalFromXML2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pubmedabstract.IDRetrivalFromXML2" />
+      <module name="Retrive_abstract" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pubmedabstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRetriveFromIDs1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pubmedabstract.MainRetriveFromIDs1" />
+      <module name="Retrive_abstract" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pubmedabstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetrieveAbstracts3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pubmedabstract.RetrieveAbstracts3" />
+      <module name="Retrive_abstract" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pubmedabstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XMLReaderForAbstracts4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pubmedabstract.XMLReaderForAbstracts4" />
+      <module name="Retrive_abstract" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pubmedabstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainRetriveFromIDs1" />
+      <item itemvalue="Application.IDRetrivalFromXML2" />
+      <item itemvalue="Application.RetrieveAbstracts3" />
+      <item itemvalue="Application.XMLReaderForAbstracts4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XMLReaderForAbstracts4" />
+        <item itemvalue="Application.RetrieveAbstracts3" />
+        <item itemvalue="Application.MainRetriveFromIDs1" />
+        <item itemvalue="Application.IDRetrivalFromXML2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa75dd77-646e-4fcd-b1a3-7085742ba24a" name="Default" comment="" />
+      <created>1535647627829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535647627829</updated>
+      <workItem from="1535647632999" duration="1628000" />
+      <workItem from="1535651957618" duration="1141000" />
+      <workItem from="1536155658756" duration="10025000" />
+      <workItem from="1536257556745" duration="37000" />
+      <workItem from="1536283827560" duration="1775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14606000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23036253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874617" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27828747" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="SBT Execute" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SBT Console" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/XMLReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pubmedpaper/MainRetriveFromIDs1.java" />
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" selection-start-column="10" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/depression_treatment_abstract/ids.xml" />
+    <entry file="file://$PROJECT_DIR$/new_depression_treatment_abstracts/ids.xml" />
+    <entry file="file://$PROJECT_DIR$/src/pubmedabstract/MainRetriveFromIDs1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="23" column="145" selection-start-line="23" selection-start-column="145" selection-end-line="23" selection-end-column="145" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_depression_treatment_abstracts/j.xml" />
+    <entry file="file://$PROJECT_DIR$/src/pubmedabstract/IDRetrivalFromXML2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depression_treatment_abstracts/ids.xml" />
+    <entry file="file://$PROJECT_DIR$/depression_treatment_abstracts/ids.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_depression_treatment_abstracts/abstracts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret column="453" selection-start-column="453" selection-end-column="453" />
+          <folding>
+            <element signature="e#3026#3032#0" expanded="true" />
+            <element signature="e#3039#3045#0" expanded="true" />
+            <element signature="e#59525#59530#0" expanded="true" />
+            <element signature="e#59791#59796#0" expanded="true" />
+            <element signature="e#97068#97074#0" expanded="true" />
+            <element signature="e#97091#97097#0" expanded="true" />
+            <element signature="e#144764#144770#0" expanded="true" />
+            <element signature="e#144777#144783#0" expanded="true" />
+            <element signature="e#177537#177541#0" expanded="true" />
+            <element signature="e#177601#177605#0" expanded="true" />
+            <element signature="e#177722#177726#0" expanded="true" />
+            <element signature="e#177805#177809#0" expanded="true" />
+            <element signature="e#177874#177878#0" expanded="true" />
+            <element signature="e#179444#179449#0" expanded="true" />
+            <element signature="e#182750#182755#0" expanded="true" />
+            <element signature="e#183293#183298#0" expanded="true" />
+            <element signature="e#184686#184691#0" expanded="true" />
+            <element signature="e#184937#184942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_depression_treatment_abstracts/abstracts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pubmedabstract/RetrieveAbstracts3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="43" column="150" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="150" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pubmedabstract/XMLReaderForAbstracts4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="63" column="43" lean-forward="true" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
