@@ -2,470 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0507a989-2ae7-4cc7-943f-956f0ad8826c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__asm_asm_3_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_clearspring_analytics_stream_2_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_esotericsoftware_kryo_kryo_2_21_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_esotericsoftware_minlog_minlog_1_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_esotericsoftware_reflectasm_reflectasm_1_07_shaded_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_fasterxml_jackson_core_jackson_annotations_2_4_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_fasterxml_jackson_core_jackson_core_2_4_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_fasterxml_jackson_core_jackson_databind_2_4_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_github_fommil_jniloader_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_github_fommil_netlib_core_1_1_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_github_fommil_netlib_native_ref_java_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_github_fommil_netlib_native_system_java_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_github_rwl_jtransforms_2_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_github_scopt_scopt_2_11_3_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_google_code_findbugs_jsr305_1_3_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_google_guava_guava_14_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_google_inject_guice_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_google_protobuf_protobuf_java_2_5_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_googlecode_efficient_java_matrix_library_ejml_0_23_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_io7m_xom_xom_1_2_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_ning_compress_lzf_1_0_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_sun_istack_istack_commons_runtime_2_16_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_sun_jersey_contribs_jersey_guice_1_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_sun_jersey_jersey_core_1_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_sun_jersey_jersey_json_1_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_sun_jersey_jersey_server_1_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_sun_xml_bind_jaxb_core_2_2_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_sun_xml_bind_jaxb_impl_2_2_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_sun_xml_fastinfoset_FastInfoset_1_2_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_chill_2_11_0_5_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_chill_java_0_5_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_parquet_column_1_6_0rc3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_parquet_common_1_6_0rc3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_parquet_encoding_1_6_0rc3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_parquet_format_2_2_0_rc1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_parquet_generator_1_6_0rc3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_parquet_hadoop_1_6_0rc3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_twitter_parquet_jackson_1_6_0rc3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_typesafe_config_1_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_typesafe_play_play_datacommons_2_10_2_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_typesafe_play_play_functional_2_10_2_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_typesafe_play_play_iteratees_2_10_2_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__com_typesafe_play_play_json_2_10_2_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_beanutils_commons_beanutils_1_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_cli_commons_cli_1_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_codec_commons_codec_1_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_collections_commons_collections_3_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_configuration_commons_configuration_1_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_digester_commons_digester_1_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_httpclient_commons_httpclient_3_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_io_commons_io_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_lang_commons_lang_2_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_logging_commons_logging_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__commons_net_commons_net_3_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__de_jollyday_jollyday_0_4_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__edu_stanford_nlp_stanford_corenlp_3_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__edu_stanford_nlp_stanford_corenlp_3_3_0_models_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__io_dropwizard_metrics_metrics_core_3_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__io_dropwizard_metrics_metrics_graphite_3_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__io_dropwizard_metrics_metrics_json_3_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__io_dropwizard_metrics_metrics_jvm_3_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__io_netty_netty_3_8_0_Final_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__io_netty_netty_all_4_0_23_Final_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__javax_xml_bind_jaxb_api_2_2_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__javax_xml_bind_jsr173_api_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__jline_jline_0_9_94_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__joda_time_joda_time_2_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__log4j_log4j_1_2_17_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__net_jpountz_lz4_lz4_1_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__net_razorvine_pyrolite_4_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__net_sf_opencsv_opencsv_2_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__net_sf_py4j_py4j_0_8_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__net_sourceforge_f2j_arpack_combined_all_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_avro_avro_1_7_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_commons_commons_compress_1_4_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_commons_commons_lang3_3_3_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_commons_commons_math3_3_4_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_commons_commons_math_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_curator_curator_client_2_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_curator_curator_framework_2_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_curator_curator_recipes_2_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_ivy_ivy_2_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_mesos_mesos_0_21_1_shaded_protobuf_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_catalyst_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_core_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_graphx_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_launcher_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_mllib_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_network_common_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_network_shuffle_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_sql_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_streaming_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_streaming_twitter_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_spark_spark_unsafe_2_11_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_codehaus_jackson_jackson_core_asl_1_9_11_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_codehaus_jackson_jackson_jaxrs_1_8_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_codehaus_jackson_jackson_mapper_asl_1_9_11_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_codehaus_jackson_jackson_xc_1_8_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_codehaus_jettison_jettison_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_eclipse_jetty_jetty_client_8_1_14_v20131031_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_eclipse_jetty_jetty_http_8_1_14_v20131031_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_eclipse_jetty_jetty_io_8_1_14_v20131031_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_eclipse_jetty_jetty_util_8_1_14_v20131031_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_elasticsearch_elasticsearch_hadoop_mr_2_0_0_RC1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_joda_joda_convert_1_3_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_jodd_jodd_core_3_6_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_jpmml_pmml_agent_1_1_15_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_jpmml_pmml_model_1_1_15_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_jpmml_pmml_schema_1_1_15_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_json4s_json4s_ast_2_11_3_2_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_json4s_json4s_core_2_11_3_2_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_json4s_json4s_jackson_2_11_3_2_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_objenesis_objenesis_1_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_roaringbitmap_RoaringBitmap_0_4_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scala_lang_scala_compiler_2_11_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scala_lang_scalap_2_11_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scala_stm_scala_stm_2_10_0_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scalaj_scalaj_http_2_11_1_1_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scalanlp_breeze_2_11_0_11_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scalanlp_breeze_macros_2_11_0_11_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_slf4j_jcl_over_slf4j_1_7_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_slf4j_jul_to_slf4j_1_7_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_slf4j_slf4j_api_1_7_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_slf4j_slf4j_log4j12_1_7_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_spark_project_akka_akka_actor_2_11_2_3_4_spark_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_spark_project_akka_akka_remote_2_11_2_3_4_spark_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_spark_project_akka_akka_slf4j_2_11_2_3_4_spark_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_spark_project_protobuf_protobuf_java_2_5_0_spark_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_spark_project_spark_unused_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_spire_math_spire_2_11_0_7_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_spire_math_spire_macros_2_11_0_7_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_tachyonproject_tachyon_0_6_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_tachyonproject_tachyon_client_0_6_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_tukaani_xz_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_twitter4j_twitter4j_core_3_0_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_twitter4j_twitter4j_stream_3_0_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_uncommons_maths_uncommons_maths_1_2_2a_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__org_xerial_snappy_snappy_java_1_1_1_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__oro_oro_2_0_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__stax_stax_api_1_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__xalan_xalan_2_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__xerces_xercesImpl_2_8_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__xml_apis_xml_apis_1_3_03_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/libraries/SBT__xmlenc_xmlenc_0_52_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/modules/sentimentanalysiscorenlp-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/modules/sentimentanalysiscorenlp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/plugins.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/project/target/config-classes/$58692c55d66d2e877c90$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/project/target/config-classes/$58692c55d66d2e877c90$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/project/target/config-classes/$58692c55d66d2e877c90.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$5766c2384d8c1b703ac7$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$5766c2384d8c1b703ac7$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$5766c2384d8c1b703ac7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$78320d507a322c118452$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$78320d507a322c118452$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$78320d507a322c118452.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$c4a049b9489cc24fa21c$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$c4a049b9489cc24fa21c$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$c4a049b9489cc24fa21c.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$ff573a1d113b77429663$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$ff573a1d113b77429663$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/config-classes/$ff573a1d113b77429663.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/default/sentimentanalysiscorenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/default/sentimentanalysiscorenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/default-sentimentanalysiscorenlp-build-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/ivy-report.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/src/main/java/SentimentAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/src/main/java/TweetWithSentiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/src/main/scala/MainClass.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SentimentAnalysisCoreNLP/target/.history" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_apple_AppleJavaExtensions_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_protobuf_protobuf_java_3_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_googlecode_efficient_java_matrix_library_ejml_0_23_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_io7m_xom_xom_1_2_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__de_jollyday_jollyday_0_4_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_9_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_9_1_models_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__edu_stanford_nlp_stanford_parser_3_9_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__joda_time_joda_time_2_9_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_3_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_lucene_lucene_analyzers_common_4_10_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_lucene_lucene_core_4_10_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_lucene_lucene_queries_4_10_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_lucene_lucene_queryparser_4_10_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_lucene_lucene_sandbox_4_10_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_javax_json_1_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xalan_xalan_2_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xerces_xercesImpl_2_8_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xml_apis_xml_apis_1_3_03_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Tutorial-3-CoreNLP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/tutorial-2-corenlp-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/tutorial-2-corenlp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc$$anonfun$$sbtdef$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-3-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-3-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-3-corenlp-build-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleCoreNLP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/default/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/default/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/default/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/default/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/default/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/default/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp$sbt_2.11-default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp$sources_2.11-default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tutorial-3-corenlp_2.11-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.11/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.11/classes/SimpleCoreNLP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/ssExtractDependencies/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../KDM-ICP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KDM-ICP1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NCBO_BioNLP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NCBO_BioNLP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/data/triplets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/data/triplets.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sbt_2.10-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sbt_2.10-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.10-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.10-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="Tutorial-3-CoreNLP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -525,6 +180,14 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1196027124">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Tutorial-3-CoreNLP" />
@@ -534,8 +197,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="28" column="352" lean-forward="true" selection-start-line="28" selection-start-column="352" selection-end-line="28" selection-end-column="454" />
+            <state relative-caret-position="159">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -641,8 +304,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -883,11 +546,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="tutorial-2-corenlp [file:/C:/dev/CS5560-ICP/KDM-ICP2/Tutorial-2-CoreNLP/]" />
+                <option name="name" value="tutorial-2-corenlp [file:/C:/dev/CS5560-Lab/Lab1/Tutorial-2-CoreNLP/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="tutorial-2-corenlp-build [file:/C:/dev/CS5560-ICP/KDM-ICP2/Tutorial-2-CoreNLP/]" />
+                <option name="name" value="tutorial-2-corenlp-build [file:/C:/dev/CS5560-Lab/Lab1/Tutorial-2-CoreNLP/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -926,16 +589,18 @@
       <workItem from="1535237440784" duration="87000" />
       <workItem from="1535657944375" duration="2295000" />
       <workItem from="1535660338236" duration="2247000" />
+      <workItem from="1536610439628" duration="311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6034000" />
+    <option name="totallyTimeSpent" value="6345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22205438" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22507553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -1008,8 +673,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/concept5/conceptNet5.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="28" column="352" lean-forward="true" selection-start-line="28" selection-start-column="352" selection-end-line="28" selection-end-column="454" />
+        <state relative-caret-position="159">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

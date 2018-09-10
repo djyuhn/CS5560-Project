@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="runtime"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180830152008"/>
+		date="20180910151446"/>
 	<dependencies>
 		<module organisation="edu.stanford.nlp" name="stanford-parser">
 			<revision name="3.9.1" status="release" pubdate="20180301235227" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://nlp.stanford.edu/software/lex-parser.html" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="19">
@@ -68,8 +68,9 @@
 			</revision>
 		</module>
 		<module organisation="org.glassfish" name="javax.json">
-			<revision name="1.0.4" status="release" pubdate="20131118135343" resolver="public" artresolver="public" homepage="http://jsonp.java.net" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="16">
-				<metadata-artifact status="successful" details="" size="9232" time="203" location="C:\Users\djyuh\.ivy2\cache\org.glassfish\javax.json\ivy-1.0.4.xml" searched="true" original-local-location="C:\Users\djyuh\.ivy2\cache\org.glassfish\javax.json\ivy-1.0.4.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom"/>
+			<revision name="1.0.4" status="release" pubdate="20131118135343" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jsonp.java.net" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="16">
+				<license name="                 Dual license consisting of the CDDL v1.1 and GPL v2             " url="https://glassfish.java.net/public/CDDL+GPL_1_1.html"/>
+				<metadata-artifact status="no" details="" size="5447" time="0" location="C:\Users\djyuh\.ivy2\cache\org.glassfish\javax.json\ivy-1.0.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom"/>
 				<caller organisation="tutorial-3-corenlp" name="tutorial-3-corenlp$sources_2.11" conf="compile, runtime" rev="1.0.4" rev-constraint-default="1.0.4" rev-constraint-dynamic="1.0.4" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="javax.json" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="105126" time="0" location="C:\Users\djyuh\.ivy2\cache\org.glassfish\javax.json\srcs\javax.json-1.0.4-sources.jar">
@@ -170,8 +171,9 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.lucene" name="lucene-analyzers-common">
-			<revision name="4.10.3" status="release" pubdate="20141220113154" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="9">
-				<metadata-artifact status="successful" details="" size="3027" time="235" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-analyzers-common\ivy-4.10.3.xml" searched="true" original-local-location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-analyzers-common\ivy-4.10.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-analyzers-common/4.10.3/lucene-analyzers-common-4.10.3.pom"/>
+			<revision name="4.10.3" status="release" pubdate="20141220113154" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="9">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="333828" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-analyzers-common\ivy-4.10.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-analyzers-common/4.10.3/lucene-analyzers-common-4.10.3.pom"/>
 				<caller organisation="tutorial-3-corenlp" name="tutorial-3-corenlp$sources_2.11" conf="compile, runtime" rev="4.10.3" rev-constraint-default="4.10.3" rev-constraint-dynamic="4.10.3" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="lucene-analyzers-common" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1727885" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-analyzers-common\srcs\lucene-analyzers-common-4.10.3-sources.jar">
@@ -184,8 +186,9 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.lucene" name="lucene-queryparser">
-			<revision name="4.10.3" status="release" pubdate="20141220113053" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="5">
-				<metadata-artifact status="successful" details="" size="5156" time="312" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-queryparser\ivy-4.10.3.xml" searched="true" original-local-location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-queryparser\ivy-4.10.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-queryparser/4.10.3/lucene-queryparser-4.10.3.pom"/>
+			<revision name="4.10.3" status="release" pubdate="20141220113053" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="5">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="334516" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-queryparser\ivy-4.10.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-queryparser/4.10.3/lucene-queryparser-4.10.3.pom"/>
 				<caller organisation="tutorial-3-corenlp" name="tutorial-3-corenlp$sources_2.11" conf="compile, runtime" rev="4.10.3" rev-constraint-default="4.10.3" rev-constraint-dynamic="4.10.3" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="lucene-queryparser" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="405133" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-queryparser\srcs\lucene-queryparser-4.10.3-sources.jar">
@@ -198,8 +201,9 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.lucene" name="lucene-sandbox">
-			<revision name="4.10.3" status="release" pubdate="20141220112938" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="8">
-				<metadata-artifact status="successful" details="" size="3101" time="234" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-sandbox\ivy-4.10.3.xml" searched="true" original-local-location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-sandbox\ivy-4.10.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-sandbox/4.10.3/lucene-sandbox-4.10.3.pom"/>
+			<revision name="4.10.3" status="release" pubdate="20141220112938" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="8">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="333939" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-sandbox\ivy-4.10.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-sandbox/4.10.3/lucene-sandbox-4.10.3.pom"/>
 				<caller organisation="tutorial-3-corenlp" name="tutorial-3-corenlp$sources_2.11" conf="compile, runtime" rev="4.10.3" rev-constraint-default="4.10.3" rev-constraint-dynamic="4.10.3" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="lucene-sandbox" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="96468" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-sandbox\srcs\lucene-sandbox-4.10.3-sources.jar">
@@ -212,8 +216,9 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.lucene" name="lucene-queries">
-			<revision name="4.10.3" status="release" pubdate="20141220113147" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="7">
-				<metadata-artifact status="successful" details="" size="2860" time="172" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-queries\ivy-4.10.3.xml" searched="true" original-local-location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-queries\ivy-4.10.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-queries/4.10.3/lucene-queries-4.10.3.pom"/>
+			<revision name="4.10.3" status="release" pubdate="20141220113147" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="7">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="333800" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-queries\ivy-4.10.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-queries/4.10.3/lucene-queries-4.10.3.pom"/>
 				<caller organisation="tutorial-3-corenlp" name="tutorial-3-corenlp$sources_2.11" conf="compile, runtime" rev="4.10.3" rev-constraint-default="4.10.3" rev-constraint-dynamic="4.10.3" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="lucene-queries" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="136299" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-queries\srcs\lucene-queries-4.10.3-sources.jar">
@@ -226,8 +231,9 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.lucene" name="lucene-core">
-			<revision name="4.10.3" status="release" pubdate="20141220113123" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="6">
-				<metadata-artifact status="successful" details="" size="4989" time="188" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-core\ivy-4.10.3.xml" searched="true" original-local-location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-core\ivy-4.10.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-core/4.10.3/lucene-core-4.10.3.pom"/>
+			<revision name="4.10.3" status="release" pubdate="20141220113123" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="6">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="332715" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-core\ivy-4.10.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/lucene/lucene-core/4.10.3/lucene-core-4.10.3.pom"/>
 				<caller organisation="tutorial-3-corenlp" name="tutorial-3-corenlp$sources_2.11" conf="compile, runtime" rev="4.10.3" rev-constraint-default="4.10.3" rev-constraint-dynamic="4.10.3" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="lucene-core" type="jar" ext="jar" status="no" details="" size="2562626" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.lucene\lucene-core\jars\lucene-core-4.10.3.jar">
@@ -240,8 +246,8 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.commons" name="commons-lang3">
-			<revision name="3.3.1" status="release" pubdate="20140315080434" resolver="public" artresolver="public" homepage="http://commons.apache.org/proper/commons-lang/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="4">
-				<metadata-artifact status="successful" details="" size="20397" time="250" location="C:\Users\djyuh\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.3.1.xml" searched="true" original-local-location="C:\Users\djyuh\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.3.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom"/>
+			<revision name="3.3.1" status="release" pubdate="20140315080434" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-lang/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<metadata-artifact status="no" details="" size="10611" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom"/>
 				<caller organisation="tutorial-3-corenlp" name="tutorial-3-corenlp$sources_2.11" conf="compile, runtime" rev="3.3.1" rev-constraint-default="3.3.1" rev-constraint-dynamic="3.3.1" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="commons-lang3" type="jar" ext="jar" status="no" details="" size="412693" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.3.1.jar">

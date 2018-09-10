@@ -35,8 +35,12 @@ object SparkOpenIE {
     //println(CoreNLP.returnTriplets("The dog has a lifespan of upto 10-12 years."))
 
     val writer = new PrintWriter(new File("data/triplets.txt"))
-    println(input.collect().mkString("\n"))
-    writer.write(input.collect().mkString("\n"))
+    //println(input.collect().mkString("\n"))
+    var abstract_count: Int = 1;
+    input.collect().foreach(triplets => {
+      writer.write("Abstract " + abstract_count + "\n" + triplets + "\n" + triplets.length + "\n")
+      abstract_count += 1
+    })
     writer.close()
 
 

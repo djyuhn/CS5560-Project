@@ -4,7 +4,7 @@
 		module="tutorial-2-corenlp-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20180830151948"
+		publication="20180910151429"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
