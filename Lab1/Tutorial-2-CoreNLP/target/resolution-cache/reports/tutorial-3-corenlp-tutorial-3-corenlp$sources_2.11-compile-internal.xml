@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180910151446"/>
+		date="20180910152730"/>
 	<dependencies>
 		<module organisation="edu.stanford.nlp" name="stanford-parser">
 			<revision name="3.9.1" status="release" pubdate="20180301235227" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://nlp.stanford.edu/software/lex-parser.html" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="19">
@@ -246,8 +246,8 @@
 			</revision>
 		</module>
 		<module organisation="org.apache.commons" name="commons-lang3">
-			<revision name="3.3.1" status="release" pubdate="20140315080434" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-lang/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
-				<metadata-artifact status="no" details="" size="10611" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.3.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom"/>
+			<revision name="3.3.1" status="release" pubdate="20140315080434" resolver="public" artresolver="public" homepage="http://commons.apache.org/proper/commons-lang/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<metadata-artifact status="successful" details="" size="20397" time="228" location="C:\Users\djyuh\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.3.1.xml" searched="true" original-local-location="C:\Users\djyuh\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.3.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.pom"/>
 				<caller organisation="tutorial-3-corenlp" name="tutorial-3-corenlp$sources_2.11" conf="compile-internal, compile, provided, optional" rev="3.3.1" rev-constraint-default="3.3.1" rev-constraint-dynamic="3.3.1" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="commons-lang3" type="jar" ext="jar" status="no" details="" size="412693" time="0" location="C:\Users\djyuh\.ivy2\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.3.1.jar">

@@ -1,0 +1,7448 @@
+Abstract 1
+
+Major-1
+Text Annotation:	Major
+Lemma Annotation:	major
+POS:	JJ
+NER:	major
+
+depressive-2
+Text Annotation:	depressive
+Lemma Annotation:	depressive
+POS:	JJ
+NER:	depressive
+
+disorder-3
+Text Annotation:	disorder
+Lemma Annotation:	disorder
+POS:	NN
+NER:	disorder
+
+-LRB--4
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+MDD-5
+Text Annotation:	MDD
+Lemma Annotation:	mdd
+POS:	NN
+NER:	mdd
+
+-RRB--6
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+is-7
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+a-8
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+common-9
+Text Annotation:	common
+Lemma Annotation:	common
+POS:	JJ
+NER:	common
+
+disorder-10
+Text Annotation:	disorder
+Lemma Annotation:	disorder
+POS:	NN
+NER:	disorder
+
+with-11
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+a-12
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+lifetime-13
+Text Annotation:	lifetime
+Lemma Annotation:	lifetime
+POS:	NN
+NER:	lifetime
+
+prevalence-14
+Text Annotation:	prevalence
+Lemma Annotation:	prevalence
+POS:	NN
+NER:	prevalence
+
+of-15
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+16.2-16
+Text Annotation:	16.2
+Lemma Annotation:	16.2
+POS:	CD
+NER:	16.2
+
+%-17
+Text Annotation:	%
+Lemma Annotation:	%
+POS:	NN
+NER:	%
+
+and-18
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+the-19
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+fourth-20
+Text Annotation:	fourth
+Lemma Annotation:	fourth
+POS:	JJ
+NER:	fourth
+
+highest-21
+Text Annotation:	highest
+Lemma Annotation:	highest
+POS:	JJS
+NER:	highest
+
+cause-22
+Text Annotation:	cause
+Lemma Annotation:	cause
+POS:	NN
+NER:	cause
+
+of-23
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+disability-24
+Text Annotation:	disability
+Lemma Annotation:	disability
+POS:	NN
+NER:	disability
+
+globally-25
+Text Annotation:	globally
+Lemma Annotation:	globally
+POS:	RB
+NER:	globally
+
+.-26
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+It-1
+Text Annotation:	It
+Lemma Annotation:	it
+POS:	PRP
+NER:	it
+
+is-2
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+hypothesized-3
+Text Annotation:	hypothesized
+Lemma Annotation:	hypothesize
+POS:	VBN
+NER:	hypothesize
+
+to-4
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+be-5
+Text Annotation:	be
+Lemma Annotation:	be
+POS:	VB
+NER:	be
+
+a-6
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+syndromatic-7
+Text Annotation:	syndromatic
+Lemma Annotation:	syndromatic
+POS:	JJ
+NER:	syndromatic
+
+manifestation-8
+Text Annotation:	manifestation
+Lemma Annotation:	manifestation
+POS:	NN
+NER:	manifestation
+
+of-9
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+multiple-10
+Text Annotation:	multiple
+Lemma Annotation:	multiple
+POS:	JJ
+NER:	multiple
+
+pathological-11
+Text Annotation:	pathological
+Lemma Annotation:	pathological
+POS:	JJ
+NER:	pathological
+
+processes-12
+Text Annotation:	processes
+Lemma Annotation:	process
+POS:	NNS
+NER:	process
+
+leading-13
+Text Annotation:	leading
+Lemma Annotation:	lead
+POS:	VBG
+NER:	lead
+
+to-14
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+similar-15
+Text Annotation:	similar
+Lemma Annotation:	similar
+POS:	JJ
+NER:	similar
+
+clinical-16
+Text Annotation:	clinical
+Lemma Annotation:	clinical
+POS:	JJ
+NER:	clinical
+
+manifestation-17
+Text Annotation:	manifestation
+Lemma Annotation:	manifestation
+POS:	NN
+NER:	manifestation
+
+.-18
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+MDD-1
+Text Annotation:	MDD
+Lemma Annotation:	mdd
+POS:	NN
+NER:	mdd
+
+is-2
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+associated-3
+Text Annotation:	associated
+Lemma Annotation:	associate
+POS:	VBN
+NER:	associate
+
+with-4
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+at-5
+Text Annotation:	at
+Lemma Annotation:	at
+POS:	IN
+NER:	at
+
+least-6
+Text Annotation:	least
+Lemma Annotation:	least
+POS:	JJS
+NER:	least
+
+three-7
+Text Annotation:	three
+Lemma Annotation:	three
+POS:	CD
+NER:	three
+
+categories-8
+Text Annotation:	categories
+Lemma Annotation:	category
+POS:	NNS
+NER:	category
+
+of-9
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+peripheral-10
+Text Annotation:	peripheral
+Lemma Annotation:	peripheral
+POS:	JJ
+NER:	peripheral
+
+hormone-type-11
+Text Annotation:	hormone-type
+Lemma Annotation:	hormone-type
+POS:	JJ
+NER:	hormone-type
+
+factors-12
+Text Annotation:	factors
+Lemma Annotation:	factor
+POS:	NNS
+NER:	factor
+
+including-13
+Text Annotation:	including
+Lemma Annotation:	include
+POS:	VBG
+NER:	include
+
+neurotrophic-14
+Text Annotation:	neurotrophic
+Lemma Annotation:	neurotrophic
+POS:	JJ
+NER:	neurotrophic
+
+factors-15
+Text Annotation:	factors
+Lemma Annotation:	factor
+POS:	NNS
+NER:	factor
+
+,-16
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+proinflammatory-17
+Text Annotation:	proinflammatory
+Lemma Annotation:	proinflammatory
+POS:	JJ
+NER:	proinflammatory
+
+cytokines-18
+Text Annotation:	cytokines
+Lemma Annotation:	cytokine
+POS:	NNS
+NER:	cytokine
+
+,-19
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-20
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+processes-21
+Text Annotation:	processes
+Lemma Annotation:	process
+POS:	NNS
+NER:	process
+
+that-22
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+impair-23
+Text Annotation:	impair
+Lemma Annotation:	impair
+POS:	VBP
+NER:	impair
+
+regulation-24
+Text Annotation:	regulation
+Lemma Annotation:	regulation
+POS:	NN
+NER:	regulation
+
+of-25
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+the-26
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+hypothalamic-pituitary-adrenocortical-27
+Text Annotation:	hypothalamic-pituitary-adrenocortical
+Lemma Annotation:	hypothalamic-pituitary-adrenocortical
+POS:	JJ
+NER:	hypothalamic-pituitary-adrenocortical
+
+axis-28
+Text Annotation:	axis
+Lemma Annotation:	axis
+POS:	NN
+NER:	axis
+
+.-29
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Neuroimaging-1
+Text Annotation:	Neuroimaging
+Lemma Annotation:	neuroimage
+POS:	VBG
+NER:	neuroimage
+
+studies-2
+Text Annotation:	studies
+Lemma Annotation:	study
+POS:	NNS
+NER:	study
+
+have-3
+Text Annotation:	have
+Lemma Annotation:	have
+POS:	VBP
+NER:	have
+
+identified-4
+Text Annotation:	identified
+Lemma Annotation:	identify
+POS:	VBN
+NER:	identify
+
+functional-5
+Text Annotation:	functional
+Lemma Annotation:	functional
+POS:	JJ
+NER:	functional
+
+abnormalities-6
+Text Annotation:	abnormalities
+Lemma Annotation:	abnormality
+POS:	NNS
+NER:	abnormality
+
+including-7
+Text Annotation:	including
+Lemma Annotation:	include
+POS:	VBG
+NER:	include
+
+subcortical-8
+Text Annotation:	subcortical
+Lemma Annotation:	subcortical
+POS:	JJ
+NER:	subcortical
+
+systems-9
+Text Annotation:	systems
+Lemma Annotation:	system
+POS:	NNS
+NER:	system
+
+associated-10
+Text Annotation:	associated
+Lemma Annotation:	associate
+POS:	VBN
+NER:	associate
+
+with-11
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+reward-12
+Text Annotation:	reward
+Lemma Annotation:	reward
+POS:	NN
+NER:	reward
+
+and-13
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+emotion-14
+Text Annotation:	emotion
+Lemma Annotation:	emotion
+POS:	NN
+NER:	emotion
+
+processing-15
+Text Annotation:	processing
+Lemma Annotation:	processing
+POS:	NN
+NER:	processing
+
+,-16
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+medial-17
+Text Annotation:	medial
+Lemma Annotation:	medial
+POS:	JJ
+NER:	medial
+
+prefrontal-18
+Text Annotation:	prefrontal
+Lemma Annotation:	prefrontal
+POS:	JJ
+NER:	prefrontal
+
+and-19
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+anterior-20
+Text Annotation:	anterior
+Lemma Annotation:	anterior
+POS:	JJ
+NER:	anterior
+
+cingulate-21
+Text Annotation:	cingulate
+Lemma Annotation:	cingulate
+POS:	NN
+NER:	cingulate
+
+cortical-22
+Text Annotation:	cortical
+Lemma Annotation:	cortical
+POS:	JJ
+NER:	cortical
+
+regions-23
+Text Annotation:	regions
+Lemma Annotation:	region
+POS:	NNS
+NER:	region
+
+and-24
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+the-25
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+lateral-26
+Text Annotation:	lateral
+Lemma Annotation:	lateral
+POS:	JJ
+NER:	lateral
+
+prefrontal-27
+Text Annotation:	prefrontal
+Lemma Annotation:	prefrontal
+POS:	JJ
+NER:	prefrontal
+
+cortical-28
+Text Annotation:	cortical
+Lemma Annotation:	cortical
+POS:	JJ
+NER:	cortical
+
+systems-29
+Text Annotation:	systems
+Lemma Annotation:	system
+POS:	NNS
+NER:	system
+
+involved-30
+Text Annotation:	involved
+Lemma Annotation:	involve
+POS:	VBN
+NER:	involve
+
+in-31
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+cognitive-32
+Text Annotation:	cognitive
+Lemma Annotation:	cognitive
+POS:	JJ
+NER:	cognitive
+
+control-33
+Text Annotation:	control
+Lemma Annotation:	control
+POS:	NN
+NER:	control
+
+and-34
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+voluntary-35
+Text Annotation:	voluntary
+Lemma Annotation:	voluntary
+POS:	JJ
+NER:	voluntary
+
+emotion-36
+Text Annotation:	emotion
+Lemma Annotation:	emotion
+POS:	NN
+NER:	emotion
+
+regulation-37
+Text Annotation:	regulation
+Lemma Annotation:	regulation
+POS:	NN
+NER:	regulation
+
+.-38
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Studies-1
+Text Annotation:	Studies
+Lemma Annotation:	study
+POS:	NNS
+NER:	study
+
+investigating-2
+Text Annotation:	investigating
+Lemma Annotation:	investigate
+POS:	VBG
+NER:	investigate
+
+the-3
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+effects-4
+Text Annotation:	effects
+Lemma Annotation:	effect
+POS:	NNS
+NER:	effect
+
+of-5
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+psychotherapy-6
+Text Annotation:	psychotherapy
+Lemma Annotation:	psychotherapy
+POS:	NN
+NER:	psychotherapy
+
+and-7
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+pharmacotherapy-8
+Text Annotation:	pharmacotherapy
+Lemma Annotation:	pharmacotherapy
+POS:	NN
+NER:	pharmacotherapy
+
+on-9
+Text Annotation:	on
+Lemma Annotation:	on
+POS:	IN
+NER:	on
+
+functional-10
+Text Annotation:	functional
+Lemma Annotation:	functional
+POS:	JJ
+NER:	functional
+
+brain-11
+Text Annotation:	brain
+Lemma Annotation:	brain
+POS:	NN
+NER:	brain
+
+measures-12
+Text Annotation:	measures
+Lemma Annotation:	measure
+POS:	NNS
+NER:	measure
+
+show-13
+Text Annotation:	show
+Lemma Annotation:	show
+POS:	VBP
+NER:	show
+
+normalization-14
+Text Annotation:	normalization
+Lemma Annotation:	normalization
+POS:	NN
+NER:	normalization
+
+of-15
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+brain-16
+Text Annotation:	brain
+Lemma Annotation:	brain
+POS:	NN
+NER:	brain
+
+function-17
+Text Annotation:	function
+Lemma Annotation:	function
+POS:	NN
+NER:	function
+
+with-18
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+return-19
+Text Annotation:	return
+Lemma Annotation:	return
+POS:	NN
+NER:	return
+
+to-20
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+euthymia-21
+Text Annotation:	euthymia
+Lemma Annotation:	euthymia
+POS:	NN
+NER:	euthymia
+
+.-22
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Nevertheless-1
+Text Annotation:	Nevertheless
+Lemma Annotation:	nevertheless
+POS:	RB
+NER:	nevertheless
+
+,-2
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+approximately-3
+Text Annotation:	approximately
+Lemma Annotation:	approximately
+POS:	RB
+NER:	approximately
+
+50-4
+Text Annotation:	50
+Lemma Annotation:	50
+POS:	CD
+NER:	50
+
+%-5
+Text Annotation:	%
+Lemma Annotation:	%
+POS:	NN
+NER:	%
+
+of-6
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+patients-7
+Text Annotation:	patients
+Lemma Annotation:	patient
+POS:	NNS
+NER:	patient
+
+with-8
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+MDD-9
+Text Annotation:	MDD
+Lemma Annotation:	mdd
+POS:	NN
+NER:	mdd
+
+will-10
+Text Annotation:	will
+Lemma Annotation:	will
+POS:	MD
+NER:	will
+
+not-11
+Text Annotation:	not
+Lemma Annotation:	not
+POS:	RB
+NER:	not
+
+respond-12
+Text Annotation:	respond
+Lemma Annotation:	respond
+POS:	VB
+NER:	respond
+
+sufficiently-13
+Text Annotation:	sufficiently
+Lemma Annotation:	sufficiently
+POS:	RB
+NER:	sufficiently
+
+and-14
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+60-15
+Text Annotation:	60
+Lemma Annotation:	60
+POS:	CD
+NER:	60
+
+to-16
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+70-17
+Text Annotation:	70
+Lemma Annotation:	70
+POS:	CD
+NER:	70
+
+%-18
+Text Annotation:	%
+Lemma Annotation:	%
+POS:	NN
+NER:	%
+
+will-19
+Text Annotation:	will
+Lemma Annotation:	will
+POS:	MD
+NER:	will
+
+not-20
+Text Annotation:	not
+Lemma Annotation:	not
+POS:	RB
+NER:	not
+
+achieve-21
+Text Annotation:	achieve
+Lemma Annotation:	achieve
+POS:	VB
+NER:	achieve
+
+full-22
+Text Annotation:	full
+Lemma Annotation:	full
+POS:	JJ
+NER:	full
+
+remission-23
+Text Annotation:	remission
+Lemma Annotation:	remission
+POS:	NN
+NER:	remission
+
+with-24
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+first-line-25
+Text Annotation:	first-line
+Lemma Annotation:	first-line
+POS:	JJ
+NER:	first-line
+
+pharmacotherapy-26
+Text Annotation:	pharmacotherapy
+Lemma Annotation:	pharmacotherapy
+POS:	NN
+NER:	pharmacotherapy
+
+,-27
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+therefore-28
+Text Annotation:	therefore
+Lemma Annotation:	therefore
+POS:	RB
+NER:	therefore
+
+clinicians-29
+Text Annotation:	clinicians
+Lemma Annotation:	clinician
+POS:	NNS
+NER:	clinician
+
+strive-30
+Text Annotation:	strive
+Lemma Annotation:	strive
+POS:	VBP
+NER:	strive
+
+to-31
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+improve-32
+Text Annotation:	improve
+Lemma Annotation:	improve
+POS:	VB
+NER:	improve
+
+patient-33
+Text Annotation:	patient
+Lemma Annotation:	patient
+POS:	NN
+NER:	patient
+
+responses-34
+Text Annotation:	responses
+Lemma Annotation:	response
+POS:	NNS
+NER:	response
+
+through-35
+Text Annotation:	through
+Lemma Annotation:	through
+POS:	IN
+NER:	through
+
+the-36
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+use-37
+Text Annotation:	use
+Lemma Annotation:	use
+POS:	NN
+NER:	use
+
+of-38
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+adjunct-39
+Text Annotation:	adjunct
+Lemma Annotation:	adjunct
+POS:	NN
+NER:	adjunct
+
+therapies-40
+Text Annotation:	therapies
+Lemma Annotation:	therapy
+POS:	NNS
+NER:	therapy
+
+.-41
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+This-1
+Text Annotation:	This
+Lemma Annotation:	this
+POS:	DT
+NER:	this
+
+review-2
+Text Annotation:	review
+Lemma Annotation:	review
+POS:	NN
+NER:	review
+
+discusses-3
+Text Annotation:	discusses
+Lemma Annotation:	discuss
+POS:	VBZ
+NER:	discuss
+
+recent-4
+Text Annotation:	recent
+Lemma Annotation:	recent
+POS:	JJ
+NER:	recent
+
+research-5
+Text Annotation:	research
+Lemma Annotation:	research
+POS:	NN
+NER:	research
+
+in-6
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+the-7
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+various-8
+Text Annotation:	various
+Lemma Annotation:	various
+POS:	JJ
+NER:	various
+
+biological-9
+Text Annotation:	biological
+Lemma Annotation:	biological
+POS:	JJ
+NER:	biological
+
+processes-10
+Text Annotation:	processes
+Lemma Annotation:	process
+POS:	NNS
+NER:	process
+
+associated-11
+Text Annotation:	associated
+Lemma Annotation:	associate
+POS:	VBN
+NER:	associate
+
+with-12
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+MDD-13
+Text Annotation:	MDD
+Lemma Annotation:	mdd
+POS:	NN
+NER:	mdd
+
+as-14
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	RB
+NER:	as
+
+well-15
+Text Annotation:	well
+Lemma Annotation:	well
+POS:	RB
+NER:	well
+
+as-16
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	IN
+NER:	as
+
+recent-17
+Text Annotation:	recent
+Lemma Annotation:	recent
+POS:	JJ
+NER:	recent
+
+data-18
+Text Annotation:	data
+Lemma Annotation:	datum
+POS:	NNS
+NER:	datum
+
+in-19
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+support-20
+Text Annotation:	support
+Lemma Annotation:	support
+POS:	NN
+NER:	support
+
+of-21
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+the-22
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+use-23
+Text Annotation:	use
+Lemma Annotation:	use
+POS:	NN
+NER:	use
+
+of-24
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+adjunctive-25
+Text Annotation:	adjunctive
+Lemma Annotation:	adjunctive
+POS:	JJ
+NER:	adjunctive
+
+non-pharmacological-26
+Text Annotation:	non-pharmacological
+Lemma Annotation:	non-pharmacological
+POS:	JJ
+NER:	non-pharmacological
+
+therapies-27
+Text Annotation:	therapies
+Lemma Annotation:	therapy
+POS:	NNS
+NER:	therapy
+
+including-28
+Text Annotation:	including
+Lemma Annotation:	include
+POS:	VBG
+NER:	include
+
+psychotherapy-29
+Text Annotation:	psychotherapy
+Lemma Annotation:	psychotherapy
+POS:	NN
+NER:	psychotherapy
+
+,-30
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+bibliotherapy-31
+Text Annotation:	bibliotherapy
+Lemma Annotation:	bibliotherapy
+POS:	NN
+NER:	bibliotherapy
+
+,-32
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+Internet-33
+Text Annotation:	Internet
+Lemma Annotation:	internet
+POS:	NN
+NER:	internet
+
+therapy-34
+Text Annotation:	therapy
+Lemma Annotation:	therapy
+POS:	NN
+NER:	therapy
+
+,-35
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+``-36
+Text Annotation:	``
+Lemma Annotation:	``
+POS:	``
+NER:	``
+
+natural-37
+Text Annotation:	natural
+Lemma Annotation:	natural
+POS:	JJ
+NER:	natural
+
+''-38
+Text Annotation:	''
+Lemma Annotation:	''
+POS:	''
+NER:	''
+
+or-39
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+herbal-40
+Text Annotation:	herbal
+Lemma Annotation:	herbal
+POS:	JJ
+NER:	herbal
+
+approaches-41
+Text Annotation:	approaches
+Lemma Annotation:	approach
+POS:	NNS
+NER:	approach
+
+,-42
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+exercise-43
+Text Annotation:	exercise
+Lemma Annotation:	exercise
+POS:	NN
+NER:	exercise
+
+therapy-44
+Text Annotation:	therapy
+Lemma Annotation:	therapy
+POS:	NN
+NER:	therapy
+
+,-45
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-46
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+somatic-47
+Text Annotation:	somatic
+Lemma Annotation:	somatic
+POS:	JJ
+NER:	somatic
+
+therapies-48
+Text Annotation:	therapies
+Lemma Annotation:	therapy
+POS:	NNS
+NER:	therapy
+
+.-49
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Abstract 2
+
+This-1
+Text Annotation:	This
+Lemma Annotation:	this
+POS:	DT
+NER:	this
+
+article-2
+Text Annotation:	article
+Lemma Annotation:	article
+POS:	NN
+NER:	article
+
+is-3
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+intended-4
+Text Annotation:	intended
+Lemma Annotation:	intend
+POS:	VBN
+NER:	intend
+
+to-5
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+identify-6
+Text Annotation:	identify
+Lemma Annotation:	identify
+POS:	VB
+NER:	identify
+
+some-7
+Text Annotation:	some
+Lemma Annotation:	some
+POS:	DT
+NER:	some
+
+of-8
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+the-9
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+most-10
+Text Annotation:	most
+Lemma Annotation:	most
+POS:	RBS
+NER:	most
+
+important-11
+Text Annotation:	important
+Lemma Annotation:	important
+POS:	JJ
+NER:	important
+
+challenges-12
+Text Annotation:	challenges
+Lemma Annotation:	challenge
+POS:	NNS
+NER:	challenge
+
+faced-13
+Text Annotation:	faced
+Lemma Annotation:	face
+POS:	VBN
+NER:	face
+
+by-14
+Text Annotation:	by
+Lemma Annotation:	by
+POS:	IN
+NER:	by
+
+family-15
+Text Annotation:	family
+Lemma Annotation:	family
+POS:	NN
+NER:	family
+
+physicians-16
+Text Annotation:	physicians
+Lemma Annotation:	physician
+POS:	NNS
+NER:	physician
+
+when-17
+Text Annotation:	when
+Lemma Annotation:	when
+POS:	WRB
+NER:	when
+
+treating-18
+Text Annotation:	treating
+Lemma Annotation:	treat
+POS:	VBG
+NER:	treat
+
+MDD-19
+Text Annotation:	MDD
+Lemma Annotation:	mdd
+POS:	NN
+NER:	mdd
+
+and-20
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+to-21
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+provide-22
+Text Annotation:	provide
+Lemma Annotation:	provide
+POS:	VB
+NER:	provide
+
+practical-23
+Text Annotation:	practical
+Lemma Annotation:	practical
+POS:	JJ
+NER:	practical
+
+solutions-24
+Text Annotation:	solutions
+Lemma Annotation:	solution
+POS:	NNS
+NER:	solution
+
+.-25
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Key-1
+Text Annotation:	Key
+Lemma Annotation:	key
+POS:	NN
+NER:	key
+
+issues-2
+Text Annotation:	issues
+Lemma Annotation:	issue
+POS:	NNS
+NER:	issue
+
+,-3
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+reviewed-4
+Text Annotation:	reviewed
+Lemma Annotation:	review
+POS:	VBN
+NER:	review
+
+from-5
+Text Annotation:	from
+Lemma Annotation:	from
+POS:	IN
+NER:	from
+
+a-6
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+primary-7
+Text Annotation:	primary
+Lemma Annotation:	primary
+POS:	JJ
+NER:	primary
+
+care-8
+Text Annotation:	care
+Lemma Annotation:	care
+POS:	NN
+NER:	care
+
+view-9
+Text Annotation:	view
+Lemma Annotation:	view
+POS:	NN
+NER:	view
+
+point-10
+Text Annotation:	point
+Lemma Annotation:	point
+POS:	NN
+NER:	point
+
+will-11
+Text Annotation:	will
+Lemma Annotation:	will
+POS:	MD
+NER:	will
+
+include-12
+Text Annotation:	include
+Lemma Annotation:	include
+POS:	VB
+NER:	include
+
+:-13
+Text Annotation:	:
+Lemma Annotation:	:
+POS:	:
+NER:	:
+
+treating-14
+Text Annotation:	treating
+Lemma Annotation:	treat
+POS:	VBG
+NER:	treat
+
+to-15
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+remission-16
+Text Annotation:	remission
+Lemma Annotation:	remission
+POS:	NN
+NER:	remission
+
+-LRB--17
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+and-18
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+not-19
+Text Annotation:	not
+Lemma Annotation:	not
+POS:	RB
+NER:	not
+
+just-20
+Text Annotation:	just
+Lemma Annotation:	just
+POS:	RB
+NER:	just
+
+response-21
+Text Annotation:	response
+Lemma Annotation:	response
+POS:	NN
+NER:	response
+
+-RRB--22
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+,-23
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+identification-24
+Text Annotation:	identification
+Lemma Annotation:	identification
+POS:	NN
+NER:	identification
+
+of-25
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+high-risk-26
+Text Annotation:	high-risk
+Lemma Annotation:	high-risk
+POS:	JJ
+NER:	high-risk
+
+groups-27
+Text Annotation:	groups
+Lemma Annotation:	group
+POS:	NNS
+NER:	group
+
+,-28
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+diagnosis-29
+Text Annotation:	diagnosis
+Lemma Annotation:	diagnosis
+POS:	NN
+NER:	diagnosis
+
+,-30
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+acute-31
+Text Annotation:	acute
+Lemma Annotation:	acute
+POS:	JJ
+NER:	acute
+
+treatment-32
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+approaches-33
+Text Annotation:	approaches
+Lemma Annotation:	approach
+POS:	NNS
+NER:	approach
+
+-LRB--34
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+including-35
+Text Annotation:	including
+Lemma Annotation:	include
+POS:	VBG
+NER:	include
+
+pharmacotherapy-36
+Text Annotation:	pharmacotherapy
+Lemma Annotation:	pharmacotherapy
+POS:	NN
+NER:	pharmacotherapy
+
+and-37
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+the-38
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+management-39
+Text Annotation:	management
+Lemma Annotation:	management
+POS:	NN
+NER:	management
+
+of-40
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+related-41
+Text Annotation:	related
+Lemma Annotation:	related
+POS:	JJ
+NER:	related
+
+side-42
+Text Annotation:	side
+Lemma Annotation:	side
+POS:	JJ
+NER:	side
+
+effects-43
+Text Annotation:	effects
+Lemma Annotation:	effect
+POS:	NNS
+NER:	effect
+
+-RRB--44
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+,-45
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+the-46
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+use-47
+Text Annotation:	use
+Lemma Annotation:	use
+POS:	NN
+NER:	use
+
+of-48
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+psychotherapy-49
+Text Annotation:	psychotherapy
+Lemma Annotation:	psychotherapy
+POS:	NN
+NER:	psychotherapy
+
+and-50
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+somatic-51
+Text Annotation:	somatic
+Lemma Annotation:	somatic
+POS:	JJ
+NER:	somatic
+
+therapies-52
+Text Annotation:	therapies
+Lemma Annotation:	therapy
+POS:	NNS
+NER:	therapy
+
+,-53
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+assessment-54
+Text Annotation:	assessment
+Lemma Annotation:	assessment
+POS:	NN
+NER:	assessment
+
+of-55
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+the-56
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+adequacy-57
+Text Annotation:	adequacy
+Lemma Annotation:	adequacy
+POS:	NN
+NER:	adequacy
+
+of-58
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+treatment-59
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+including-60
+Text Annotation:	including
+Lemma Annotation:	include
+POS:	VBG
+NER:	include
+
+the-61
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+assessment-62
+Text Annotation:	assessment
+Lemma Annotation:	assessment
+POS:	NN
+NER:	assessment
+
+of-63
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+remission-64
+Text Annotation:	remission
+Lemma Annotation:	remission
+POS:	NN
+NER:	remission
+
+,-65
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+response-66
+Text Annotation:	response
+Lemma Annotation:	response
+POS:	NN
+NER:	response
+
+measurement-67
+Text Annotation:	measurement
+Lemma Annotation:	measurement
+POS:	NN
+NER:	measurement
+
+,-68
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+optimal-69
+Text Annotation:	optimal
+Lemma Annotation:	optimal
+POS:	JJ
+NER:	optimal
+
+follow-up-70
+Text Annotation:	follow-up
+Lemma Annotation:	follow-up
+POS:	NN
+NER:	follow-up
+
+care-71
+Text Annotation:	care
+Lemma Annotation:	care
+POS:	NN
+NER:	care
+
+throughout-72
+Text Annotation:	throughout
+Lemma Annotation:	throughout
+POS:	IN
+NER:	throughout
+
+the-73
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+phase-74
+Text Annotation:	phase
+Lemma Annotation:	phase
+POS:	NN
+NER:	phase
+
+of-75
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+treatment-76
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+,-77
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+the-78
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+key-79
+Text Annotation:	key
+Lemma Annotation:	key
+POS:	JJ
+NER:	key
+
+components-80
+Text Annotation:	components
+Lemma Annotation:	component
+POS:	NNS
+NER:	component
+
+of-81
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+patient-82
+Text Annotation:	patient
+Lemma Annotation:	patient
+POS:	NN
+NER:	patient
+
+education-83
+Text Annotation:	education
+Lemma Annotation:	education
+POS:	NN
+NER:	education
+
+and-84
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+strategies-85
+Text Annotation:	strategies
+Lemma Annotation:	strategy
+POS:	NNS
+NER:	strategy
+
+for-86
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+partial/limited-87
+Text Annotation:	partial/limited
+Lemma Annotation:	partial/limited
+POS:	JJ
+NER:	partial/limited
+
+response-88
+Text Annotation:	response
+Lemma Annotation:	response
+POS:	NN
+NER:	response
+
+to-89
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+the-90
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+first-line-91
+Text Annotation:	first-line
+Lemma Annotation:	first-line
+POS:	JJ
+NER:	first-line
+
+antidepressant-92
+Text Annotation:	antidepressant
+Lemma Annotation:	antidepressant
+POS:	JJ
+NER:	antidepressant
+
+-LRB--93
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+switching-94
+Text Annotation:	switching
+Lemma Annotation:	switching
+POS:	NN
+NER:	switching
+
+,-95
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+augmentation-96
+Text Annotation:	augmentation
+Lemma Annotation:	augmentation
+POS:	NN
+NER:	augmentation
+
+and-97
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+combination-98
+Text Annotation:	combination
+Lemma Annotation:	combination
+POS:	NN
+NER:	combination
+
+strategies-99
+Text Annotation:	strategies
+Lemma Annotation:	strategy
+POS:	NNS
+NER:	strategy
+
+-RRB--100
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+,-101
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+how-102
+Text Annotation:	how
+Lemma Annotation:	how
+POS:	WRB
+NER:	how
+
+to-103
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+provide-104
+Text Annotation:	provide
+Lemma Annotation:	provide
+POS:	VB
+NER:	provide
+
+support-105
+Text Annotation:	support
+Lemma Annotation:	support
+POS:	NN
+NER:	support
+
+for-106
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+improved-107
+Text Annotation:	improved
+Lemma Annotation:	improved
+POS:	JJ
+NER:	improved
+
+treatment-108
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+adherence-109
+Text Annotation:	adherence
+Lemma Annotation:	adherence
+POS:	NN
+NER:	adherence
+
+,-110
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-111
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+approaches-112
+Text Annotation:	approaches
+Lemma Annotation:	approach
+POS:	VBZ
+NER:	approach
+
+to-113
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+prevent-114
+Text Annotation:	prevent
+Lemma Annotation:	prevent
+POS:	VB
+NER:	prevent
+
+the-115
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+recurrence-116
+Text Annotation:	recurrence
+Lemma Annotation:	recurrence
+POS:	NN
+NER:	recurrence
+
+of-117
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+depressive-118
+Text Annotation:	depressive
+Lemma Annotation:	depressive
+POS:	JJ
+NER:	depressive
+
+episodes-119
+Text Annotation:	episodes
+Lemma Annotation:	episode
+POS:	NNS
+NER:	episode
+
+.-120
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Abstract 3
+
+Major-1
+Text Annotation:	Major
+Lemma Annotation:	major
+POS:	JJ
+NER:	major
+
+depressive-2
+Text Annotation:	depressive
+Lemma Annotation:	depressive
+POS:	JJ
+NER:	depressive
+
+disorder-3
+Text Annotation:	disorder
+Lemma Annotation:	disorder
+POS:	NN
+NER:	disorder
+
+-LRB--4
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+MDD-5
+Text Annotation:	MDD
+Lemma Annotation:	mdd
+POS:	NN
+NER:	mdd
+
+-RRB--6
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+is-7
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+highly-8
+Text Annotation:	highly
+Lemma Annotation:	highly
+POS:	RB
+NER:	highly
+
+disabling-9
+Text Annotation:	disabling
+Lemma Annotation:	disable
+POS:	VBG
+NER:	disable
+
+and-10
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+typically-11
+Text Annotation:	typically
+Lemma Annotation:	typically
+POS:	RB
+NER:	typically
+
+runs-12
+Text Annotation:	runs
+Lemma Annotation:	run
+POS:	VBZ
+NER:	run
+
+a-13
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+recurrent-14
+Text Annotation:	recurrent
+Lemma Annotation:	recurrent
+POS:	JJ
+NER:	recurrent
+
+course-15
+Text Annotation:	course
+Lemma Annotation:	course
+POS:	NN
+NER:	course
+
+.-16
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Knowledge-1
+Text Annotation:	Knowledge
+Lemma Annotation:	knowledge
+POS:	NN
+NER:	knowledge
+
+about-2
+Text Annotation:	about
+Lemma Annotation:	about
+POS:	IN
+NER:	about
+
+prevention-3
+Text Annotation:	prevention
+Lemma Annotation:	prevention
+POS:	NN
+NER:	prevention
+
+of-4
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+relapse-5
+Text Annotation:	relapse
+Lemma Annotation:	relapse
+POS:	NN
+NER:	relapse
+
+and-6
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+recurrence-7
+Text Annotation:	recurrence
+Lemma Annotation:	recurrence
+POS:	NN
+NER:	recurrence
+
+is-8
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+crucial-9
+Text Annotation:	crucial
+Lemma Annotation:	crucial
+POS:	JJ
+NER:	crucial
+
+to-10
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+the-11
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+long-term-12
+Text Annotation:	long-term
+Lemma Annotation:	long-term
+POS:	JJ
+NER:	long-term
+
+welfare-13
+Text Annotation:	welfare
+Lemma Annotation:	welfare
+POS:	NN
+NER:	welfare
+
+of-14
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+people-15
+Text Annotation:	people
+Lemma Annotation:	people
+POS:	NNS
+NER:	people
+
+who-16
+Text Annotation:	who
+Lemma Annotation:	who
+POS:	WP
+NER:	who
+
+suffer-17
+Text Annotation:	suffer
+Lemma Annotation:	suffer
+POS:	VBP
+NER:	suffer
+
+from-18
+Text Annotation:	from
+Lemma Annotation:	from
+POS:	IN
+NER:	from
+
+this-19
+Text Annotation:	this
+Lemma Annotation:	this
+POS:	DT
+NER:	this
+
+disorder-20
+Text Annotation:	disorder
+Lemma Annotation:	disorder
+POS:	NN
+NER:	disorder
+
+.-21
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+This-1
+Text Annotation:	This
+Lemma Annotation:	this
+POS:	DT
+NER:	this
+
+article-2
+Text Annotation:	article
+Lemma Annotation:	article
+POS:	NN
+NER:	article
+
+provides-3
+Text Annotation:	provides
+Lemma Annotation:	provide
+POS:	VBZ
+NER:	provide
+
+an-4
+Text Annotation:	an
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+overview-5
+Text Annotation:	overview
+Lemma Annotation:	overview
+POS:	NN
+NER:	overview
+
+of-6
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+the-7
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+current-8
+Text Annotation:	current
+Lemma Annotation:	current
+POS:	JJ
+NER:	current
+
+evidence-9
+Text Annotation:	evidence
+Lemma Annotation:	evidence
+POS:	NN
+NER:	evidence
+
+for-10
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+the-11
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+prevention-12
+Text Annotation:	prevention
+Lemma Annotation:	prevention
+POS:	NN
+NER:	prevention
+
+of-13
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+relapse-14
+Text Annotation:	relapse
+Lemma Annotation:	relapse
+POS:	NN
+NER:	relapse
+
+and-15
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+recurrence-16
+Text Annotation:	recurrence
+Lemma Annotation:	recurrence
+POS:	NN
+NER:	recurrence
+
+using-17
+Text Annotation:	using
+Lemma Annotation:	use
+POS:	VBG
+NER:	use
+
+psychological-18
+Text Annotation:	psychological
+Lemma Annotation:	psychological
+POS:	JJ
+NER:	psychological
+
+interventions-19
+Text Annotation:	interventions
+Lemma Annotation:	intervention
+POS:	NNS
+NER:	intervention
+
+.-20
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+We-1
+Text Annotation:	We
+Lemma Annotation:	we
+POS:	PRP
+NER:	we
+
+first-2
+Text Annotation:	first
+Lemma Annotation:	first
+POS:	RB
+NER:	first
+
+describe-3
+Text Annotation:	describe
+Lemma Annotation:	describe
+POS:	VBP
+NER:	describe
+
+a-4
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+conceptual-5
+Text Annotation:	conceptual
+Lemma Annotation:	conceptual
+POS:	JJ
+NER:	conceptual
+
+framework-6
+Text Annotation:	framework
+Lemma Annotation:	framework
+POS:	NN
+NER:	framework
+
+to-7
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+preventive-8
+Text Annotation:	preventive
+Lemma Annotation:	preventive
+POS:	JJ
+NER:	preventive
+
+interventions-9
+Text Annotation:	interventions
+Lemma Annotation:	intervention
+POS:	NNS
+NER:	intervention
+
+based-10
+Text Annotation:	based
+Lemma Annotation:	base
+POS:	VBN
+NER:	base
+
+on-11
+Text Annotation:	on
+Lemma Annotation:	on
+POS:	IN
+NER:	on
+
+:-12
+Text Annotation:	:
+Lemma Annotation:	:
+POS:	:
+NER:	:
+
+acute-13
+Text Annotation:	acute
+Lemma Annotation:	acute
+POS:	JJ
+NER:	acute
+
+treatment-14
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+;-15
+Text Annotation:	;
+Lemma Annotation:	;
+POS:	:
+NER:	;
+
+continuation-16
+Text Annotation:	continuation
+Lemma Annotation:	continuation
+POS:	NN
+NER:	continuation
+
+treatment-17
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+,-18
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+or-19
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+;-20
+Text Annotation:	;
+Lemma Annotation:	;
+POS:	:
+NER:	;
+
+prevention-21
+Text Annotation:	prevention
+Lemma Annotation:	prevention
+POS:	NN
+NER:	prevention
+
+strategies-22
+Text Annotation:	strategies
+Lemma Annotation:	strategy
+POS:	NNS
+NER:	strategy
+
+for-23
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+patients-24
+Text Annotation:	patients
+Lemma Annotation:	patient
+POS:	NNS
+NER:	patient
+
+in-25
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+remission-26
+Text Annotation:	remission
+Lemma Annotation:	remission
+POS:	NN
+NER:	remission
+
+.-27
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+In-1
+Text Annotation:	In
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+brief-2
+Text Annotation:	brief
+Lemma Annotation:	brief
+POS:	NN
+NER:	brief
+
+,-3
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+cognitive-behavioral-4
+Text Annotation:	cognitive-behavioral
+Lemma Annotation:	cognitive-behavioral
+POS:	JJ
+NER:	cognitive-behavioral
+
+interventions-5
+Text Annotation:	interventions
+Lemma Annotation:	intervention
+POS:	NNS
+NER:	intervention
+
+,-6
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+delivered-7
+Text Annotation:	delivered
+Lemma Annotation:	deliver
+POS:	VBN
+NER:	deliver
+
+during-8
+Text Annotation:	during
+Lemma Annotation:	during
+POS:	IN
+NER:	during
+
+the-9
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+acute-10
+Text Annotation:	acute
+Lemma Annotation:	acute
+POS:	JJ
+NER:	acute
+
+phase-11
+Text Annotation:	phase
+Lemma Annotation:	phase
+POS:	NN
+NER:	phase
+
+,-12
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+appear-13
+Text Annotation:	appear
+Lemma Annotation:	appear
+POS:	VBP
+NER:	appear
+
+to-14
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+have-15
+Text Annotation:	have
+Lemma Annotation:	have
+POS:	VB
+NER:	have
+
+an-16
+Text Annotation:	an
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+enduring-17
+Text Annotation:	enduring
+Lemma Annotation:	enduring
+POS:	JJ
+NER:	enduring
+
+effect-18
+Text Annotation:	effect
+Lemma Annotation:	effect
+POS:	NN
+NER:	effect
+
+that-19
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+protects-20
+Text Annotation:	protects
+Lemma Annotation:	protect
+POS:	VBZ
+NER:	protect
+
+patients-21
+Text Annotation:	patients
+Lemma Annotation:	patient
+POS:	NNS
+NER:	patient
+
+against-22
+Text Annotation:	against
+Lemma Annotation:	against
+POS:	IN
+NER:	against
+
+relapse-23
+Text Annotation:	relapse
+Lemma Annotation:	relapse
+POS:	NN
+NER:	relapse
+
+and-24
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+perhaps-25
+Text Annotation:	perhaps
+Lemma Annotation:	perhaps
+POS:	RB
+NER:	perhaps
+
+others-26
+Text Annotation:	others
+Lemma Annotation:	other
+POS:	NNS
+NER:	other
+
+from-27
+Text Annotation:	from
+Lemma Annotation:	from
+POS:	IN
+NER:	from
+
+recurrence-28
+Text Annotation:	recurrence
+Lemma Annotation:	recurrence
+POS:	NN
+NER:	recurrence
+
+following-29
+Text Annotation:	following
+Lemma Annotation:	follow
+POS:	VBG
+NER:	follow
+
+treatment-30
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+termination-31
+Text Annotation:	termination
+Lemma Annotation:	termination
+POS:	NN
+NER:	termination
+
+.-32
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Similarly-1
+Text Annotation:	Similarly
+Lemma Annotation:	similarly
+POS:	RB
+NER:	similarly
+
+,-2
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+continuation-3
+Text Annotation:	continuation
+Lemma Annotation:	continuation
+POS:	NN
+NER:	continuation
+
+treatment-4
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+with-5
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+either-6
+Text Annotation:	either
+Lemma Annotation:	either
+POS:	CC
+NER:	either
+
+cognitive-7
+Text Annotation:	cognitive
+Lemma Annotation:	cognitive
+POS:	JJ
+NER:	cognitive
+
+therapy-8
+Text Annotation:	therapy
+Lemma Annotation:	therapy
+POS:	NN
+NER:	therapy
+
+or-9
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+perhaps-10
+Text Annotation:	perhaps
+Lemma Annotation:	perhaps
+POS:	RB
+NER:	perhaps
+
+interpersonal-11
+Text Annotation:	interpersonal
+Lemma Annotation:	interpersonal
+POS:	JJ
+NER:	interpersonal
+
+psychotherapy-12
+Text Annotation:	psychotherapy
+Lemma Annotation:	psychotherapy
+POS:	NN
+NER:	psychotherapy
+
+appears-13
+Text Annotation:	appears
+Lemma Annotation:	appear
+POS:	VBZ
+NER:	appear
+
+to-14
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+reduce-15
+Text Annotation:	reduce
+Lemma Annotation:	reduce
+POS:	VB
+NER:	reduce
+
+risk-16
+Text Annotation:	risk
+Lemma Annotation:	risk
+POS:	NN
+NER:	risk
+
+for-17
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+relapse-18
+Text Annotation:	relapse
+Lemma Annotation:	relapse
+POS:	NN
+NER:	relapse
+
+and-19
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+maintenance-20
+Text Annotation:	maintenance
+Lemma Annotation:	maintenance
+POS:	NN
+NER:	maintenance
+
+treatment-21
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+appears-22
+Text Annotation:	appears
+Lemma Annotation:	appear
+POS:	VBZ
+NER:	appear
+
+to-23
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+reduce-24
+Text Annotation:	reduce
+Lemma Annotation:	reduce
+POS:	VB
+NER:	reduce
+
+risk-25
+Text Annotation:	risk
+Lemma Annotation:	risk
+POS:	NN
+NER:	risk
+
+for-26
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+recurrence-27
+Text Annotation:	recurrence
+Lemma Annotation:	recurrence
+POS:	NN
+NER:	recurrence
+
+.-28
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Preventive-1
+Text Annotation:	Preventive
+Lemma Annotation:	preventive
+POS:	JJ
+NER:	preventive
+
+relapse-2
+Text Annotation:	relapse
+Lemma Annotation:	relapse
+POS:	NN
+NER:	relapse
+
+strategies-3
+Text Annotation:	strategies
+Lemma Annotation:	strategy
+POS:	NNS
+NER:	strategy
+
+like-4
+Text Annotation:	like
+Lemma Annotation:	like
+POS:	IN
+NER:	like
+
+preventive-5
+Text Annotation:	preventive
+Lemma Annotation:	preventive
+POS:	JJ
+NER:	preventive
+
+cognitive-6
+Text Annotation:	cognitive
+Lemma Annotation:	cognitive
+POS:	JJ
+NER:	cognitive
+
+therapy-7
+Text Annotation:	therapy
+Lemma Annotation:	therapy
+POS:	NN
+NER:	therapy
+
+or-8
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+mindfulness-9
+Text Annotation:	mindfulness
+Lemma Annotation:	mindfulness
+POS:	NN
+NER:	mindfulness
+
+based-10
+Text Annotation:	based
+Lemma Annotation:	base
+POS:	VBN
+NER:	base
+
+cognitive-11
+Text Annotation:	cognitive
+Lemma Annotation:	cognitive
+POS:	JJ
+NER:	cognitive
+
+therapy-12
+Text Annotation:	therapy
+Lemma Annotation:	therapy
+POS:	NN
+NER:	therapy
+
+-LRB--13
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+MBCT-14
+Text Annotation:	MBCT
+Lemma Annotation:	mbct
+POS:	NN
+NER:	mbct
+
+-RRB--15
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+applied-16
+Text Annotation:	applied
+Lemma Annotation:	apply
+POS:	VBD
+NER:	apply
+
+to-17
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+patients-18
+Text Annotation:	patients
+Lemma Annotation:	patient
+POS:	NNS
+NER:	patient
+
+in-19
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+remission-20
+Text Annotation:	remission
+Lemma Annotation:	remission
+POS:	NN
+NER:	remission
+
+protects-21
+Text Annotation:	protects
+Lemma Annotation:	protect
+POS:	VBZ
+NER:	protect
+
+against-22
+Text Annotation:	against
+Lemma Annotation:	against
+POS:	IN
+NER:	against
+
+subsequent-23
+Text Annotation:	subsequent
+Lemma Annotation:	subsequent
+POS:	JJ
+NER:	subsequent
+
+relapse-24
+Text Annotation:	relapse
+Lemma Annotation:	relapse
+POS:	NN
+NER:	relapse
+
+and-25
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+perhaps-26
+Text Annotation:	perhaps
+Lemma Annotation:	perhaps
+POS:	RB
+NER:	perhaps
+
+recurrence-27
+Text Annotation:	recurrence
+Lemma Annotation:	recurrence
+POS:	NN
+NER:	recurrence
+
+.-28
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+There-1
+Text Annotation:	There
+Lemma Annotation:	there
+POS:	EX
+NER:	there
+
+is-2
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+some-3
+Text Annotation:	some
+Lemma Annotation:	some
+POS:	DT
+NER:	some
+
+preliminary-4
+Text Annotation:	preliminary
+Lemma Annotation:	preliminary
+POS:	JJ
+NER:	preliminary
+
+evidence-5
+Text Annotation:	evidence
+Lemma Annotation:	evidence
+POS:	NN
+NER:	evidence
+
+of-6
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+specific-7
+Text Annotation:	specific
+Lemma Annotation:	specific
+POS:	JJ
+NER:	specific
+
+mediation-8
+Text Annotation:	mediation
+Lemma Annotation:	mediation
+POS:	NN
+NER:	mediation
+
+via-9
+Text Annotation:	via
+Lemma Annotation:	via
+POS:	IN
+NER:	via
+
+changing-10
+Text Annotation:	changing
+Lemma Annotation:	change
+POS:	VBG
+NER:	change
+
+the-11
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+content-12
+Text Annotation:	content
+Lemma Annotation:	content
+POS:	NN
+NER:	content
+
+or-13
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+the-14
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+process-15
+Text Annotation:	process
+Lemma Annotation:	process
+POS:	NN
+NER:	process
+
+of-16
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+cognition-17
+Text Annotation:	cognition
+Lemma Annotation:	cognition
+POS:	NN
+NER:	cognition
+
+.-18
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Continuation-1
+Text Annotation:	Continuation
+Lemma Annotation:	continuation
+POS:	NN
+NER:	continuation
+
+CT-2
+Text Annotation:	CT
+Lemma Annotation:	ct
+POS:	NN
+NER:	ct
+
+and-3
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+preventive-4
+Text Annotation:	preventive
+Lemma Annotation:	preventive
+POS:	JJ
+NER:	preventive
+
+interventions-5
+Text Annotation:	interventions
+Lemma Annotation:	intervention
+POS:	NNS
+NER:	intervention
+
+started-6
+Text Annotation:	started
+Lemma Annotation:	start
+POS:	VBD
+NER:	start
+
+after-7
+Text Annotation:	after
+Lemma Annotation:	after
+POS:	IN
+NER:	after
+
+remission-8
+Text Annotation:	remission
+Lemma Annotation:	remission
+POS:	NN
+NER:	remission
+
+-LRB--9
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+CBT-10
+Text Annotation:	CBT
+Lemma Annotation:	CBT
+POS:	NNP
+NER:	CBT
+
+,-11
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+MBCT-12
+Text Annotation:	MBCT
+Lemma Annotation:	MBCT
+POS:	NNP
+NER:	MBCT
+
+-RRB--13
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+seem-14
+Text Annotation:	seem
+Lemma Annotation:	seem
+POS:	VBP
+NER:	seem
+
+to-15
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+have-16
+Text Annotation:	have
+Lemma Annotation:	have
+POS:	VB
+NER:	have
+
+the-17
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+largest-18
+Text Annotation:	largest
+Lemma Annotation:	largest
+POS:	JJS
+NER:	largest
+
+differential-19
+Text Annotation:	differential
+Lemma Annotation:	differential
+POS:	JJ
+NER:	differential
+
+effects-20
+Text Annotation:	effects
+Lemma Annotation:	effect
+POS:	NNS
+NER:	effect
+
+for-21
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+individuals-22
+Text Annotation:	individuals
+Lemma Annotation:	individual
+POS:	NNS
+NER:	individual
+
+that-23
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+need-24
+Text Annotation:	need
+Lemma Annotation:	need
+POS:	VBP
+NER:	need
+
+them-25
+Text Annotation:	them
+Lemma Annotation:	they
+POS:	PRP
+NER:	they
+
+the-26
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+most-27
+Text Annotation:	most
+Lemma Annotation:	most
+POS:	JJS
+NER:	most
+
+.-28
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Those-1
+Text Annotation:	Those
+Lemma Annotation:	those
+POS:	DT
+NER:	those
+
+who-2
+Text Annotation:	who
+Lemma Annotation:	who
+POS:	WP
+NER:	who
+
+have-3
+Text Annotation:	have
+Lemma Annotation:	have
+POS:	VBP
+NER:	have
+
+the-4
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+greatest-5
+Text Annotation:	greatest
+Lemma Annotation:	greatest
+POS:	JJS
+NER:	greatest
+
+risk-6
+Text Annotation:	risk
+Lemma Annotation:	risk
+POS:	NN
+NER:	risk
+
+for-7
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+relapse-8
+Text Annotation:	relapse
+Lemma Annotation:	relapse
+POS:	NN
+NER:	relapse
+
+and-9
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+recurrence-10
+Text Annotation:	recurrence
+Lemma Annotation:	recurrence
+POS:	NN
+NER:	recurrence
+
+including-11
+Text Annotation:	including
+Lemma Annotation:	include
+POS:	VBG
+NER:	include
+
+patients-12
+Text Annotation:	patients
+Lemma Annotation:	patient
+POS:	NNS
+NER:	patient
+
+with-13
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+unstable-14
+Text Annotation:	unstable
+Lemma Annotation:	unstable
+POS:	JJ
+NER:	unstable
+
+remission-15
+Text Annotation:	remission
+Lemma Annotation:	remission
+POS:	NN
+NER:	remission
+
+,-16
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+more-17
+Text Annotation:	more
+Lemma Annotation:	more
+POS:	JJR
+NER:	more
+
+previous-18
+Text Annotation:	previous
+Lemma Annotation:	previous
+POS:	JJ
+NER:	previous
+
+episodes-19
+Text Annotation:	episodes
+Lemma Annotation:	episode
+POS:	NNS
+NER:	episode
+
+,-20
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+potentially-21
+Text Annotation:	potentially
+Lemma Annotation:	potentially
+POS:	RB
+NER:	potentially
+
+childhood-22
+Text Annotation:	childhood
+Lemma Annotation:	childhood
+POS:	NN
+NER:	childhood
+
+trauma-23
+Text Annotation:	trauma
+Lemma Annotation:	trauma
+POS:	NN
+NER:	trauma
+
+,-24
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+early-25
+Text Annotation:	early
+Lemma Annotation:	early
+POS:	JJ
+NER:	early
+
+age-26
+Text Annotation:	age
+Lemma Annotation:	age
+POS:	NN
+NER:	age
+
+of-27
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+onset-28
+Text Annotation:	onset
+Lemma Annotation:	onset
+POS:	NN
+NER:	onset
+
+.-29
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+These-1
+Text Annotation:	These
+Lemma Annotation:	these
+POS:	DT
+NER:	these
+
+prescriptive-2
+Text Annotation:	prescriptive
+Lemma Annotation:	prescriptive
+POS:	JJ
+NER:	prescriptive
+
+indications-3
+Text Annotation:	indications
+Lemma Annotation:	indication
+POS:	NNS
+NER:	indication
+
+,-4
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+if-5
+Text Annotation:	if
+Lemma Annotation:	if
+POS:	IN
+NER:	if
+
+confirmed-6
+Text Annotation:	confirmed
+Lemma Annotation:	confirm
+POS:	VBN
+NER:	confirm
+
+in-7
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+future-8
+Text Annotation:	future
+Lemma Annotation:	future
+POS:	JJ
+NER:	future
+
+research-9
+Text Annotation:	research
+Lemma Annotation:	research
+POS:	NN
+NER:	research
+
+,-10
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+may-11
+Text Annotation:	may
+Lemma Annotation:	may
+POS:	MD
+NER:	may
+
+point-12
+Text Annotation:	point
+Lemma Annotation:	point
+POS:	VB
+NER:	point
+
+the-13
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+way-14
+Text Annotation:	way
+Lemma Annotation:	way
+POS:	NN
+NER:	way
+
+to-15
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+personalizing-16
+Text Annotation:	personalizing
+Lemma Annotation:	personalize
+POS:	VBG
+NER:	personalize
+
+prevention-17
+Text Annotation:	prevention
+Lemma Annotation:	prevention
+POS:	NN
+NER:	prevention
+
+strategies-18
+Text Annotation:	strategies
+Lemma Annotation:	strategy
+POS:	NNS
+NER:	strategy
+
+.-19
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Doing-1
+Text Annotation:	Doing
+Lemma Annotation:	do
+POS:	VBG
+NER:	do
+
+so-2
+Text Annotation:	so
+Lemma Annotation:	so
+POS:	RB
+NER:	so
+
+,-3
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+may-4
+Text Annotation:	may
+Lemma Annotation:	may
+POS:	MD
+NER:	may
+
+maximize-5
+Text Annotation:	maximize
+Lemma Annotation:	maximize
+POS:	VB
+NER:	maximize
+
+the-6
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+efficiency-7
+Text Annotation:	efficiency
+Lemma Annotation:	efficiency
+POS:	NN
+NER:	efficiency
+
+with-8
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+which-9
+Text Annotation:	which
+Lemma Annotation:	which
+POS:	WDT
+NER:	which
+
+they-10
+Text Annotation:	they
+Lemma Annotation:	they
+POS:	PRP
+NER:	they
+
+are-11
+Text Annotation:	are
+Lemma Annotation:	be
+POS:	VBP
+NER:	be
+
+applied-12
+Text Annotation:	applied
+Lemma Annotation:	apply
+POS:	VBN
+NER:	apply
+
+and-13
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+have-14
+Text Annotation:	have
+Lemma Annotation:	have
+POS:	VBP
+NER:	have
+
+the-15
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+potential-16
+Text Annotation:	potential
+Lemma Annotation:	potential
+POS:	JJ
+NER:	potential
+
+to-17
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+target-18
+Text Annotation:	target
+Lemma Annotation:	target
+POS:	VB
+NER:	target
+
+the-19
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+mechanisms-20
+Text Annotation:	mechanisms
+Lemma Annotation:	mechanism
+POS:	NNS
+NER:	mechanism
+
+that-21
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+appear-22
+Text Annotation:	appear
+Lemma Annotation:	appear
+POS:	VBP
+NER:	appear
+
+to-23
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+underlie-24
+Text Annotation:	underlie
+Lemma Annotation:	underlie
+POS:	VB
+NER:	underlie
+
+these-25
+Text Annotation:	these
+Lemma Annotation:	these
+POS:	DT
+NER:	these
+
+effects-26
+Text Annotation:	effects
+Lemma Annotation:	effect
+POS:	NNS
+NER:	effect
+
+.-27
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+This-1
+Text Annotation:	This
+Lemma Annotation:	this
+POS:	DT
+NER:	this
+
+may-2
+Text Annotation:	may
+Lemma Annotation:	may
+POS:	MD
+NER:	may
+
+help-3
+Text Annotation:	help
+Lemma Annotation:	help
+POS:	VB
+NER:	help
+
+make-4
+Text Annotation:	make
+Lemma Annotation:	make
+POS:	VB
+NER:	make
+
+this-5
+Text Annotation:	this
+Lemma Annotation:	this
+POS:	DT
+NER:	this
+
+prevention-6
+Text Annotation:	prevention
+Lemma Annotation:	prevention
+POS:	NN
+NER:	prevention
+
+strategies-7
+Text Annotation:	strategies
+Lemma Annotation:	strategy
+POS:	NNS
+NER:	strategy
+
+more-8
+Text Annotation:	more
+Lemma Annotation:	more
+POS:	RBR
+NER:	more
+
+efficacious-9
+Text Annotation:	efficacious
+Lemma Annotation:	efficacious
+POS:	JJ
+NER:	efficacious
+
+.-10
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Abstract 4
+
+Major-1
+Text Annotation:	Major
+Lemma Annotation:	major
+POS:	JJ
+NER:	major
+
+depression-2
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+is-3
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+a-4
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+chronic-5
+Text Annotation:	chronic
+Lemma Annotation:	chronic
+POS:	JJ
+NER:	chronic
+
+and-6
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+debilitating-7
+Text Annotation:	debilitating
+Lemma Annotation:	debilitating
+POS:	JJ
+NER:	debilitating
+
+illness-8
+Text Annotation:	illness
+Lemma Annotation:	illness
+POS:	NN
+NER:	illness
+
+that-9
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+effects-10
+Text Annotation:	effects
+Lemma Annotation:	effect
+POS:	NNS
+NER:	effect
+
+approximately-11
+Text Annotation:	approximately
+Lemma Annotation:	approximately
+POS:	RB
+NER:	approximately
+
+1-12
+Text Annotation:	1
+Lemma Annotation:	1
+POS:	CD
+NER:	1
+
+in-13
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+5-14
+Text Annotation:	5
+Lemma Annotation:	5
+POS:	CD
+NER:	5
+
+people-15
+Text Annotation:	people
+Lemma Annotation:	people
+POS:	NNS
+NER:	people
+
+,-16
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+but-17
+Text Annotation:	but
+Lemma Annotation:	but
+POS:	CC
+NER:	but
+
+currently-18
+Text Annotation:	currently
+Lemma Annotation:	currently
+POS:	RB
+NER:	currently
+
+available-19
+Text Annotation:	available
+Lemma Annotation:	available
+POS:	JJ
+NER:	available
+
+treatments-20
+Text Annotation:	treatments
+Lemma Annotation:	treatment
+POS:	NNS
+NER:	treatment
+
+are-21
+Text Annotation:	are
+Lemma Annotation:	be
+POS:	VBP
+NER:	be
+
+limited-22
+Text Annotation:	limited
+Lemma Annotation:	limit
+POS:	VBN
+NER:	limit
+
+by-23
+Text Annotation:	by
+Lemma Annotation:	by
+POS:	IN
+NER:	by
+
+low-24
+Text Annotation:	low
+Lemma Annotation:	low
+POS:	JJ
+NER:	low
+
+rates-25
+Text Annotation:	rates
+Lemma Annotation:	rate
+POS:	NNS
+NER:	rate
+
+of-26
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+efficacy-27
+Text Annotation:	efficacy
+Lemma Annotation:	efficacy
+POS:	NN
+NER:	efficacy
+
+,-28
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+therapeutic-29
+Text Annotation:	therapeutic
+Lemma Annotation:	therapeutic
+POS:	JJ
+NER:	therapeutic
+
+time-30
+Text Annotation:	time
+Lemma Annotation:	time
+POS:	NN
+NER:	time
+
+lag-31
+Text Annotation:	lag
+Lemma Annotation:	lag
+POS:	NN
+NER:	lag
+
+,-32
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-33
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+undesirable-34
+Text Annotation:	undesirable
+Lemma Annotation:	undesirable
+POS:	JJ
+NER:	undesirable
+
+side-35
+Text Annotation:	side
+Lemma Annotation:	side
+POS:	JJ
+NER:	side
+
+effects-36
+Text Annotation:	effects
+Lemma Annotation:	effect
+POS:	NNS
+NER:	effect
+
+.-37
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Recent-1
+Text Annotation:	Recent
+Lemma Annotation:	recent
+POS:	JJ
+NER:	recent
+
+efforts-2
+Text Annotation:	efforts
+Lemma Annotation:	effort
+POS:	NNS
+NER:	effort
+
+have-3
+Text Annotation:	have
+Lemma Annotation:	have
+POS:	VBP
+NER:	have
+
+been-4
+Text Annotation:	been
+Lemma Annotation:	be
+POS:	VBN
+NER:	be
+
+directed-5
+Text Annotation:	directed
+Lemma Annotation:	direct
+POS:	VBN
+NER:	direct
+
+towards-6
+Text Annotation:	towards
+Lemma Annotation:	towards
+POS:	IN
+NER:	towards
+
+investigating-7
+Text Annotation:	investigating
+Lemma Annotation:	investigate
+POS:	VBG
+NER:	investigate
+
+rapid-acting-8
+Text Annotation:	rapid-acting
+Lemma Annotation:	rapid-acting
+POS:	JJ
+NER:	rapid-acting
+
+agents-9
+Text Annotation:	agents
+Lemma Annotation:	agent
+POS:	NNS
+NER:	agent
+
+that-10
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+reverse-11
+Text Annotation:	reverse
+Lemma Annotation:	reverse
+POS:	VBP
+NER:	reverse
+
+the-12
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+behavioral-13
+Text Annotation:	behavioral
+Lemma Annotation:	behavioral
+POS:	JJ
+NER:	behavioral
+
+and-14
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+neuronal-15
+Text Annotation:	neuronal
+Lemma Annotation:	neuronal
+POS:	JJ
+NER:	neuronal
+
+deficits-16
+Text Annotation:	deficits
+Lemma Annotation:	deficit
+POS:	NNS
+NER:	deficit
+
+of-17
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+chronic-18
+Text Annotation:	chronic
+Lemma Annotation:	chronic
+POS:	JJ
+NER:	chronic
+
+stress-19
+Text Annotation:	stress
+Lemma Annotation:	stress
+POS:	NN
+NER:	stress
+
+and-20
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+depression-21
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+,-22
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+notably-23
+Text Annotation:	notably
+Lemma Annotation:	notably
+POS:	RB
+NER:	notably
+
+the-24
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+glutamate-25
+Text Annotation:	glutamate
+Lemma Annotation:	glutamate
+POS:	JJ
+NER:	glutamate
+
+NMDA-26
+Text Annotation:	NMDA
+Lemma Annotation:	nmda
+POS:	NN
+NER:	nmda
+
+receptor-27
+Text Annotation:	receptor
+Lemma Annotation:	receptor
+POS:	NN
+NER:	receptor
+
+antagonist-28
+Text Annotation:	antagonist
+Lemma Annotation:	antagonist
+POS:	NN
+NER:	antagonist
+
+ketamine-29
+Text Annotation:	ketamine
+Lemma Annotation:	ketamine
+POS:	NN
+NER:	ketamine
+
+.-30
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+The-1
+Text Annotation:	The
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+cellular-2
+Text Annotation:	cellular
+Lemma Annotation:	cellular
+POS:	JJ
+NER:	cellular
+
+mechanisms-3
+Text Annotation:	mechanisms
+Lemma Annotation:	mechanism
+POS:	NNS
+NER:	mechanism
+
+underlying-4
+Text Annotation:	underlying
+Lemma Annotation:	underlie
+POS:	VBG
+NER:	underlie
+
+the-5
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+rapid-6
+Text Annotation:	rapid
+Lemma Annotation:	rapid
+POS:	JJ
+NER:	rapid
+
+antidepressant-7
+Text Annotation:	antidepressant
+Lemma Annotation:	antidepressant
+POS:	JJ
+NER:	antidepressant
+
+actions-8
+Text Annotation:	actions
+Lemma Annotation:	action
+POS:	NNS
+NER:	action
+
+of-9
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+ketamine-10
+Text Annotation:	ketamine
+Lemma Annotation:	ketamine
+POS:	NN
+NER:	ketamine
+
+and-11
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+related-12
+Text Annotation:	related
+Lemma Annotation:	related
+POS:	JJ
+NER:	related
+
+agents-13
+Text Annotation:	agents
+Lemma Annotation:	agent
+POS:	NNS
+NER:	agent
+
+are-14
+Text Annotation:	are
+Lemma Annotation:	be
+POS:	VBP
+NER:	be
+
+discussed-15
+Text Annotation:	discussed
+Lemma Annotation:	discuss
+POS:	VBN
+NER:	discuss
+
+,-16
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+as-17
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	RB
+NER:	as
+
+well-18
+Text Annotation:	well
+Lemma Annotation:	well
+POS:	RB
+NER:	well
+
+as-19
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	IN
+NER:	as
+
+novel-20
+Text Annotation:	novel
+Lemma Annotation:	novel
+POS:	JJ
+NER:	novel
+
+,-21
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+selective-22
+Text Annotation:	selective
+Lemma Annotation:	selective
+POS:	JJ
+NER:	selective
+
+glutamatergic-23
+Text Annotation:	glutamatergic
+Lemma Annotation:	glutamatergic
+POS:	JJ
+NER:	glutamatergic
+
+receptor-24
+Text Annotation:	receptor
+Lemma Annotation:	receptor
+POS:	NN
+NER:	receptor
+
+targets-25
+Text Annotation:	targets
+Lemma Annotation:	target
+POS:	NNS
+NER:	target
+
+that-26
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+are-27
+Text Annotation:	are
+Lemma Annotation:	be
+POS:	VBP
+NER:	be
+
+safer-28
+Text Annotation:	safer
+Lemma Annotation:	safer
+POS:	JJR
+NER:	safer
+
+and-29
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+have-30
+Text Annotation:	have
+Lemma Annotation:	have
+POS:	VBP
+NER:	have
+
+fewer-31
+Text Annotation:	fewer
+Lemma Annotation:	fewer
+POS:	JJR
+NER:	fewer
+
+side-32
+Text Annotation:	side
+Lemma Annotation:	side
+POS:	JJ
+NER:	side
+
+effects-33
+Text Annotation:	effects
+Lemma Annotation:	effect
+POS:	NNS
+NER:	effect
+
+.-34
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Abstract 5
+
+Depression-1
+Text Annotation:	Depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+is-2
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+a-3
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+common-4
+Text Annotation:	common
+Lemma Annotation:	common
+POS:	JJ
+NER:	common
+
+complication-5
+Text Annotation:	complication
+Lemma Annotation:	complication
+POS:	NN
+NER:	complication
+
+of-6
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+pregnancy-7
+Text Annotation:	pregnancy
+Lemma Annotation:	pregnancy
+POS:	NN
+NER:	pregnancy
+
+and-8
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+the-9
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+postpartum-10
+Text Annotation:	postpartum
+Lemma Annotation:	postpartum
+POS:	JJ
+NER:	postpartum
+
+period-11
+Text Annotation:	period
+Lemma Annotation:	period
+POS:	NN
+NER:	period
+
+.-12
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+There-1
+Text Annotation:	There
+Lemma Annotation:	there
+POS:	EX
+NER:	there
+
+are-2
+Text Annotation:	are
+Lemma Annotation:	be
+POS:	VBP
+NER:	be
+
+multiple-3
+Text Annotation:	multiple
+Lemma Annotation:	multiple
+POS:	JJ
+NER:	multiple
+
+risk-4
+Text Annotation:	risk
+Lemma Annotation:	risk
+POS:	NN
+NER:	risk
+
+factors-5
+Text Annotation:	factors
+Lemma Annotation:	factor
+POS:	NNS
+NER:	factor
+
+for-6
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+peripartum-7
+Text Annotation:	peripartum
+Lemma Annotation:	peripartum
+POS:	NN
+NER:	peripartum
+
+mood-8
+Text Annotation:	mood
+Lemma Annotation:	mood
+POS:	NN
+NER:	mood
+
+disorders-9
+Text Annotation:	disorders
+Lemma Annotation:	disorder
+POS:	NNS
+NER:	disorder
+
+,-10
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+most-11
+Text Annotation:	most
+Lemma Annotation:	most
+POS:	RBS
+NER:	most
+
+important-12
+Text Annotation:	important
+Lemma Annotation:	important
+POS:	JJ
+NER:	important
+
+of-13
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+which-14
+Text Annotation:	which
+Lemma Annotation:	which
+POS:	WDT
+NER:	which
+
+is-15
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+a-16
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+prior-17
+Text Annotation:	prior
+Lemma Annotation:	prior
+POS:	JJ
+NER:	prior
+
+history-18
+Text Annotation:	history
+Lemma Annotation:	history
+POS:	NN
+NER:	history
+
+of-19
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+depression-20
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+.-21
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Both-1
+Text Annotation:	Both
+Lemma Annotation:	both
+POS:	DT
+NER:	both
+
+depression-2
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+and-3
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+antidepressant-4
+Text Annotation:	antidepressant
+Lemma Annotation:	antidepressant
+POS:	JJ
+NER:	antidepressant
+
+medications-5
+Text Annotation:	medications
+Lemma Annotation:	medication
+POS:	NNS
+NER:	medication
+
+confer-6
+Text Annotation:	confer
+Lemma Annotation:	confer
+POS:	VBP
+NER:	confer
+
+risk-7
+Text Annotation:	risk
+Lemma Annotation:	risk
+POS:	NN
+NER:	risk
+
+upon-8
+Text Annotation:	upon
+Lemma Annotation:	upon
+POS:	IN
+NER:	upon
+
+the-9
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+infant-10
+Text Annotation:	infant
+Lemma Annotation:	infant
+POS:	NN
+NER:	infant
+
+.-11
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Maternal-1
+Text Annotation:	Maternal
+Lemma Annotation:	maternal
+POS:	JJ
+NER:	maternal
+
+depression-2
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+has-3
+Text Annotation:	has
+Lemma Annotation:	have
+POS:	VBZ
+NER:	have
+
+been-4
+Text Annotation:	been
+Lemma Annotation:	be
+POS:	VBN
+NER:	be
+
+associated-5
+Text Annotation:	associated
+Lemma Annotation:	associate
+POS:	VBN
+NER:	associate
+
+with-6
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+preterm-7
+Text Annotation:	preterm
+Lemma Annotation:	preterm
+POS:	JJ
+NER:	preterm
+
+birth-8
+Text Annotation:	birth
+Lemma Annotation:	birth
+POS:	NN
+NER:	birth
+
+,-9
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+low-10
+Text Annotation:	low
+Lemma Annotation:	low
+POS:	JJ
+NER:	low
+
+birth-11
+Text Annotation:	birth
+Lemma Annotation:	birth
+POS:	NN
+NER:	birth
+
+weight-12
+Text Annotation:	weight
+Lemma Annotation:	weight
+POS:	NN
+NER:	weight
+
+,-13
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+fetal-14
+Text Annotation:	fetal
+Lemma Annotation:	fetal
+POS:	JJ
+NER:	fetal
+
+growth-15
+Text Annotation:	growth
+Lemma Annotation:	growth
+POS:	NN
+NER:	growth
+
+restriction-16
+Text Annotation:	restriction
+Lemma Annotation:	restriction
+POS:	NN
+NER:	restriction
+
+,-17
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-18
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+postnatal-19
+Text Annotation:	postnatal
+Lemma Annotation:	postnatal
+POS:	JJ
+NER:	postnatal
+
+cognitive-20
+Text Annotation:	cognitive
+Lemma Annotation:	cognitive
+POS:	JJ
+NER:	cognitive
+
+and-21
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+emotional-22
+Text Annotation:	emotional
+Lemma Annotation:	emotional
+POS:	JJ
+NER:	emotional
+
+complications-23
+Text Annotation:	complications
+Lemma Annotation:	complication
+POS:	NNS
+NER:	complication
+
+.-24
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Antidepressant-1
+Text Annotation:	Antidepressant
+Lemma Annotation:	antidepressant
+POS:	JJ
+NER:	antidepressant
+
+exposure-2
+Text Annotation:	exposure
+Lemma Annotation:	exposure
+POS:	NN
+NER:	exposure
+
+has-3
+Text Annotation:	has
+Lemma Annotation:	have
+POS:	VBZ
+NER:	have
+
+been-4
+Text Annotation:	been
+Lemma Annotation:	be
+POS:	VBN
+NER:	be
+
+associated-5
+Text Annotation:	associated
+Lemma Annotation:	associate
+POS:	VBN
+NER:	associate
+
+with-6
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+preterm-7
+Text Annotation:	preterm
+Lemma Annotation:	preterm
+POS:	JJ
+NER:	preterm
+
+birth-8
+Text Annotation:	birth
+Lemma Annotation:	birth
+POS:	NN
+NER:	birth
+
+,-9
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+reductions-10
+Text Annotation:	reductions
+Lemma Annotation:	reduction
+POS:	NNS
+NER:	reduction
+
+in-11
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+birth-12
+Text Annotation:	birth
+Lemma Annotation:	birth
+POS:	NN
+NER:	birth
+
+weight-13
+Text Annotation:	weight
+Lemma Annotation:	weight
+POS:	NN
+NER:	weight
+
+,-14
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+persistent-15
+Text Annotation:	persistent
+Lemma Annotation:	persistent
+POS:	JJ
+NER:	persistent
+
+pulmonary-16
+Text Annotation:	pulmonary
+Lemma Annotation:	pulmonary
+POS:	JJ
+NER:	pulmonary
+
+hypertension-17
+Text Annotation:	hypertension
+Lemma Annotation:	hypertension
+POS:	NN
+NER:	hypertension
+
+,-18
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-19
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+postnatal-20
+Text Annotation:	postnatal
+Lemma Annotation:	postnatal
+POS:	JJ
+NER:	postnatal
+
+adaptation-21
+Text Annotation:	adaptation
+Lemma Annotation:	adaptation
+POS:	NN
+NER:	adaptation
+
+syndrome-22
+Text Annotation:	syndrome
+Lemma Annotation:	syndrome
+POS:	NN
+NER:	syndrome
+
+-LRB--23
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+PNAS-24
+Text Annotation:	PNAS
+Lemma Annotation:	pnas
+POS:	NN
+NER:	pnas
+
+-RRB--25
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+as-26
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	RB
+NER:	as
+
+well-27
+Text Annotation:	well
+Lemma Annotation:	well
+POS:	RB
+NER:	well
+
+as-28
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	IN
+NER:	as
+
+a-29
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+possible-30
+Text Annotation:	possible
+Lemma Annotation:	possible
+POS:	JJ
+NER:	possible
+
+connection-31
+Text Annotation:	connection
+Lemma Annotation:	connection
+POS:	NN
+NER:	connection
+
+with-32
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+autism-33
+Text Annotation:	autism
+Lemma Annotation:	autism
+POS:	NN
+NER:	autism
+
+spectrum-34
+Text Annotation:	spectrum
+Lemma Annotation:	spectrum
+POS:	NN
+NER:	spectrum
+
+disorder-35
+Text Annotation:	disorder
+Lemma Annotation:	disorder
+POS:	NN
+NER:	disorder
+
+.-36
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Paroxetine-1
+Text Annotation:	Paroxetine
+Lemma Annotation:	Paroxetine
+POS:	NNP
+NER:	Paroxetine
+
+has-2
+Text Annotation:	has
+Lemma Annotation:	have
+POS:	VBZ
+NER:	have
+
+been-3
+Text Annotation:	been
+Lemma Annotation:	be
+POS:	VBN
+NER:	be
+
+associated-4
+Text Annotation:	associated
+Lemma Annotation:	associate
+POS:	VBN
+NER:	associate
+
+with-5
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+cardiac-6
+Text Annotation:	cardiac
+Lemma Annotation:	cardiac
+POS:	JJ
+NER:	cardiac
+
+malformations-7
+Text Annotation:	malformations
+Lemma Annotation:	malformation
+POS:	NNS
+NER:	malformation
+
+.-8
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Most-1
+Text Annotation:	Most
+Lemma Annotation:	most
+POS:	JJS
+NER:	most
+
+antidepressant-2
+Text Annotation:	antidepressant
+Lemma Annotation:	antidepressant
+POS:	JJ
+NER:	antidepressant
+
+medications-3
+Text Annotation:	medications
+Lemma Annotation:	medication
+POS:	NNS
+NER:	medication
+
+are-4
+Text Annotation:	are
+Lemma Annotation:	be
+POS:	VBP
+NER:	be
+
+excreted-5
+Text Annotation:	excreted
+Lemma Annotation:	excrete
+POS:	VBN
+NER:	excrete
+
+in-6
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+low-7
+Text Annotation:	low
+Lemma Annotation:	low
+POS:	JJ
+NER:	low
+
+levels-8
+Text Annotation:	levels
+Lemma Annotation:	level
+POS:	NNS
+NER:	level
+
+in-9
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+breast-10
+Text Annotation:	breast
+Lemma Annotation:	breast
+POS:	NN
+NER:	breast
+
+milk-11
+Text Annotation:	milk
+Lemma Annotation:	milk
+POS:	NN
+NER:	milk
+
+and-12
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+are-13
+Text Annotation:	are
+Lemma Annotation:	be
+POS:	VBP
+NER:	be
+
+generally-14
+Text Annotation:	generally
+Lemma Annotation:	generally
+POS:	RB
+NER:	generally
+
+compatible-15
+Text Annotation:	compatible
+Lemma Annotation:	compatible
+POS:	JJ
+NER:	compatible
+
+with-16
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+breastfeeding-17
+Text Annotation:	breastfeeding
+Lemma Annotation:	breastfeeding
+POS:	NN
+NER:	breastfeeding
+
+.-18
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+The-1
+Text Annotation:	The
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+use-2
+Text Annotation:	use
+Lemma Annotation:	use
+POS:	NN
+NER:	use
+
+of-3
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+antidepressants-4
+Text Annotation:	antidepressants
+Lemma Annotation:	antidepressant
+POS:	NNS
+NER:	antidepressant
+
+during-5
+Text Annotation:	during
+Lemma Annotation:	during
+POS:	IN
+NER:	during
+
+pregnancy-6
+Text Annotation:	pregnancy
+Lemma Annotation:	pregnancy
+POS:	NN
+NER:	pregnancy
+
+and-7
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+postpartum-8
+Text Annotation:	postpartum
+Lemma Annotation:	postpartum
+POS:	NN
+NER:	postpartum
+
+must-9
+Text Annotation:	must
+Lemma Annotation:	must
+POS:	MD
+NER:	must
+
+be-10
+Text Annotation:	be
+Lemma Annotation:	be
+POS:	VB
+NER:	be
+
+weighed-11
+Text Annotation:	weighed
+Lemma Annotation:	weigh
+POS:	VBN
+NER:	weigh
+
+against-12
+Text Annotation:	against
+Lemma Annotation:	against
+POS:	IN
+NER:	against
+
+the-13
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+risk-14
+Text Annotation:	risk
+Lemma Annotation:	risk
+POS:	NN
+NER:	risk
+
+of-15
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+untreated-16
+Text Annotation:	untreated
+Lemma Annotation:	untreated
+POS:	JJ
+NER:	untreated
+
+depression-17
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+in-18
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+the-19
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+mother-20
+Text Annotation:	mother
+Lemma Annotation:	mother
+POS:	NN
+NER:	mother
+
+.-21
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Abstract 6
+
+How-1
+Text Annotation:	How
+Lemma Annotation:	how
+POS:	WRB
+NER:	how
+
+effective-2
+Text Annotation:	effective
+Lemma Annotation:	effective
+POS:	JJ
+NER:	effective
+
+is-3
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+supported-4
+Text Annotation:	supported
+Lemma Annotation:	support
+POS:	VBN
+NER:	support
+
+computerised-5
+Text Annotation:	computerised
+Lemma Annotation:	computerised
+POS:	JJ
+NER:	computerised
+
+cognitive-6
+Text Annotation:	cognitive
+Lemma Annotation:	cognitive
+POS:	JJ
+NER:	cognitive
+
+behaviour-7
+Text Annotation:	behaviour
+Lemma Annotation:	behaviour
+POS:	NN
+NER:	behaviour
+
+therapy-8
+Text Annotation:	therapy
+Lemma Annotation:	therapy
+POS:	NN
+NER:	therapy
+
+-LRB--9
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+cCBT-10
+Text Annotation:	cCBT
+Lemma Annotation:	ccbt
+POS:	NN
+NER:	ccbt
+
+-RRB--11
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+as-12
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	IN
+NER:	as
+
+an-13
+Text Annotation:	an
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+adjunct-14
+Text Annotation:	adjunct
+Lemma Annotation:	adjunct
+POS:	NN
+NER:	adjunct
+
+to-15
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+usual-16
+Text Annotation:	usual
+Lemma Annotation:	usual
+POS:	JJ
+NER:	usual
+
+primary-17
+Text Annotation:	primary
+Lemma Annotation:	primary
+POS:	JJ
+NER:	primary
+
+care-18
+Text Annotation:	care
+Lemma Annotation:	care
+POS:	NN
+NER:	care
+
+for-19
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+adults-20
+Text Annotation:	adults
+Lemma Annotation:	adult
+POS:	NNS
+NER:	adult
+
+with-21
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+depression-22
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+?-23
+Text Annotation:	?
+Lemma Annotation:	?
+POS:	.
+NER:	?
+
+Abstract 7
+
+Depression-1
+Text Annotation:	Depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+is-2
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+a-3
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+relatively-4
+Text Annotation:	relatively
+Lemma Annotation:	relatively
+POS:	RB
+NER:	relatively
+
+common-5
+Text Annotation:	common
+Lemma Annotation:	common
+POS:	JJ
+NER:	common
+
+diagnosis-6
+Text Annotation:	diagnosis
+Lemma Annotation:	diagnosis
+POS:	NN
+NER:	diagnosis
+
+in-7
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+children-8
+Text Annotation:	children
+Lemma Annotation:	child
+POS:	NNS
+NER:	child
+
+and-9
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+adolescents-10
+Text Annotation:	adolescents
+Lemma Annotation:	adolescent
+POS:	NNS
+NER:	adolescent
+
+,-11
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-12
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+is-13
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+associated-14
+Text Annotation:	associated
+Lemma Annotation:	associate
+POS:	VBN
+NER:	associate
+
+with-15
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+significant-16
+Text Annotation:	significant
+Lemma Annotation:	significant
+POS:	JJ
+NER:	significant
+
+morbidity-17
+Text Annotation:	morbidity
+Lemma Annotation:	morbidity
+POS:	NN
+NER:	morbidity
+
+and-18
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+suicidality-19
+Text Annotation:	suicidality
+Lemma Annotation:	suicidality
+POS:	NN
+NER:	suicidality
+
+in-20
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+this-21
+Text Annotation:	this
+Lemma Annotation:	this
+POS:	DT
+NER:	this
+
+population-22
+Text Annotation:	population
+Lemma Annotation:	population
+POS:	NN
+NER:	population
+
+.-23
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Evidence-based-1
+Text Annotation:	Evidence-based
+Lemma Annotation:	evidence-based
+POS:	JJ
+NER:	evidence-based
+
+treatment-2
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+of-3
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+the-4
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+acute-5
+Text Annotation:	acute
+Lemma Annotation:	acute
+POS:	JJ
+NER:	acute
+
+illness-6
+Text Annotation:	illness
+Lemma Annotation:	illness
+POS:	NN
+NER:	illness
+
+is-7
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+imperative-8
+Text Annotation:	imperative
+Lemma Annotation:	imperative
+POS:	JJ
+NER:	imperative
+
+to-9
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+try-10
+Text Annotation:	try
+Lemma Annotation:	try
+POS:	VB
+NER:	try
+
+to-11
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+prevent-12
+Text Annotation:	prevent
+Lemma Annotation:	prevent
+POS:	VB
+NER:	prevent
+
+the-13
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+development-14
+Text Annotation:	development
+Lemma Annotation:	development
+POS:	NN
+NER:	development
+
+of-15
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+treatment-resistant-16
+Text Annotation:	treatment-resistant
+Lemma Annotation:	treatment-resistant
+POS:	JJ
+NER:	treatment-resistant
+
+depression-17
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+or-18
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+other-19
+Text Annotation:	other
+Lemma Annotation:	other
+POS:	JJ
+NER:	other
+
+complications-20
+Text Annotation:	complications
+Lemma Annotation:	complication
+POS:	NNS
+NER:	complication
+
+.-21
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+In-1
+Text Annotation:	In
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+situations-2
+Text Annotation:	situations
+Lemma Annotation:	situation
+POS:	NNS
+NER:	situation
+
+where-3
+Text Annotation:	where
+Lemma Annotation:	where
+POS:	WRB
+NER:	where
+
+response-4
+Text Annotation:	response
+Lemma Annotation:	response
+POS:	NN
+NER:	response
+
+to-5
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+acute-6
+Text Annotation:	acute
+Lemma Annotation:	acute
+POS:	JJ
+NER:	acute
+
+treatment-7
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+is-8
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+inadequate-9
+Text Annotation:	inadequate
+Lemma Annotation:	inadequate
+POS:	JJ
+NER:	inadequate
+
+,-10
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+clinicians-11
+Text Annotation:	clinicians
+Lemma Annotation:	clinician
+POS:	NNS
+NER:	clinician
+
+should-12
+Text Annotation:	should
+Lemma Annotation:	should
+POS:	MD
+NER:	should
+
+first-13
+Text Annotation:	first
+Lemma Annotation:	first
+POS:	RB
+NER:	first
+
+consider-14
+Text Annotation:	consider
+Lemma Annotation:	consider
+POS:	VB
+NER:	consider
+
+factors-15
+Text Annotation:	factors
+Lemma Annotation:	factor
+POS:	NNS
+NER:	factor
+
+that-16
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+may-17
+Text Annotation:	may
+Lemma Annotation:	may
+POS:	MD
+NER:	may
+
+influence-18
+Text Annotation:	influence
+Lemma Annotation:	influence
+POS:	VB
+NER:	influence
+
+outcome-19
+Text Annotation:	outcome
+Lemma Annotation:	outcome
+POS:	NN
+NER:	outcome
+
+,-20
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+such-21
+Text Annotation:	such
+Lemma Annotation:	such
+POS:	JJ
+NER:	such
+
+as-22
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	IN
+NER:	as
+
+psychiatric-23
+Text Annotation:	psychiatric
+Lemma Annotation:	psychiatric
+POS:	JJ
+NER:	psychiatric
+
+or-24
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+medical-25
+Text Annotation:	medical
+Lemma Annotation:	medical
+POS:	JJ
+NER:	medical
+
+comorbidities-26
+Text Annotation:	comorbidities
+Lemma Annotation:	comorbidity
+POS:	NNS
+NER:	comorbidity
+
+,-27
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+psychosocial-28
+Text Annotation:	psychosocial
+Lemma Annotation:	psychosocial
+POS:	JJ
+NER:	psychosocial
+
+stressors-29
+Text Annotation:	stressors
+Lemma Annotation:	stressor
+POS:	NNS
+NER:	stressor
+
+,-30
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-31
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+treatment-32
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+noncompliance-33
+Text Annotation:	noncompliance
+Lemma Annotation:	noncompliance
+POS:	NN
+NER:	noncompliance
+
+.-34
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Selective-1
+Text Annotation:	Selective
+Lemma Annotation:	selective
+POS:	JJ
+NER:	selective
+
+serotonin-2
+Text Annotation:	serotonin
+Lemma Annotation:	serotonin
+POS:	NN
+NER:	serotonin
+
+reuptake-3
+Text Annotation:	reuptake
+Lemma Annotation:	reuptake
+POS:	NN
+NER:	reuptake
+
+inhibitors-4
+Text Annotation:	inhibitors
+Lemma Annotation:	inhibitor
+POS:	NNS
+NER:	inhibitor
+
+-LRB--5
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+SSRIs-6
+Text Annotation:	SSRIs
+Lemma Annotation:	ssri
+POS:	NNS
+NER:	ssri
+
+-RRB--7
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+are-8
+Text Annotation:	are
+Lemma Annotation:	be
+POS:	VBP
+NER:	be
+
+the-9
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+first-line-10
+Text Annotation:	first-line
+Lemma Annotation:	first-line
+POS:	JJ
+NER:	first-line
+
+treatment-11
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+for-12
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+depression-13
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+in-14
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+children-15
+Text Annotation:	children
+Lemma Annotation:	child
+POS:	NNS
+NER:	child
+
+and-16
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+adolescents-17
+Text Annotation:	adolescents
+Lemma Annotation:	adolescent
+POS:	NNS
+NER:	adolescent
+
+.-18
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+For-1
+Text Annotation:	For
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+treatment-resistant-2
+Text Annotation:	treatment-resistant
+Lemma Annotation:	treatment-resistant
+POS:	JJ
+NER:	treatment-resistant
+
+depression-3
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+,-4
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+a-5
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+switch-6
+Text Annotation:	switch
+Lemma Annotation:	switch
+POS:	NN
+NER:	switch
+
+to-7
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+an-8
+Text Annotation:	an
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+alternate-9
+Text Annotation:	alternate
+Lemma Annotation:	alternate
+POS:	JJ
+NER:	alternate
+
+SSRI-10
+Text Annotation:	SSRI
+Lemma Annotation:	SSRI
+POS:	NNP
+NER:	SSRI
+
+is-11
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+recommended-12
+Text Annotation:	recommended
+Lemma Annotation:	recommend
+POS:	VBN
+NER:	recommend
+
+before-13
+Text Annotation:	before
+Lemma Annotation:	before
+POS:	IN
+NER:	before
+
+trials-14
+Text Annotation:	trials
+Lemma Annotation:	trial
+POS:	NNS
+NER:	trial
+
+of-15
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+other-16
+Text Annotation:	other
+Lemma Annotation:	other
+POS:	JJ
+NER:	other
+
+antidepressants-17
+Text Annotation:	antidepressants
+Lemma Annotation:	antidepressant
+POS:	NNS
+NER:	antidepressant
+
+.-18
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Psychotherapy-1
+Text Annotation:	Psychotherapy
+Lemma Annotation:	Psychotherapy
+POS:	NNP
+NER:	Psychotherapy
+
+,-2
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+such-3
+Text Annotation:	such
+Lemma Annotation:	such
+POS:	JJ
+NER:	such
+
+as-4
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	IN
+NER:	as
+
+cognitive-5
+Text Annotation:	cognitive
+Lemma Annotation:	cognitive
+POS:	JJ
+NER:	cognitive
+
+behavioral-6
+Text Annotation:	behavioral
+Lemma Annotation:	behavioral
+POS:	JJ
+NER:	behavioral
+
+therapy-7
+Text Annotation:	therapy
+Lemma Annotation:	therapy
+POS:	NN
+NER:	therapy
+
+or-8
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+interpersonal-9
+Text Annotation:	interpersonal
+Lemma Annotation:	interpersonal
+POS:	JJ
+NER:	interpersonal
+
+therapy-10
+Text Annotation:	therapy
+Lemma Annotation:	therapy
+POS:	NN
+NER:	therapy
+
+,-11
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+may-12
+Text Annotation:	may
+Lemma Annotation:	may
+POS:	MD
+NER:	may
+
+improve-13
+Text Annotation:	improve
+Lemma Annotation:	improve
+POS:	VB
+NER:	improve
+
+treatment-14
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+response-15
+Text Annotation:	response
+Lemma Annotation:	response
+POS:	NN
+NER:	response
+
+.-16
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+More-1
+Text Annotation:	More
+Lemma Annotation:	more
+POS:	RBR
+NER:	more
+
+research-2
+Text Annotation:	research
+Lemma Annotation:	research
+POS:	NN
+NER:	research
+
+is-3
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+needed-4
+Text Annotation:	needed
+Lemma Annotation:	need
+POS:	VBN
+NER:	need
+
+examining-5
+Text Annotation:	examining
+Lemma Annotation:	examine
+POS:	VBG
+NER:	examine
+
+medication-6
+Text Annotation:	medication
+Lemma Annotation:	medication
+POS:	NN
+NER:	medication
+
+augmentation-7
+Text Annotation:	augmentation
+Lemma Annotation:	augmentation
+POS:	NN
+NER:	augmentation
+
+strategies-8
+Text Annotation:	strategies
+Lemma Annotation:	strategy
+POS:	NNS
+NER:	strategy
+
+for-9
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+treatment-resistant-10
+Text Annotation:	treatment-resistant
+Lemma Annotation:	treatment-resistant
+POS:	JJ
+NER:	treatment-resistant
+
+depression-11
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+in-12
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+children-13
+Text Annotation:	children
+Lemma Annotation:	child
+POS:	NNS
+NER:	child
+
+and-14
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+adolescents-15
+Text Annotation:	adolescents
+Lemma Annotation:	adolescent
+POS:	NNS
+NER:	adolescent
+
+.-16
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Abstract 8
+
+Effective-1
+Text Annotation:	Effective
+Lemma Annotation:	effective
+POS:	JJ
+NER:	effective
+
+,-2
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+accessible-3
+Text Annotation:	accessible
+Lemma Annotation:	accessible
+POS:	JJ
+NER:	accessible
+
+,-4
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+and-5
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+affordable-6
+Text Annotation:	affordable
+Lemma Annotation:	affordable
+POS:	JJ
+NER:	affordable
+
+depression-7
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+treatment-8
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+is-9
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+of-10
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+high-11
+Text Annotation:	high
+Lemma Annotation:	high
+POS:	JJ
+NER:	high
+
+importance-12
+Text Annotation:	importance
+Lemma Annotation:	importance
+POS:	NN
+NER:	importance
+
+considering-13
+Text Annotation:	considering
+Lemma Annotation:	consider
+POS:	VBG
+NER:	consider
+
+the-14
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+large-15
+Text Annotation:	large
+Lemma Annotation:	large
+POS:	JJ
+NER:	large
+
+personal-16
+Text Annotation:	personal
+Lemma Annotation:	personal
+POS:	JJ
+NER:	personal
+
+and-17
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+economic-18
+Text Annotation:	economic
+Lemma Annotation:	economic
+POS:	JJ
+NER:	economic
+
+burden-19
+Text Annotation:	burden
+Lemma Annotation:	burden
+POS:	NN
+NER:	burden
+
+of-20
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+depression-21
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+.-22
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Internet-based-1
+Text Annotation:	Internet-based
+Lemma Annotation:	internet-based
+POS:	JJ
+NER:	internet-based
+
+treatment-2
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+is-3
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+considered-4
+Text Annotation:	considered
+Lemma Annotation:	consider
+POS:	VBN
+NER:	consider
+
+a-5
+Text Annotation:	a
+Lemma Annotation:	a
+POS:	DT
+NER:	a
+
+promising-6
+Text Annotation:	promising
+Lemma Annotation:	promising
+POS:	JJ
+NER:	promising
+
+clinical-7
+Text Annotation:	clinical
+Lemma Annotation:	clinical
+POS:	JJ
+NER:	clinical
+
+and-8
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+cost-effective-9
+Text Annotation:	cost-effective
+Lemma Annotation:	cost-effective
+POS:	JJ
+NER:	cost-effective
+
+alternative-10
+Text Annotation:	alternative
+Lemma Annotation:	alternative
+POS:	NN
+NER:	alternative
+
+to-11
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+current-12
+Text Annotation:	current
+Lemma Annotation:	current
+POS:	JJ
+NER:	current
+
+routine-13
+Text Annotation:	routine
+Lemma Annotation:	routine
+POS:	JJ
+NER:	routine
+
+depression-14
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+treatment-15
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+strategies-16
+Text Annotation:	strategies
+Lemma Annotation:	strategy
+POS:	NNS
+NER:	strategy
+
+such-17
+Text Annotation:	such
+Lemma Annotation:	such
+POS:	JJ
+NER:	such
+
+as-18
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	IN
+NER:	as
+
+face-to-face-19
+Text Annotation:	face-to-face
+Lemma Annotation:	face-to-face
+POS:	JJ
+NER:	face-to-face
+
+psychotherapy-20
+Text Annotation:	psychotherapy
+Lemma Annotation:	psychotherapy
+POS:	NN
+NER:	psychotherapy
+
+.-21
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+However-1
+Text Annotation:	However
+Lemma Annotation:	however
+POS:	RB
+NER:	however
+
+,-2
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+it-3
+Text Annotation:	it
+Lemma Annotation:	it
+POS:	PRP
+NER:	it
+
+is-4
+Text Annotation:	is
+Lemma Annotation:	be
+POS:	VBZ
+NER:	be
+
+not-5
+Text Annotation:	not
+Lemma Annotation:	not
+POS:	RB
+NER:	not
+
+clear-6
+Text Annotation:	clear
+Lemma Annotation:	clear
+POS:	JJ
+NER:	clear
+
+whether-7
+Text Annotation:	whether
+Lemma Annotation:	whether
+POS:	IN
+NER:	whether
+
+research-8
+Text Annotation:	research
+Lemma Annotation:	research
+POS:	NN
+NER:	research
+
+findings-9
+Text Annotation:	findings
+Lemma Annotation:	finding
+POS:	NNS
+NER:	finding
+
+translate-10
+Text Annotation:	translate
+Lemma Annotation:	translate
+POS:	VBP
+NER:	translate
+
+to-11
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+routine-12
+Text Annotation:	routine
+Lemma Annotation:	routine
+POS:	JJ
+NER:	routine
+
+clinical-13
+Text Annotation:	clinical
+Lemma Annotation:	clinical
+POS:	JJ
+NER:	clinical
+
+practice-14
+Text Annotation:	practice
+Lemma Annotation:	practice
+POS:	NN
+NER:	practice
+
+such-15
+Text Annotation:	such
+Lemma Annotation:	such
+POS:	JJ
+NER:	such
+
+as-16
+Text Annotation:	as
+Lemma Annotation:	as
+POS:	IN
+NER:	as
+
+primary-17
+Text Annotation:	primary
+Lemma Annotation:	primary
+POS:	JJ
+NER:	primary
+
+or-18
+Text Annotation:	or
+Lemma Annotation:	or
+POS:	CC
+NER:	or
+
+specialized-19
+Text Annotation:	specialized
+Lemma Annotation:	specialized
+POS:	JJ
+NER:	specialized
+
+mental-20
+Text Annotation:	mental
+Lemma Annotation:	mental
+POS:	JJ
+NER:	mental
+
+health-21
+Text Annotation:	health
+Lemma Annotation:	health
+POS:	NN
+NER:	health
+
+care-22
+Text Annotation:	care
+Lemma Annotation:	care
+POS:	NN
+NER:	care
+
+.-23
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+The-1
+Text Annotation:	The
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+E-COMPARED-2
+Text Annotation:	E-COMPARED
+Lemma Annotation:	e-compared
+POS:	NN
+NER:	e-compared
+
+project-3
+Text Annotation:	project
+Lemma Annotation:	project
+POS:	NN
+NER:	project
+
+aims-4
+Text Annotation:	aims
+Lemma Annotation:	aim
+POS:	VBZ
+NER:	aim
+
+to-5
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+gain-6
+Text Annotation:	gain
+Lemma Annotation:	gain
+POS:	VB
+NER:	gain
+
+knowledge-7
+Text Annotation:	knowledge
+Lemma Annotation:	knowledge
+POS:	NN
+NER:	knowledge
+
+on-8
+Text Annotation:	on
+Lemma Annotation:	on
+POS:	IN
+NER:	on
+
+the-9
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+clinical-10
+Text Annotation:	clinical
+Lemma Annotation:	clinical
+POS:	JJ
+NER:	clinical
+
+and-11
+Text Annotation:	and
+Lemma Annotation:	and
+POS:	CC
+NER:	and
+
+cost-effectiveness-12
+Text Annotation:	cost-effectiveness
+Lemma Annotation:	cost-effectiveness
+POS:	NN
+NER:	cost-effectiveness
+
+of-13
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+blended-14
+Text Annotation:	blended
+Lemma Annotation:	blended
+POS:	JJ
+NER:	blended
+
+depression-15
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+treatment-16
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+compared-17
+Text Annotation:	compared
+Lemma Annotation:	compare
+POS:	VBN
+NER:	compare
+
+to-18
+Text Annotation:	to
+Lemma Annotation:	to
+POS:	TO
+NER:	to
+
+treatment-as-usual-19
+Text Annotation:	treatment-as-usual
+Lemma Annotation:	treatment-as-usual
+POS:	JJ
+NER:	treatment-as-usual
+
+in-20
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+routine-21
+Text Annotation:	routine
+Lemma Annotation:	routine
+POS:	JJ
+NER:	routine
+
+care-22
+Text Annotation:	care
+Lemma Annotation:	care
+POS:	NN
+NER:	care
+
+.-23
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Abstract 9
+
+Despite-1
+Text Annotation:	Despite
+Lemma Annotation:	despite
+POS:	IN
+NER:	despite
+
+recent-2
+Text Annotation:	recent
+Lemma Annotation:	recent
+POS:	JJ
+NER:	recent
+
+increased-3
+Text Annotation:	increased
+Lemma Annotation:	increase
+POS:	VBN
+NER:	increase
+
+use-4
+Text Annotation:	use
+Lemma Annotation:	use
+POS:	NN
+NER:	use
+
+of-5
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+antidepressants-6
+Text Annotation:	antidepressants
+Lemma Annotation:	antidepressant
+POS:	NNS
+NER:	antidepressant
+
+in-7
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+the-8
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+United-9
+Text Annotation:	United
+Lemma Annotation:	United
+POS:	NNP
+NER:	United
+
+States-10
+Text Annotation:	States
+Lemma Annotation:	States
+POS:	NNPS
+NER:	States
+
+,-11
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+concerns-12
+Text Annotation:	concerns
+Lemma Annotation:	concern
+POS:	NNS
+NER:	concern
+
+persist-13
+Text Annotation:	persist
+Lemma Annotation:	persist
+POS:	VBP
+NER:	persist
+
+that-14
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	IN
+NER:	that
+
+many-15
+Text Annotation:	many
+Lemma Annotation:	many
+POS:	JJ
+NER:	many
+
+adults-16
+Text Annotation:	adults
+Lemma Annotation:	adult
+POS:	NNS
+NER:	adult
+
+with-17
+Text Annotation:	with
+Lemma Annotation:	with
+POS:	IN
+NER:	with
+
+depression-18
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+do-19
+Text Annotation:	do
+Lemma Annotation:	do
+POS:	VBP
+NER:	do
+
+not-20
+Text Annotation:	not
+Lemma Annotation:	not
+POS:	RB
+NER:	not
+
+receive-21
+Text Annotation:	receive
+Lemma Annotation:	receive
+POS:	VB
+NER:	receive
+
+treatment-22
+Text Annotation:	treatment
+Lemma Annotation:	treatment
+POS:	NN
+NER:	treatment
+
+,-23
+Text Annotation:	,
+Lemma Annotation:	,
+POS:	,
+NER:	,
+
+whereas-24
+Text Annotation:	whereas
+Lemma Annotation:	whereas
+POS:	IN
+NER:	whereas
+
+others-25
+Text Annotation:	others
+Lemma Annotation:	other
+POS:	NNS
+NER:	other
+
+receive-26
+Text Annotation:	receive
+Lemma Annotation:	receive
+POS:	VBP
+NER:	receive
+
+treatments-27
+Text Annotation:	treatments
+Lemma Annotation:	treatment
+POS:	NNS
+NER:	treatment
+
+that-28
+Text Annotation:	that
+Lemma Annotation:	that
+POS:	WDT
+NER:	that
+
+do-29
+Text Annotation:	do
+Lemma Annotation:	do
+POS:	VBP
+NER:	do
+
+not-30
+Text Annotation:	not
+Lemma Annotation:	not
+POS:	RB
+NER:	not
+
+match-31
+Text Annotation:	match
+Lemma Annotation:	match
+POS:	VB
+NER:	match
+
+their-32
+Text Annotation:	their
+Lemma Annotation:	they
+POS:	PRP$
+NER:	they
+
+level-33
+Text Annotation:	level
+Lemma Annotation:	level
+POS:	NN
+NER:	level
+
+of-34
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+illness-35
+Text Annotation:	illness
+Lemma Annotation:	illness
+POS:	NN
+NER:	illness
+
+severity-36
+Text Annotation:	severity
+Lemma Annotation:	severity
+POS:	NN
+NER:	severity
+
+.-37
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+
+Abstract 10
+
+Update-1
+Text Annotation:	Update
+Lemma Annotation:	Update
+POS:	NNP
+NER:	Update
+
+of-2
+Text Annotation:	of
+Lemma Annotation:	of
+POS:	IN
+NER:	of
+
+the-3
+Text Annotation:	the
+Lemma Annotation:	the
+POS:	DT
+NER:	the
+
+2009-4
+Text Annotation:	2009
+Lemma Annotation:	2009
+POS:	CD
+NER:	2009
+
+US-5
+Text Annotation:	US
+Lemma Annotation:	US
+POS:	NNP
+NER:	US
+
+Preventive-6
+Text Annotation:	Preventive
+Lemma Annotation:	Preventive
+POS:	NNP
+NER:	Preventive
+
+Services-7
+Text Annotation:	Services
+Lemma Annotation:	Services
+POS:	NNPS
+NER:	Services
+
+Task-8
+Text Annotation:	Task
+Lemma Annotation:	Task
+POS:	NNP
+NER:	Task
+
+Force-9
+Text Annotation:	Force
+Lemma Annotation:	Force
+POS:	NNP
+NER:	Force
+
+-LRB--10
+Text Annotation:	-LRB-
+Lemma Annotation:	-lrb-
+POS:	-LRB-
+NER:	-lrb-
+
+USPSTF-11
+Text Annotation:	USPSTF
+Lemma Annotation:	USPSTF
+POS:	NNP
+NER:	USPSTF
+
+-RRB--12
+Text Annotation:	-RRB-
+Lemma Annotation:	-rrb-
+POS:	-RRB-
+NER:	-rrb-
+
+recommendation-13
+Text Annotation:	recommendation
+Lemma Annotation:	recommendation
+POS:	NN
+NER:	recommendation
+
+on-14
+Text Annotation:	on
+Lemma Annotation:	on
+POS:	IN
+NER:	on
+
+screening-15
+Text Annotation:	screening
+Lemma Annotation:	screening
+POS:	NN
+NER:	screening
+
+for-16
+Text Annotation:	for
+Lemma Annotation:	for
+POS:	IN
+NER:	for
+
+depression-17
+Text Annotation:	depression
+Lemma Annotation:	depression
+POS:	NN
+NER:	depression
+
+in-18
+Text Annotation:	in
+Lemma Annotation:	in
+POS:	IN
+NER:	in
+
+adults-19
+Text Annotation:	adults
+Lemma Annotation:	adult
+POS:	NNS
+NER:	adult
+
+.-20
+Text Annotation:	.
+Lemma Annotation:	.
+POS:	.
+NER:	.
+

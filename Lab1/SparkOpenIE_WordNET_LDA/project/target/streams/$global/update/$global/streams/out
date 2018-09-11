@@ -6070,7 +6070,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 9437ms :: artifacts dl 96ms
+[debug] :: resolution report :: resolve 4393ms :: artifacts dl 187ms
 [debug] 	report for default#sparkopenie_wordnet_lda-build;0.1-SNAPSHOT compile produced in C:\dev\CS5560-Lab\Lab1\SparkOpenIE_WordNET_LDA\project\target\resolution-cache\reports\default-sparkopenie_wordnet_lda-build-compile.xml
 [debug] 	report for default#sparkopenie_wordnet_lda-build;0.1-SNAPSHOT runtime produced in C:\dev\CS5560-Lab\Lab1\SparkOpenIE_WordNET_LDA\project\target\resolution-cache\reports\default-sparkopenie_wordnet_lda-build-runtime.xml
 [debug] 	report for default#sparkopenie_wordnet_lda-build;0.1-SNAPSHOT test produced in C:\dev\CS5560-Lab\Lab1\SparkOpenIE_WordNET_LDA\project\target\resolution-cache\reports\default-sparkopenie_wordnet_lda-build-test.xml
@@ -6084,5 +6084,5 @@
 [debug] 	report for default#sparkopenie_wordnet_lda-build;0.1-SNAPSHOT docs produced in C:\dev\CS5560-Lab\Lab1\SparkOpenIE_WordNET_LDA\project\target\resolution-cache\reports\default-sparkopenie_wordnet_lda-build-docs.xml
 [debug] 	report for default#sparkopenie_wordnet_lda-build;0.1-SNAPSHOT pom produced in C:\dev\CS5560-Lab\Lab1\SparkOpenIE_WordNET_LDA\project\target\resolution-cache\reports\default-sparkopenie_wordnet_lda-build-pom.xml
 [debug] 	report for default#sparkopenie_wordnet_lda-build;0.1-SNAPSHOT scala-tool produced in C:\dev\CS5560-Lab\Lab1\SparkOpenIE_WordNET_LDA\project\target\resolution-cache\reports\default-sparkopenie_wordnet_lda-build-scala-tool.xml
-[debug] 	resolve done (9437ms resolve - 96ms download)
+[debug] 	resolve done (4393ms resolve - 187ms download)
 [info] Done updating.

@@ -4,7 +4,7 @@
 		module="tutorial-3-corenlp$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20180910151445"
+		publication="20180910152730"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

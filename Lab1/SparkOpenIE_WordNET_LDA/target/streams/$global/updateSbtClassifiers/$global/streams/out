@@ -30,7 +30,6 @@
 [info] Resolving org.scala-sbt#main;0.13.15 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#main;0.13.15 {compile=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#main;0.13.15
-[debug] no default cache defined: set to C:\Users\djyuh\.ivy2\cache
 [debug] 	found org.scala-sbt#main;0.13.15 in sbt-chain
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}
 [debug] == resolving dependencies org.scala-sbt#main;0.13.15->org.scala-lang#scala-library;2.10.6 [compile->default(compile)]
@@ -1118,6 +1117,7 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
 [debug] sbt-chain: Checking cache for: dependency: com.thoughtworks.paranamer#paranamer;2.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+[debug] no default cache defined: set to C:\Users\djyuh\.ivy2\cache
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies org.json4s#json4s-core_2.10;3.2.10->com.thoughtworks.paranamer#paranamer;2.6 [compile->compile(*)]
@@ -1779,9 +1779,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.15!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 2249ms :: artifacts dl 102ms
+[debug] :: resolution report :: resolve 2809ms :: artifacts dl 222ms
 [debug] 	report for default#sparkopenie_wordnet_lda$sbt_2.10;1.0 default produced in C:\dev\CS5560-Lab\Lab1\SparkOpenIE_WordNET_LDA\target\resolution-cache\reports\default-sparkopenie_wordnet_lda$sbt_2.10-default.xml
-[debug] 	resolve done (2249ms resolve - 102ms download)
+[debug] 	resolve done (2809ms resolve - 222ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#sparkopenie_wordnet_lda$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -2459,6 +2459,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#incremental-compiler;0.13.15!incremental-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logic;0.13.15!logic.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#main-settings;0.13.15!main-settings.jar(src)
-[debug] :: resolution report :: resolve 477ms :: artifacts dl 78ms
+[debug] :: resolution report :: resolve 1102ms :: artifacts dl 78ms
 [debug] 	report for default#sparkopenie_wordnet_lda$sources_2.10;1.0 default produced in C:\dev\CS5560-Lab\Lab1\SparkOpenIE_WordNET_LDA\target\resolution-cache\reports\default-sparkopenie_wordnet_lda$sources_2.10-default.xml
-[debug] 	resolve done (477ms resolve - 78ms download)
+[debug] 	resolve done (1102ms resolve - 78ms download)

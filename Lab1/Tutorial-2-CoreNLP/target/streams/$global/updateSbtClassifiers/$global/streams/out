@@ -1,11 +1,11 @@
 [debug] Other repositories:
 [debug] Default repositories:
 [debug] Using inline dependencies specified in Scala.
-[debug] no default cache defined: set to C:\Users\djyuh\.ivy2\cache
 [debug] :: resolving dependencies :: tutorial-3-corenlp#tutorial-3-corenlp$sbt_2.11;1.0
 [debug] 	confs: [default]
 [debug] 	validate = true
 [debug] 	refresh = false
+[debug] no default cache defined: set to C:\Users\djyuh\.ivy2\cache
 [debug] resolving dependencies for configuration 'default'
 [debug] == resolving dependencies for tutorial-3-corenlp#tutorial-3-corenlp$sbt_2.11;1.0 [default]
 [debug] == resolving dependencies tutorial-3-corenlp#tutorial-3-corenlp$sbt_2.11;1.0->org.scala-sbt#sbt;0.13.8 [default->default(compile)]
@@ -704,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 820ms :: artifacts dl 57ms
+[debug] :: resolution report :: resolve 3459ms :: artifacts dl 104ms
 [debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sbt_2.11;1.0 default produced in C:\dev\CS5560-Lab\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml
-[debug] 	resolve done (820ms resolve - 57ms download)
+[debug] 	resolve done (3459ms resolve - 104ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1070,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 342ms :: artifacts dl 66ms
+[debug] :: resolution report :: resolve 300ms :: artifacts dl 91ms
 [debug] 	report for tutorial-3-corenlp#tutorial-3-corenlp$sources_2.11;1.0 default produced in C:\dev\CS5560-Lab\Lab1\Tutorial-2-CoreNLP\target\resolution-cache\reports\tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-default.xml
-[debug] 	resolve done (342ms resolve - 66ms download)
+[debug] 	resolve done (300ms resolve - 91ms download)

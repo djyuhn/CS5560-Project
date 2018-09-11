@@ -3,62 +3,79 @@
   <component name="ChangeListManager">
     <list default="true" id="0507a989-2ae7-4cc7-943f-956f0ad8826c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../NCBO_BioNLP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NCBO_BioNLP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Retrieve_abstract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Retrieve_abstract/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/data/triplets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/data/triplets.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/default/sparkopenie_wordnet_lda-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/default/sparkopenie_wordnet_lda-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/default/sparkopenie_wordnet_lda-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/default/sparkopenie_wordnet_lda-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/resolution-cache/reports/default-sparkopenie_wordnet_lda-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sbt_2.10/1.0/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.10/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/default/sparkopenie_wordnet_lda$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sbt_2.10-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sbt_2.10-default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.10-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.10-default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/resolution-cache/reports/default-sparkopenie_wordnet_lda$sources_2.11-test.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2659850c955c2cc7b648.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b7b02c7aceefb1e05d9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$36ef2de535dd5abba535.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41ce3a83bea678d0e1fb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$$anonfun$$sbtdef$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82665b0b291c664cd9b7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4cf948b3c4b1b7273e8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f71605fec10a34f86e3a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fc3f5cd32ae8f33a3acc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Tutorial-3-CoreNLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Tutorial-3-CoreNLP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$02dab41e9f99eb8d7794$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$02dab41e9f99eb8d7794$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$02dab41e9f99eb8d7794.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0458d4d580af1d7d016a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0458d4d580af1d7d016a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0458d4d580af1d7d016a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$311578d283bc79428981$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$311578d283bc79428981$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$311578d283bc79428981.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4b2acee56122e184a723$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4b2acee56122e184a723$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4b2acee56122e184a723.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7e30f1aae2679effa74d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7e30f1aae2679effa74d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7e30f1aae2679effa74d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d17c87d4784e57513$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d17c87d4784e57513$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d17c87d4784e57513$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d17c87d4784e57513$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d17c87d4784e57513$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d17c87d4784e57513.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c7bce88a397390fd8bb6$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c7bce88a397390fd8bb6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c7bce88a397390fd8bb6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$de343500d45b675298ef$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$de343500d45b675298ef$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$de343500d45b675298ef.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tutorial-2-corenlp-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-compile-internal.xml" afterDir="false" />
@@ -74,14 +91,20 @@
       <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-sources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tutorial-2-corenlp-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sbt_2.11-default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-compile.xml" afterDir="false" />
@@ -96,29 +119,12 @@
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-sources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp$sources_2.11-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/tutorial-3-corenlp-tutorial-3-corenlp_2.11-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sbt_2.11/1.0/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/tutorial-3-corenlp/tutorial-3-corenlp_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
     </list>
@@ -187,47 +193,95 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1149" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1149" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Tutorial-3-CoreNLP" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SimpleCoreNLP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.40332326">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="118">
+                  <caret line="111" column="69" lean-forward="true" selection-start-line="111" selection-start-column="69" selection-end-line="111" selection-end-column="69" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/build.sbt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="115">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/SimpleCoreNLP.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="184">
+                  <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/data/abstracts_nlp.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="23">
+                  <caret line="1340" column="10" selection-start-line="1340" selection-start-column="10" selection-end-line="1340" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/data/abstracts_nvc.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="140">
+                  <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -239,6 +293,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>this</find>
+      <find>NER</find>
+      <find>NN</find>
+      <find>V</find>
+      <find>VB</find>
+      <find>abstract 2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -253,6 +312,7 @@
         <option value="$PROJECT_DIR$/src/main/java/SimpleCoreNLP.java" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/data/abstracts_nlp.txt" />
       </list>
     </option>
   </component>
@@ -285,6 +345,16 @@
             <path>
               <item name="Tutorial-2-CoreNLP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tutorial-2-CoreNLP" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tutorial-2-CoreNLP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tutorial-2-CoreNLP" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tutorial-2-CoreNLP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tutorial-2-CoreNLP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -311,12 +381,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535662676493" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536638903917" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CS5560-ICP/KDM-ICP2/Tutorial-2-CoreNLP" />
     <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\CS5560-Lab\Lab1\Tutorial-2-CoreNLP\project" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\CS5560-Lab\Lab1\Tutorial-2-CoreNLP\data" />
       <recent name="F:\IntelliJ_Android\Summer 2016\Tutorial-3-CoreNLP\src\main\java" />
       <recent name="F:\IntelliJ_Android\Summer 2016\Tutorial-3-CoreNLP\classifiers" />
       <recent name="F:\IntelliJ_Android\Summer 2016\Tutorial-3-CoreNLP\taggers" />
@@ -449,17 +523,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoreNLPMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoreNLPMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tutorial-2-corenlp" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-Xmx4g" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="tutorial-2-corenlp" />
+      <module name="Tutorial-3-CoreNLP" />
       <option name="VM_PARAMETERS" value="-Xmx4g" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -481,10 +555,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NERDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NERDemo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tutorial-2-corenlp" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-Xmx4g" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tutorial-3-CoreNLP" />
+      <option name="VM_PARAMETERS" value="-Xmx4g" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -518,18 +600,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NERDemo" />
-      <item itemvalue="Application.CoreNLPMain" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.SimpleCoreNLP" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SimpleCoreNLP" />
-        <item itemvalue="Application.CoreNLPMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -564,6 +644,7 @@
         <entry key="$PROJECT_DIR$/../../CS5542/Tutorial5/Spark WordCount" value="1441857940982" />
         <entry key="$PROJECT_DIR$/../../CS5542/Tutorial6/SparkMachineLearnin" value="1436877998000" />
         <entry key="$PROJECT_DIR$/../../Fall 2015 Research/BigBrainBot" value="1442861285619" />
+        <entry key="$PROJECT_DIR$" value="4608500564310" />
         <entry key="$PROJECT_DIR$/build.sbt" value="624259336" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="3066353247" />
         <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2079250107" />
@@ -589,18 +670,18 @@
       <workItem from="1535237440784" duration="87000" />
       <workItem from="1535657944375" duration="2295000" />
       <workItem from="1535660338236" duration="2247000" />
-      <workItem from="1536610439628" duration="311000" />
+      <workItem from="1536610439628" duration="8228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6345000" />
+    <option name="totallyTimeSpent" value="14262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22507553" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14350453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -610,17 +691,17 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993234" visible="true" weight="0.71100914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993234" visible="true" weight="0.26299694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32909605" />
       <window_info anchor="bottom" id="SBT Console" order="8" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" weight="0.2259542" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" weight="0.22477064" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32874617" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006766" side_tool="true" weight="0.31345567" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32768363" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32721713" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="SBT Execute" order="15" side_tool="true" />
@@ -630,7 +711,7 @@
       <window_info anchor="right" id="Designer" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="SBT" order="5" visible="true" weight="0.19894099" />
-      <window_info anchor="right" id="sbt" order="6" visible="true" weight="0.14350453" />
+      <window_info anchor="right" id="sbt" order="6" weight="0.2973396" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Database" order="9" />
@@ -671,16 +752,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/concept5/conceptNet5.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -688,13 +759,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SimpleCoreNLP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="184">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="111" column="69" lean-forward="true" selection-start-line="111" selection-start-column="69" selection-end-line="111" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts_nlp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1340" column="10" selection-start-line="1340" selection-start-column="10" selection-end-line="1340" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts_nvc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
