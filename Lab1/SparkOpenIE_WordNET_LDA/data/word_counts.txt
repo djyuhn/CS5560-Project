@@ -1,0 +1,40 @@
+Abstract 1
+Total Word Count = 199
+WordNet Word Count = 93
+
+Abstract 2
+Total Word Count = 124
+WordNet Word Count = 54
+
+Abstract 3
+Total Word Count = 269
+WordNet Word Count = 134
+
+Abstract 4
+Total Word Count = 92
+WordNet Word Count = 50
+
+Abstract 5
+Total Word Count = 134
+WordNet Word Count = 62
+
+Abstract 6
+Total Word Count = 20
+WordNet Word Count = 11
+
+Abstract 7
+Total Word Count = 129
+WordNet Word Count = 59
+
+Abstract 8
+Total Word Count = 82
+WordNet Word Count = 49
+
+Abstract 9
+Total Word Count = 34
+WordNet Word Count = 16
+
+Abstract 10
+Total Word Count = 17
+WordNet Word Count = 5
+

@@ -1,0 +1,100 @@
+25539873|t|Understanding the role of adjunctive nonpharmacological therapies in management of the multiple pathways to depression.25539873|a|UNASSIGNED: Major depressive disorder (MDD) is a common disorder with a lifetime prevalence of 16.2% and the fourth highest cause of disability globally. It is hypothesized to be a syndromatic manifestation of multiple pathological processes leading to similar clinical manifestation. MDD is associated with at least three categories of peripheral hormone-type factors including neurotrophic factors, proinflammatory cytokines, and processes that impair regulation of the hypothalamic-pituitary-adrenocortical axis. Neuroimaging studies have identified functional abnormalities including subcortical systems associated with reward and emotion processing, medial prefrontal and anterior cingulate cortical regions and the lateral prefrontal cortical systems involved in cognitive control and voluntary emotion regulation. Studies investigating the effects of psychotherapy and pharmacotherapy on functional brain measures show normalization of brain function with return to euthymia. Nevertheless, approximately 50% of patients with MDD will not respond sufficiently and 60 to 70% will not achieve full remission with first-line pharmacotherapy, therefore clinicians strive to improve patient responses through the use of adjunct therapies. This review discusses recent research in the various biological processes associated with MDD as well as recent data in support of the use of adjunctive non-pharmacological therapies including psychotherapy, bibliotherapy, Internet therapy, "natural" or herbal approaches, exercise therapy, and somatic therapies.25539873	depression	Disease
+25539873	Major depressive disorder	Disease
+25539873	MDD	Disease
+25539873	MDD	Disease
+25539873	hypothalamic-pituitary-adrenocortical axis	Disease
+25539873	voluntary emotion	Disease
+25539873	patients	Species
+25539873	MDD	Disease
+25539873	patient	Species
+25539873	MDD	Disease
+25539874|t|Optimizing the management of depression: primary care experience.25539874|a|UNASSIGNED: This article is intended to identify some of the most important challenges faced by family physicians when treating MDD and to provide practical solutions. Key issues, reviewed from a primary care view point will include: treating to remission (and not just response), identification of high-risk groups, diagnosis, acute treatment approaches (including pharmacotherapy and the management of related side effects), the use of psychotherapy and somatic therapies, assessment of the adequacy of treatment including the assessment of remission, response measurement, optimal follow-up care throughout the phase of treatment, the key components of patient education and strategies for partial/limited response to the first-line antidepressant (switching, augmentation and combination strategies), how to provide support for improved treatment adherence, and approaches to prevent the recurrence of depressive episodes.25539874	depression	Disease
+25539874	MDD	Disease
+25539874	patient	Species
+25539874	depressive	Disease
+25754289|t|A lifetime approach to major depressive disorder: The contributions of psychological interventions in preventing relapse and recurrence.25754289|a|UNASSIGNED: Major depressive disorder (MDD) is highly disabling and typically runs a recurrent course. Knowledge about prevention of relapse and recurrence is crucial to the long-term welfare of people who suffer from this disorder. This article provides an overview of the current evidence for the prevention of relapse and recurrence using psychological interventions. We first describe a conceptual framework to preventive interventions based on: acute treatment; continuation treatment, or; prevention strategies for patients in remission. In brief, cognitive-behavioral interventions, delivered during the acute phase, appear to have an enduring effect that protects patients against relapse and perhaps others from recurrence following treatment termination. Similarly, continuation treatment with either cognitive therapy or perhaps interpersonal psychotherapy appears to reduce risk for relapse and maintenance treatment appears to reduce risk for recurrence. Preventive relapse strategies like preventive cognitive therapy or mindfulness based cognitive therapy (MBCT) applied to patients in remission protects against subsequent relapse and perhaps recurrence. There is some preliminary evidence of specific mediation via changing the content or the process of cognition. Continuation CT and preventive interventions started after remission (CBT, MBCT) seem to have the largest differential effects for individuals that need them the most. Those who have the greatest risk for relapse and recurrence including patients with unstable remission, more previous episodes, potentially childhood trauma, early age of onset. These prescriptive indications, if confirmed in future research, may point the way to personalizing prevention strategies. Doing so, may maximize the efficiency with which they are applied and have the potential to target the mechanisms that appear to underlie these effects. This may help make this prevention strategies more efficacious.25754289	depressive disorder	Disease
+25754289	Major depressive disorder	Disease
+25754289	MDD	Disease
+25754289	people	Species
+25754289	patients	Species
+25754289	patients	Species
+25754289	mindfulness based cognitive therapy	Disease
+25754289	MBCT	Disease
+25754289	patients	Species
+25754289	MBCT	Disease
+25754289	patients	Species
+25754289	trauma	Disease
+26854424|t|Emerging treatment mechanisms for depression: focus on glutamate and synaptic plasticity.26854424|a|Major depression is a chronic and debilitating illness that effects approximately 1 in 5 people, but currently available treatments are limited by low rates of efficacy, therapeutic time lag, and undesirable side effects. Recent efforts have been directed towards investigating rapid-acting agents that reverse the behavioral and neuronal deficits of chronic stress and depression, notably the glutamate NMDA receptor antagonist ketamine. The cellular mechanisms underlying the rapid antidepressant actions of ketamine and related agents are discussed, as well as novel, selective glutamatergic receptor targets that are safer and have fewer side effects.26854424	depression	Disease
+26854424	glutamate	Chemical
+26854424	Major depression	Disease
+26854424	people	Species
+26854424	behavioral and neuronal deficits	Disease
+26854424	depression	Disease
+26854424	glutamate NMDA	Chemical
+26854424	ketamine	Chemical
+26854424	ketamine	Chemical
+26879925|t|Depression During Pregnancy and Postpartum.26879925|a|Depression is a common complication of pregnancy and the postpartum period. There are multiple risk factors for peripartum mood disorders, most important of which is a prior history of depression. Both depression and antidepressant medications confer risk upon the infant. Maternal depression has been associated with preterm birth, low birth weight, fetal growth restriction, and postnatal cognitive and emotional complications. Antidepressant exposure has been associated with preterm birth, reductions in birth weight, persistent pulmonary hypertension, and postnatal adaptation syndrome (PNAS) as well as a possible connection with autism spectrum disorder. Paroxetine has been associated with cardiac malformations. Most antidepressant medications are excreted in low levels in breast milk and are generally compatible with breastfeeding. The use of antidepressants during pregnancy and postpartum must be weighed against the risk of untreated depression in the mother.26879925	Depression	Disease
+26879925	Depression	Disease
+26879925	mood disorders	Disease
+26879925	depression	Disease
+26879925	depression	Disease
+26879925	infant	Species
+26879925	Maternal depression	Disease
+26879925	preterm birth	Disease
+26879925	fetal growth restriction, and postnatal cognitive and emotional complications	Disease
+26879925	preterm birth	Disease
+26879925	pulmonary hypertension	Disease
+26879925	autism spectrum disorder	Disease
+26879925	Paroxetine	Chemical
+26879925	cardiac malformations	Disease
+26879925	depression	Disease
+26559241|t|Computerised cognitive behaviour therapy (cCBT) as treatment for depression in primary care (REEACT trial): large scale pragmatic randomised controlled trial.26559241|a|STUDY QUESTION: How effective is supported computerised cognitive behaviour therapy (cCBT) as an adjunct to usual primary care for adults with depression? METHODS: This was a pragmatic, multicentre, three arm, parallel randomised controlled trial with simple randomisation. Treatment allocation was not blinded. Participants were adults with symptoms of depression (score >=  10 on nine item patient health questionnaire, PHQ-9) who were randomised to receive a commercially produced cCBT programme ("Beating the Blues") or a free to use cCBT programme (MoodGYM) in addition to usual GP care. Participants were supported and encouraged to complete the programme via weekly telephone calls. Control participants were offered usual GP care, with no constraints on the range of treatments that could be accessed. The primary outcome was severity of depression assessed with the PHQ-9 at four months. Secondary outcomes included health related quality of life (measured by SF-36) and psychological wellbeing (measured by CORE-OM) at four, 12, and 24 months and depression at 12 and 24 months. STUDY ANSWER AND LIMITATIONS: Participants offered commercial or free to use cCBT experienced no additional improvement in depression compared with usual GP care at four months (odds ratio 1.19 (95% confidence interval 0.75 to 1.88) for Beating the Blues v usual GP care; 0.98 (0.62 to 1.56) for MoodGYM v usual GP care). There was no evidence of an overall difference between either programme compared with usual GP care (0.99 (0.57 to 1.70) and 0.68 (0.42 to 1.10), respectively) at any time point. Commercially provided cCBT conferred no additional benefit over free to use cCBT or usual GP care at any follow-up point. Uptake and use of cCBT was low, despite regular telephone support. Nearly a quarter of participants (24%) had dropped out by four months. The study did not have enough power to detect small differences so these cannot be ruled out. Findings cannot be generalised to cCBT offered with a much higher level of guidance and support. WHAT THIS STUDY ADDS: Supported cCBT does not substantially improve depression outcomes compared with usual GP care alone. In this study, neither a commercially available nor free to use computerised CBT intervention was superior to usual GP care. FUNDING, COMPETING INTERESTS, DATA SHARING: Commissioned and funded by the UK National Institute for Health Research (NIHR) Health Technology Assessment (HTA) programme (project No 06/43/05). The authors have no competing interests. Requests for patient level data will be considered by the REEACT trial management groupTrial registration Current Controlled Trials ISRCTN91947481.26559241	Participants	Species
+26559241	patient	Species
+26559241	Participants	Species
+26559241	participants	Species
+26559241	CORE-OM	Chemical
+26559241	Participants	Species
+26559241	telephone	Chemical
+26559241	participants	Species
+26559241	patient	Species
+25200567|t|Management of treatment-resistant depression in children and adolescents.25200567|a|Depression is a relatively common diagnosis in children and adolescents, and is associated with significant morbidity and suicidality in this population. Evidence-based treatment of the acute illness is imperative to try to prevent the development of treatment-resistant depression or other complications. In situations where response to acute treatment is inadequate, clinicians should first consider factors that may influence outcome, such as psychiatric or medical comorbidities, psychosocial stressors, and treatment noncompliance. Selective serotonin reuptake inhibitors (SSRIs) are the first-line treatment for depression in children and adolescents. For treatment-resistant depression, a switch to an alternate SSRI is recommended before trials of other antidepressants. Psychotherapy, such as cognitive behavioral therapy or interpersonal therapy, may improve treatment response. More research is needed examining medication augmentation strategies for treatment-resistant depression in children and adolescents.25200567	depression	Disease
+25200567	children	Species
+25200567	Depression	Disease
+25200567	children	Species
+25200567	acute illness	Disease
+25200567	depression	Disease
+25200567	psychiatric	Disease
+25200567	psychosocial stressors	Disease
+25200567	serotonin	Chemical
+25200567	depression	Disease
+25200567	children	Species
+25200567	depression	Disease
+25200567	depression	Disease
+25200567	children	Species
+27488181|t|European COMPARative Effectiveness research on blended Depression treatment versus treatment-as-usual (E-COMPARED): study protocol for a randomized controlled, non-inferiority trial in eight European countries.27488181|a|BACKGROUND: Effective, accessible, and affordable depression treatment is of high importance considering the large personal and economic burden of depression. Internet-based treatment is considered a promising clinical and cost-effective alternative to current routine depression treatment strategies such as face-to-face psychotherapy. However, it is not clear whether research findings translate to routine clinical practice such as primary or specialized mental health care. The E-COMPARED project aims to gain knowledge on the clinical and cost-effectiveness of blended depression treatment compared to treatment-as-usual in routine care. METHODS/DESIGN: E-COMPARED will employ a pragmatic, multinational, randomized controlled, non-inferiority trial in eight European countries. Adults diagnosed with major depressive disorder (MDD) will be recruited in primary care (Germany, Poland, Spain, Sweden, and the United Kingdom) or specialized mental health care (France, The Netherlands, and Switzerland). Regular care for depression is compared to "blended" service delivery combining mobile and Internet technologies with face-to-face treatment in one treatment protocol. Participants will be followed up at 3, 6, and 12  months after baseline to determine clinical improvements in symptoms of depression (primary outcome: Patient Health Questionnaire-9), remission of depression, and cost-effectiveness. Main analyses will be conducted on the pooled data from the eight countries (n   =   1200 in total, 150 participants in each country). DISCUSSION: The E-COMPARED project will provide mental health care stakeholders with evidence-based information and recommendations on the clinical and cost-effectiveness of blended depression treatment. TRIAL REGISTRATION: France: ClinicalTrials.gov NCT02542891 . Registered on 4 September 2015; Germany: German Clinical Trials Register DRKS00006866 . Registered on 2 December 2014; The Netherlands: Netherlands Trials Register NTR4962 . Registered on 5 January 2015; Poland: ClinicalTrials.Gov NCT02389660 . Registered on 18 February 2015; Spain: ClinicalTrials.gov NCT02361684 . Registered on 8 January 2015; Sweden: ClinicalTrials.gov NCT02449447 . Registered on 30 March 2015; Switzerland: ClinicalTrials.gov NCT02410616 . Registered on 2 April 2015; United Kingdom: ISRCTN registry, ISRCTN12388725 . Registered on 20 March 2015.27488181	Depression	Disease
+27488181	depression	Disease
+27488181	depression	Disease
+27488181	depression	Disease
+27488181	depression	Disease
+27488181	major depressive disorder	Disease
+27488181	MDD	Disease
+27488181	depression	Disease
+27488181	Participants	Species
+27488181	depression	Disease
+27488181	Patient	Species
+27488181	depression	Disease
+27488181	participants	Species
+27488181	depression	Disease
+27488181	ISRCTN12388725	Chemical
+27571438|t|Treatment of Adult Depression in the United States.27571438|a|Importance: Despite recent increased use of antidepressants in the United States, concerns persist that many adults with depression do not receive treatment, whereas others receive treatments that do not match their level of illness severity. Objective: To characterize the treatment of adult depression in the United States. Design, Setting, and Participants: Analysis of screen-positive depression, psychological distress, and depression treatment data from 46   417 responses to the Medical Expenditure Panel Surveys taken in US households by participants aged 18 years or older in 2012 and 2013. Main Outcome and Measures: Percentages of adults with screen-positive depression (Patient Health Questionnaire-2 score of >=    3) and adjusted odds ratios (AORs) of the effects of sociodemographic characteristics on odds of screen-positive depression; percentages with treatment for screen-positive depression and AORs; percentages with any treatment of depression and AORs stratified by presence of serious psychological distress (Kessler 6 scale score of >= 13); and percentages with depression treatment by health care professional group (psychiatrists, other health care professionals, and general medical providers); and type of depression treatment (antidepressants, psychotherapy, and both) all stratified by distress level. Results: Approximately 8.4% (95% CI, 7.9-8.8) of adults screened positive for depression, of which 28.7% received any depression treatment. Conversely, among all adults treated for depression, 29.9% had screen-positive depression and 21.8% had serious psychological distress. Adults with serious compared with less serious psychological distress who were treated for depression were more likely to receive care from psychiatrists (33.4% vs 17.3%, P   <   .001) or other mental health specialists (16.2% vs 9.6%, P   <   .001), and less likely to receive depression care exclusively from general medical professionals (59.0% vs 74.4%, P   <   .001). They were also more likely to receive psychotherapy (32.5% vs 20.6%, P   <   .001), though not antidepressant medications (81.1% vs 88.6%, P   <   .001). Conclusions and Relevance: Most US adults who screen positive for depression did not receive treatment for depression, whereas most who were treated did not screen positive. In light of these findings, it is important to strengthen efforts to align depression care with each patient's clinical needs.27571438	Participants	Species
+27571438	participants	Species
+27571438	Patient	Species
+27571438	patient	Species
+26813211|t|Screening for Depression in Adults: US Preventive Services Task Force Recommendation Statement.26813211|a|DESCRIPTION: Update of the 2009 US Preventive Services Task Force (USPSTF) recommendation on screening for depression in adults. METHODS: The USPSTF reviewed the evidence on the benefits and harms of screening for depression in adult populations, including older adults and pregnant and postpartum women; the accuracy of depression screening instruments; and the benefits and harms of depression treatment in these populations. POPULATION: This recommendation applies to adults 18 years and older. RECOMMENDATION: The USPSTF recommends screening for depression in the general adult population, including pregnant and postpartum women. Screening should be implemented with adequate systems in place to ensure accurate diagnosis, effective treatment, and appropriate follow-up. (B recommendation).26813211	Depression	Disease
+26813211	depression	Disease
+26813211	depression	Disease
+26813211	women	Species
+26813211	depression	Disease
+26813211	depression	Disease
+26813211	depression	Disease
+26813211	women	Species
