@@ -17,7 +17,7 @@ object SparkPOSCount {
 
     val sc=new SparkContext(sparkConf)
 
-    val inputf = sc.wholeTextFiles("data", 100)
+    val inputf = sc.wholeTextFiles("mental_illness_abstracts", 100)
     val input = inputf.map(abs => {
       abs._2
     }).cache()
@@ -36,7 +36,7 @@ object SparkPOSCount {
 
     val output = wc.reduceByKey(_+_)
 
-    output.saveAsTextFile("output")
+    output.saveAsTextFile("output/POS")
 
     val o=output.collect()
 
@@ -54,7 +54,7 @@ object SparkPOSCount {
 
     }}
 
-    val nounVerbWriter = new PrintWriter(new File("finalData/nouns&verbs.txt"))
+    val nounVerbWriter = new PrintWriter(new File("data/POS/nouns&verbs.txt"))
     nounVerbWriter.write("Total Nouns: " + nouns + "\nTotal Verbs: " + verbs)
     nounVerbWriter.close()
 

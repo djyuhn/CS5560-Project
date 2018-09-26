@@ -1,3 +1,5 @@
+
+
 # KDM-Lab2
 
 CS5560 Knowledge Discovery Management - Lab Assignment 2
@@ -39,6 +41,24 @@ The following was provided by the instructor via zip files:
 For the 30 abstracts, the total word count of each abstract was obtained and the total words recognized by WordNet was obtained. The synonyms of the words recognized by WordNet were also found.
 
 ![getWordCount](../docs/Lab2/wordcount/getWordCount.gif)
+
+
+
+# POS Count
+
+For the 30 abstracts, the total count of nouns and verbs was obtained.
+
+<figure>
+    <img src ="../docs/Lab2/POScount/getPOS_1.gif" alt = "POS Part 1"/>
+    <figcaption>Part 1</figcaption>
+</figure>
+
+
+
+<figure>
+    <img src ="../docs/Lab2/POScount/getPOS_2.gif" alt = "POS Part 2"/>
+    <figcaption>Part 2</figcaption>
+</figure>
 
 
 
