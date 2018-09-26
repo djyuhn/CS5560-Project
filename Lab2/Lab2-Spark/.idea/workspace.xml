@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b224231d-5da2-4f7b-a9f4-c34f68ca0419" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/openie/SparkPOSCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/openie/SparkPOSCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkPOSCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/openie/SparkPOSCount$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/NCBO_BioNLP/RESTClientGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/NCBO_BioNLP/RESTClientGet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/NCBO_BioNLP/SparkBioNLP$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/NCBO_BioNLP/SparkBioNLP$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -140,29 +142,34 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
+          <entry key="java" value="1" />
+          <entry key="part-00000" value="1" />
           <entry key="part-00001" value="1" />
           <entry key="part-00002" value="1" />
           <entry key="sbt" value="2" />
-          <entry key="scala" value="3" />
-          <entry key="txt" value="17" />
+          <entry key="scala" value="4" />
+          <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Scala" value="3" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Scala" value="4" />
           <entry key="sbt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="900" />
           <entry key="sbt" value="20" />
-          <entry key="scala" value="117" />
+          <entry key="scala" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="117" />
+          <entry key="JAVA" value="900" />
+          <entry key="Scala" value="158" />
           <entry key="sbt" value="20" />
         </counts>
       </usages-collector>
@@ -171,10 +178,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkPOSCount.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="667">
+              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+              <folding>
+                <element signature="e#21#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,8 +231,6 @@
         <option value="$PROJECT_DIR$/data_ids/ids(1).txt" />
         <option value="$PROJECT_DIR$/data_ids/ids.txt" />
         <option value="$PROJECT_DIR$/output/part-00000" />
-        <option value="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala" />
         <option value="$PROJECT_DIR$/finalData/medWords.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/word2vec/NGRAM.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala" />
@@ -219,6 +239,8 @@
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/openie/SparkPOSCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java" />
       </list>
     </option>
   </component>
@@ -255,13 +277,33 @@
             <path>
               <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="wordnetData" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="NCBO_BioNLP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,7 +317,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537983477479" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537987706341" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CS5560-ICP/AbstractRetrieval/Retrieve_abstract" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -305,11 +347,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SparkPOSCount">
+  <component name="RunManager" selected="Application.SparkBioNLP">
     <configuration name="SparkBioNLP" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="NCBO_BioNLP.SparkBioNLP" />
-      <module name="SparkTransformationActions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="Lab2-Spark" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="NCBO_BioNLP.*" />
@@ -395,9 +436,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SparkBioNLP" />
         <item itemvalue="Application.SparkPOSCount" />
         <item itemvalue="Application.WordNetSpark" />
-        <item itemvalue="Application.SparkBioNLP" />
         <item itemvalue="Application.SparkWordCount" />
       </list>
     </recent_temporary>
@@ -454,12 +495,12 @@
       <workItem from="1537282965799" duration="22306000" />
       <workItem from="1537978053973" duration="151000" />
       <workItem from="1537978286230" duration="119000" />
-      <workItem from="1537978420137" duration="4201000" />
+      <workItem from="1537978420137" duration="7819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60963000" />
+    <option name="totallyTimeSpent" value="64581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-495" y="-1088" width="1936" height="1096" extended-state="6" />
@@ -475,7 +516,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32815734" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29089028" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29089028" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39751554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -628,16 +669,6 @@
     <entry file="file://$PROJECT_DIR$/data_ids/ids.txt" />
     <entry file="file://$PROJECT_DIR$/finalData/medWords.txt" />
     <entry file="file://$PROJECT_DIR$/output/part-00000" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -729,23 +760,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkPOSCount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
-          <folding>
-            <element signature="e#21#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-897">
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/POS/nouns&amp;verbs.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkPOSCount.scala">
+    <entry file="file://$PROJECT_DIR$/output/medWords/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/medWords/medWords.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="184">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mental_illness_ids/ids.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/RESTClientGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="e#21#64#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

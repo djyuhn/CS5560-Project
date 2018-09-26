@@ -19,7 +19,7 @@ object SparkBioNLP {
 
     val sc=new SparkContext(sparkConf)
 
-    val inputf = sc.wholeTextFiles("data_ids", 100)
+    val inputf = sc.wholeTextFiles("mental_illness_ids", 100)
     val input = inputf.map(abs => {
       abs._2
     }).cache()
@@ -27,14 +27,14 @@ object SparkBioNLP {
     // val input=sc.textFile("input", 10)
 
     val sparkIDs=input.flatMap(ids=> {ids.split("[\r\n]+")}).map(id => {
-      RESTClientGet.getMedWords(id).mkString("\n")
+      RESTClientGet.getMedWords(id).mkString("")
     }).cache()
 
-    sparkIDs.saveAsTextFile("output")
+    sparkIDs.saveAsTextFile("output/medWords")
 
     val o=sparkIDs.collect()
 
-    val medicalWordsWriter = new BufferedWriter(new FileWriter("finalData/medWords.txt"))
+    val medicalWordsWriter = new BufferedWriter(new FileWriter("data/medWords/medWords.txt"))
 
     o.foreach(list => {
         medicalWordsWriter.append(list)

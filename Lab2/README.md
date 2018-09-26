@@ -62,6 +62,14 @@ For the 30 abstracts, the total count of nouns and verbs was obtained.
 
 
 
+# Medical Words of Abstracts
+
+For the 30 abstracts, the medical words within them were found using NCBI and PubTator. The REST call will return the title of the paper, the paper abstract, and then each word that was found within the following bioconcepts: Gene, Disease, Chemical, Species, Mutation. We're only interested in the medical related words, thus the title and the abstracts of the papers were ignored and the words with the PMID and the concept were saved into the `medWords.txt` file.
+
+![getMedWords](../docs/Lab2/medicalwords/getMedWords.gif)
+
+
+
 # Source Code
 
 The source code for this ICP was provided by the class instructor Mayanka ChandraShekar: [mckw9@mail.umkc.edu](mckw9@mail.umkc.edu)
