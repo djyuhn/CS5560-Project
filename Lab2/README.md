@@ -1,5 +1,3 @@
-
-
 # KDM-Lab2
 
 CS5560 Knowledge Discovery Management - Lab Assignment 2
@@ -36,7 +34,11 @@ The following was provided by the instructor via zip files:
 
 
 
-# WordNet Count
+# Report Data Statistics
+
+
+
+## WordNet Word Count
 
 For the 30 abstracts, the total word count of each abstract was obtained and the total words recognized by WordNet was obtained. The synonyms of the words recognized by WordNet were also found.
 
@@ -44,7 +46,7 @@ For the 30 abstracts, the total word count of each abstract was obtained and the
 
 
 
-# POS Count
+## POS Count
 
 For the 30 abstracts, the total count of nouns and verbs was obtained.
 
@@ -62,11 +64,23 @@ For the 30 abstracts, the total count of nouns and verbs was obtained.
 
 
 
-# Medical Words of Abstracts
+## Medical Words of Abstracts
 
 For the 30 abstracts, the medical words within them were found using NCBI and PubTator. The REST call will return the title of the paper, the paper abstract, and then each word that was found within the following bioconcepts: Gene, Disease, Chemical, Species, Mutation. We're only interested in the medical related words, thus the title and the abstracts of the papers were ignored and the words with the PMID and the concept were saved into the `medWords.txt` file.
 
 ![getMedWords](../docs/Lab2/medicalwords/getMedWords.gif)
+
+
+
+# Data Stats: Top TF-IDF and Word Vecs
+
+
+
+## Top 20 TF-IDF
+
+From the abstracts the Top 20 Term Frequency(TF) and Inverse Document Frequency(IDF) words were found. The top 20 TF-IDF for the abstracts as they are were found, the top 20 TF-IDF for the lemmatized words within the abstract were found, and the top 20 TF-IDF for the NGRAMS of the abstracts' words were found.
+
+![wordsTop20TFIDF](../docs/Lab2/wordsTop20TFIDF/wordsTop20TFIDF.gif)
 
 
 

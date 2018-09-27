@@ -18,10 +18,10 @@ object TF_IDF {
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
 
     val sc = new SparkContext(sparkConf)
-    val ngramValue = 2 // Value of ngram specified
+    val ngramValue = 3 // Value of ngram specified
 
     //Reading the Text File
-    val documents = sc.wholeTextFiles("abstractFiles", 10)
+    val documents = sc.wholeTextFiles("mental_illness_abstracts", 10)
     val abstracts = documents.map(abs => {
       abs._2
     }).cache()
@@ -47,9 +47,9 @@ object TF_IDF {
       ngrams.toSeq
     })
 
-    abstractsLem.saveAsTextFile("outputLem")
-    abstractsWords.saveAsTextFile("outputWords")
-    abstractNGrams.saveAsTextFile("outputNGrams")
+    abstractsLem.saveAsTextFile("output/outputLem")
+    abstractsWords.saveAsTextFile("output/outputWords")
+    abstractNGrams.saveAsTextFile("output/outputNGrams")
 
     //Creating an object of HashingTF Class
     val hashingTFLem = new HashingTF()
@@ -163,9 +163,9 @@ object TF_IDF {
       (f, h(i.toString))
     })
 
-    val topLemWriter = new BufferedWriter(new FileWriter("finalData/topLemWords.txt"))
-    val topWordWriter = new BufferedWriter(new FileWriter("finalData/topWords.txt"))
-    val topNGRAMWriter = new BufferedWriter(new FileWriter("finalData/topNGRAMs.txt"))
+    val topLemWriter = new BufferedWriter(new FileWriter("data/TF_IDF/wordStats/topLemWords.txt"))
+    val topWordWriter = new BufferedWriter(new FileWriter("data/TF_IDF/wordStats/topWords.txt"))
+    val topNGRAMWriter = new BufferedWriter(new FileWriter("data/TF_IDF/wordStats/topNGRAMs.txt"))
 
     val dd1 = ddLem.distinct().sortBy(_._2, false)
     dd1.take(20).foreach(f => {
