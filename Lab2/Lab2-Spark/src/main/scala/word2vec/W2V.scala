@@ -22,7 +22,7 @@ object W2V {
     val sc = new SparkContext(sparkConf)
     val ngramValue = 2 // Value of ngram specified
 
-    val input = sc.wholeTextFiles("abstractFiles", 10)
+    val input = sc.wholeTextFiles("mental_illness_abstracts", 10)
 
     // Get just words from the abstracts
     val words = input
@@ -46,19 +46,19 @@ object W2V {
     })
 
     // Specify paths containing top TF-IDF words
-    val topWordsPath = "finalData/topWords.txt"
-    val topLemPath = "finalData/topLemWords.txt"
-    val topNGRAMSPath = "finalData/topNGRAMS.txt"
+    val topWordsPath = "data/TF_IDF/wordStats/topWords.txt"
+    val topLemPath = "data/TF_IDF/wordStats/topLemWords.txt"
+    val topNGRAMSPath = "data/TF_IDF/wordStats/topNGRAMS.txt"
 
     // Specify folders for the Models
-    val modelFolder = new File("myWordsModelPath")
-    val modelFolderLem = new File("myLemModelPath")
-    val modelFolderNGRAM = new File( "myNGRAMModelPath")
+    val modelFolder = new File("output/myModels/myWordsModel")
+    val modelFolderLem = new File("output/myModels/myLemModel")
+    val modelFolderNGRAM = new File( "output/myModels/myNGRAMModel")
 
     // Specify output folder for the Word2Vec results
-    val topWordsWord2VecPath = "finalWord2VecData/topWordsWord2Vec.txt"
-    val topLemWord2VecPath = "finalWord2VecData/topLemWord2Vec.txt"
-    val topNGRAMWord2VecPath = "finalWord2VecData/topNGRAMWord2Vec.txt"
+    val topWordsWord2VecPath = "data/Word2Vec/topWordsWord2Vec.txt"
+    val topLemWord2VecPath = "data/Word2Vec/topLemWord2Vec.txt"
+    val topNGRAMWord2VecPath = "data/Word2Vec/topNGRAMWord2Vec.txt"
 
     doWord2Vec(words, modelFolder, topWordsPath, sc, topWordsWord2VecPath)
     doWord2Vec(lemWords, modelFolderLem, topLemPath, sc, topLemWord2VecPath)

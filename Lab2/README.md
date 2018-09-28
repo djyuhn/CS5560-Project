@@ -84,6 +84,12 @@ From the abstracts the Top 20 Term Frequency(TF) and Inverse Document Frequency(
 
 
 
+## Top 20 TF-IDF Word2Vec
+
+From each of the Top 20 TF-IDF groups found in the previous step, each word in the top 20 was processed to find their respective vector.
+
+![getWord2Vec](../docs/Lab2/word2vec/getWord2Vec.gif)
+
 # Source Code
 
-The source code for this ICP was provided by the class instructor Mayanka ChandraShekar: [mckw9@mail.umkc.edu](mckw9@mail.umkc.edu)
+The source code for this Lab Assignment was provided by the class instructor Mayanka ChandraShekar: [mckw9@mail.umkc.edu](mckw9@mail.umkc.edu) from previous ICPs

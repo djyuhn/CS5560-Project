@@ -4,7 +4,7 @@
     <list default="true" id="b224231d-5da2-4f7b-a9f4-c34f68ca0419" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules/Lab2-Spark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Lab2-Spark.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/lab2-spark$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/default/lab2-spark$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/lab2-spark$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/default/lab2-spark$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-lab2-spark$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-lab2-spark$sources_2.11-compile-internal.xml" afterDir="false" />
@@ -20,9 +20,9 @@
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-lab2-spark$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-lab2-spark$sources_2.11-sources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-lab2-spark$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-lab2-spark$sources_2.11-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-lab2-spark$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-lab2-spark$sources_2.11-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/word2vec/TF_IDF$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -150,29 +150,30 @@
     <session id="1752195365">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
           <entry key="part-00000" value="1" />
           <entry key="part-00001" value="2" />
           <entry key="part-00002" value="1" />
           <entry key="sbt" value="2" />
-          <entry key="scala" value="6" />
-          <entry key="txt" value="38" />
+          <entry key="scala" value="7" />
+          <entry key="txt" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
-          <entry key="PLAIN_TEXT" value="43" />
-          <entry key="Scala" value="6" />
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Scala" value="7" />
           <entry key="sbt" value="2" />
         </counts>
       </usages-collector>
@@ -180,74 +181,42 @@
         <counts>
           <entry key="java" value="900" />
           <entry key="sbt" value="20" />
-          <entry key="scala" value="260" />
+          <entry key="scala" value="336" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="900" />
-          <entry key="Scala" value="260" />
+          <entry key="Scala" value="336" />
           <entry key="sbt" value="20" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-3792">
-                  <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/CoreNLP.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="230">
-                  <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/NGRAM.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="322">
-                  <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topLemWords.txt">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topNGRAMs.txt">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topWords.txt">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="13" column="12" lean-forward="true" selection-end-line="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/CoreNLP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-125">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -279,7 +248,6 @@
         <option value="$PROJECT_DIR$/output/part-00000" />
         <option value="$PROJECT_DIR$/finalData/medWords.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/word2vec/NGRAM.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/word2vec/CoreNLP.java" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala" />
@@ -290,6 +258,7 @@
         <option value="$PROJECT_DIR$/data/TF_IDF/wordStats/topLemWords.txt" />
         <option value="$PROJECT_DIR$/data/TF_IDF/wordStats/topNGRAMs.txt" />
         <option value="$PROJECT_DIR$/data/TF_IDF/wordStats/topWords.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala" />
       </list>
     </option>
   </component>
@@ -300,10 +269,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1088" />
-    <option name="y" value="-1088" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -311,6 +280,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,13 +309,18 @@
               <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="TF_IDF" type="462c0819:PsiDirectoryNode" />
-              <item name="wordStats" type="462c0819:PsiDirectoryNode" />
+              <item name="Word2Vec" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
               <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="myModels" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Lab2-Spark" type="b2602c69:ProjectViewProjectNode" />
@@ -385,7 +360,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -393,7 +367,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538011724302" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538149901809" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CS5560-ICP/AbstractRetrieval/Retrieve_abstract" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -423,7 +397,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TF_IDF">
+  <component name="RunManager" selected="Application.W2V">
     <configuration name="SparkBioNLP" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="NCBO_BioNLP.SparkBioNLP" />
       <module name="Lab2-Spark" />
@@ -451,15 +425,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparkWordCount" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="SparkWordCount" />
-      <module name="SparkTransformationActions" />
+    <configuration name="TF_IDF" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="word2vec.TF_IDF" />
+      <module name="Lab2-Spark" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="word2vec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TF_IDF" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="word2vec.TF_IDF" />
+    <configuration name="W2V" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="word2vec.W2V" />
       <module name="Lab2-Spark" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -519,19 +500,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SparkWordCount" />
       <item itemvalue="Application.SparkPOSCount" />
       <item itemvalue="Application.WordNetSpark" />
       <item itemvalue="Application.SparkBioNLP" />
       <item itemvalue="Application.TF_IDF" />
+      <item itemvalue="Application.W2V" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.W2V" />
         <item itemvalue="Application.TF_IDF" />
         <item itemvalue="Application.SparkBioNLP" />
         <item itemvalue="Application.SparkPOSCount" />
         <item itemvalue="Application.WordNetSpark" />
-        <item itemvalue="Application.SparkWordCount" />
       </list>
     </recent_temporary>
   </component>
@@ -588,19 +569,20 @@
       <workItem from="1537978053973" duration="151000" />
       <workItem from="1537978286230" duration="119000" />
       <workItem from="1537978420137" duration="8538000" />
-      <workItem from="1538009737905" duration="1396000" />
+      <workItem from="1538009737905" duration="2510000" />
+      <workItem from="1538148528879" duration="1964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66696000" />
+    <option name="totallyTimeSpent" value="69774000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1088" y="-1088" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Learn" order="0" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12193823" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1510574" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -608,8 +590,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32815734" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16252588" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32721713" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24770643" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39751554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -637,45 +619,6 @@
       <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50076336" side_tool="true" weight="0.15936556" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Learn" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13312034" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32815734" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29089028" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39751554" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49932885" weight="0.32909605" />
-      <window_info anchor="bottom" id="SBT Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32815734" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32815734" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="SBT Execute" order="15" side_tool="true" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="16" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="4" sideWeight="0.49923664" visible="true" weight="0.1485623" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50076336" side_tool="true" weight="0.15936556" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -703,32 +646,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/SparkContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="819" column="6" selection-start-line="819" selection-start-column="6" selection-end-line="819" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkPOS.scala" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="324" column="6" selection-start-line="324" selection-start-column="6" selection-end-line="324" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/finalData/noun&amp;verbs.txt" />
-    <entry file="file://$PROJECT_DIR$/data/abstracts(1).txt" />
-    <entry file="file://$PROJECT_DIR$/finalData/nouns&amp;verbs.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/wordnet/WordNetMain.java" />
-    <entry file="jar://$PROJECT_DIR$/lib/rita.jar!/rita/RiWordNet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-874">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/scala/Tuple2.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -762,13 +679,6 @@
     <entry file="file://$PROJECT_DIR$/data_ids/ids.txt" />
     <entry file="file://$PROJECT_DIR$/finalData/medWords.txt" />
     <entry file="file://$PROJECT_DIR$/output/part-00000" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -793,12 +703,6 @@
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/output/wordnet/part-00002" />
     <entry file="file://$PROJECT_DIR$/output/wordnet/part-00001" />
@@ -839,20 +743,10 @@
     <entry file="file://$PROJECT_DIR$/mental_illness_ids/ids.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/medWords/medWords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="568">
           <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-          <folding>
-            <element signature="e#21#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,9 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -872,10 +763,31 @@
     <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topWords.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topNGRAMs.txt">
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topLemWords.txt">
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_7.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_8.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mental_illness_abstracts/abstract_9.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/NGRAM.scala">
@@ -885,9 +797,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topNGRAMs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="179" column="52" selection-start-line="179" selection-start-column="52" selection-end-line="179" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TF_IDF/wordStats/topLemWords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/medWords/medWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/CoreNLP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="-125">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -895,10 +831,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/TF_IDF.scala">
+    <entry file="file://$PROJECT_DIR$/data/Word2Vec/topWordsWord2Vec.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Word2Vec/topNGRAMWord2Vec.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Word2Vec/topLemWord2Vec.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3792">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="9085">
+          <caret line="395" column="25" lean-forward="true" selection-start-line="395" selection-start-column="25" selection-end-line="395" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/word2vec/W2V.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="12" lean-forward="true" selection-end-line="128" />
         </state>
       </provider>
     </entry>
