@@ -78,7 +78,7 @@ For the 30 abstracts, the medical words within them were found using NCBI and Pu
 
 ## Top 20 TF-IDF
 
-From the abstracts the Top 20 Term Frequency(TF) and Inverse Document Frequency(IDF) words were found. The top 20 TF-IDF for the abstracts as they are were found, the top 20 TF-IDF for the lemmatized words within the abstract were found, and the top 20 TF-IDF for the NGRAMS of the abstracts' words were found.
+From the abstracts the Top 20 Term Frequency(TF) and Inverse Document Frequency(IDF) words were found. The top 20 TF-IDF for the abstracts were found, the top 20 TF-IDF for the lemmatized words within the abstract were found, and the top 20 TF-IDF for the NGRAMS of the abstracts' words were found.
 
 ![wordsTop20TFIDF](../docs/Lab2/wordsTop20TFIDF/wordsTop20TFIDF.gif)
 
@@ -89,6 +89,24 @@ From the abstracts the Top 20 Term Frequency(TF) and Inverse Document Frequency(
 From each of the Top 20 TF-IDF groups found in the previous step, each word in the top 20 was processed to find their respective vector.
 
 ![getWord2Vec](../docs/Lab2/word2vec/getWord2Vec.gif)
+
+
+
+## Top 20 TF-IDF Medical Words
+
+From the abstracts the Top 20 TF for the medical words and the IDF medical words were found.
+
+![medWordsTop20TFIDF](../docs/Lab2/wordsTop20TFIDF/medWordsTop20TFIDF.gif)
+
+
+
+## Top 20 TF-IDF Word2Vec Medical Words
+
+From the Top 20 TF-IDF group found in the previous step, each word in the top 20 was processed to find their respective vector.
+
+![getWord2VecMedWords](../docs/Lab2/word2vec/getWord2VecMedWords.gif)
+
+
 
 # Source Code
 
