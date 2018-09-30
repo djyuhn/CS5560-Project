@@ -15,13 +15,15 @@ object TF_IDF {
 
     System.setProperty("hadoop.home.dir", "C:\\winutils")
 
+    val inputPath = "data/medWordsSeparate"
+
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
 
     val sc = new SparkContext(sparkConf)
     val ngramValue = 3 // Value of ngram specified
 
     //Reading the Text File
-    val documents = sc.wholeTextFiles("mental_illness_abstracts", 10)
+    val documents = sc.wholeTextFiles(inputPath, 10)
     val abstracts = documents.map(abs => {
       abs._2
     }).cache()

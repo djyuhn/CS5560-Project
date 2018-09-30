@@ -1,6 +1,6 @@
 package NCBO_BioNLP
 
-import java.io.{BufferedWriter, FileWriter}
+import java.io.{BufferedWriter, File, FileWriter}
 
 import org.apache.spark.{SparkConf, SparkContext}
 
@@ -28,7 +28,7 @@ object SparkBioNLP {
 
     val sparkIDs=input.flatMap(ids=> {ids.split("[\r\n]+")}).map(id => {
       RESTClientGet.getMedWords(id).mkString("")
-    }).cache()
+    })
 
     sparkIDs.saveAsTextFile("output/medWords")
 
@@ -37,7 +37,7 @@ object SparkBioNLP {
     val medicalWordsWriter = new BufferedWriter(new FileWriter("data/medWords/medWords.txt"))
 
     o.foreach(list => {
-        medicalWordsWriter.append(list)
+      medicalWordsWriter.append(list)
     })
 
     medicalWordsWriter.close()
