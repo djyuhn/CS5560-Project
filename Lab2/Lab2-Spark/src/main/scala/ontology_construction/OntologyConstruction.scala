@@ -84,13 +84,13 @@ object OntologyConstruction {
     tripletsWriter.close()
 
     // Handle ObjectProperties
-    val subjCatTuple = sc.textFile("data/ontology/subjects/categorizedSubjects.txt").map(line => {
+    val subjCatTuple = sc.textFile("data/ontology/subjects/customGroupSubjects.txt").map(line => {
       val splitLine = line.split("\t")
       (splitLine(0), splitLine(1))
     })
     val subjCatBroadCast = sc.broadcast(subjCatTuple.collectAsMap())
 
-    val objCatTuple = sc.textFile("data/ontology/objects/categorizedObjects.txt").map(line => {
+    val objCatTuple = sc.textFile("data/ontology/objects/customGroupObjects.txt").map(line => {
       val splitLine = line.split("\t")
       (splitLine(0), splitLine(1))
     })
@@ -122,7 +122,7 @@ object OntologyConstruction {
     objPropWriter.close()
 
     // Handle Subjects & Objects
-    val subjectsFile = sc.textFile("data/ontology/subjects/categorizedSubjects.txt")
+    val subjectsFile = sc.textFile("data/ontology/subjects/customGroupSubjects.txt")
     val subjects = subjectsFile.map(line => {
       val splitLine = line.split("\t")
       for( a <- 0 until splitLine.size) {
@@ -131,7 +131,7 @@ object OntologyConstruction {
       splitLine
     }).cache()
 
-    val objectsFile = sc.textFile("data/ontology/objects/categorizedObjects.txt")
+    val objectsFile = sc.textFile("data/ontology/objects/customGroupObjects.txt")
     val objects = objectsFile.map(line => {
       val splitLine = line.split("\t")
       for( a <- 0 until splitLine.size) {

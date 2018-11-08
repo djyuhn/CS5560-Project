@@ -83,7 +83,7 @@ object W2V {
 
         for ((synonym, cosineSimilarity) <- synonyms) {
           println(word + s": $synonym $cosineSimilarity")
-          outputWriter.write(word + s": $synonym $cosineSimilarity" + "\n")
+          outputWriter.write(word + s"\t$synonym\t$cosineSimilarity" + "\n")
         }
       })
 
@@ -109,7 +109,7 @@ object W2V {
 
         for ((synonym, cosineSimilarity) <- synonyms) {
           println(word + s": $synonym $cosineSimilarity")
-          outputWriter.write(word + s": $synonym $cosineSimilarity" + "\n")
+          outputWriter.write(word + s"\t$synonym\t$cosineSimilarity" + "\n")
         }
       })
 
